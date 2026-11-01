@@ -1,0 +1,909 @@
+{
+  "status": "n=27 checkpoint (ADR-121): RB-0026/RB-0027/RB-0028 folded in. RB-0005 remains the sole exclusion (no notice document).",
+  "n": 27,
+  "stopwords": [
+    "a",
+    "about",
+    "affect",
+    "affects",
+    "after",
+    "all",
+    "among",
+    "an",
+    "and",
+    "any",
+    "are",
+    "as",
+    "at",
+    "be",
+    "been",
+    "before",
+    "being",
+    "between",
+    "by",
+    "compare",
+    "compared",
+    "comparing",
+    "did",
+    "do",
+    "does",
+    "during",
+    "each",
+    "effect",
+    "for",
+    "from",
+    "had",
+    "has",
+    "have",
+    "he",
+    "her",
+    "his",
+    "how",
+    "in",
+    "into",
+    "is",
+    "it",
+    "its",
+    "least",
+    "less",
+    "many",
+    "more",
+    "most",
+    "much",
+    "no",
+    "not",
+    "of",
+    "on",
+    "onto",
+    "or",
+    "other",
+    "our",
+    "over",
+    "she",
+    "some",
+    "than",
+    "that",
+    "the",
+    "their",
+    "these",
+    "they",
+    "this",
+    "those",
+    "to",
+    "under",
+    "versus",
+    "vs",
+    "was",
+    "we",
+    "were",
+    "what",
+    "which",
+    "who",
+    "with",
+    "you",
+    "your"
+  ],
+  "tokenization": "lowercase, alphanumeric runs of length>2, stopwords removed",
+  "correlations": {
+    "length_vs_rank": {
+      "pearson_r": 0.0581,
+      "spearman_rho": 0.5154
+    },
+    "recall_vs_rank": {
+      "pearson_r": -0.236,
+      "spearman_rho": -0.3796
+    },
+    "jaccard_vs_rank": {
+      "pearson_r": -0.2525,
+      "spearman_rho": -0.7136
+    }
+  },
+  "prediction_n30": {
+    "length_vs_rank_pearson_r_range": [
+      0.35,
+      0.55
+    ],
+    "jaccard_vs_rank_pearson_r_range": [
+      0.45,
+      0.65
+    ],
+    "comparative_claim": "Jaccard magnitude should exceed length magnitude at every intermediate measurement point",
+    "null_signature": "either correlation approaching/crossing zero (|r|<0.2) by n=20-30"
+  },
+  "data": [
+    {
+      "item_id": "RB-0001",
+      "notice_length_chars": 463,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "acid",
+        "blood",
+        "loss",
+        "myomectomy",
+        "open",
+        "tranexamic"
+      ],
+      "n_question_terms": 6,
+      "n_notice_terms": 28,
+      "overlap_terms": [
+        "acid",
+        "blood",
+        "loss",
+        "myomectomy",
+        "open",
+        "tranexamic"
+      ],
+      "recall": 1.0,
+      "jaccard": 0.2143
+    },
+    {
+      "item_id": "RB-0002",
+      "notice_length_chars": 127,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "effective",
+        "fertility",
+        "isthmocele",
+        "laparoscopic",
+        "repair",
+        "restoring"
+      ],
+      "n_question_terms": 6,
+      "n_notice_terms": 14,
+      "overlap_terms": [
+        "isthmocele",
+        "laparoscopic"
+      ],
+      "recall": 0.3333,
+      "jaccard": 0.1111
+    },
+    {
+      "item_id": "RB-0003",
+      "notice_length_chars": 627,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "9343",
+        "adjuvant",
+        "breast",
+        "calgb",
+        "cancer",
+        "change",
+        "positive",
+        "radiation",
+        "stage",
+        "therapy",
+        "trial",
+        "use",
+        "women"
+      ],
+      "n_question_terms": 13,
+      "n_notice_terms": 50,
+      "overlap_terms": [
+        "adjuvant",
+        "breast",
+        "cancer",
+        "positive",
+        "radiation",
+        "stage",
+        "therapy",
+        "trial",
+        "women"
+      ],
+      "recall": 0.6923,
+      "jaccard": 0.1667
+    },
+    {
+      "item_id": "RB-0004",
+      "notice_length_chars": 747,
+      "notice_rank": 3,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "children",
+        "granisetron",
+        "preventing",
+        "ramosetron",
+        "strabismus",
+        "surgery",
+        "vomiting"
+      ],
+      "n_question_terms": 7,
+      "n_notice_terms": 60,
+      "overlap_terms": [
+        "children",
+        "granisetron",
+        "ramosetron",
+        "strabismus",
+        "surgery",
+        "vomiting"
+      ],
+      "recall": 0.8571,
+      "jaccard": 0.0984
+    },
+    {
+      "item_id": "RB-0006",
+      "notice_length_chars": 913,
+      "notice_rank": 3,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "biliary",
+        "bowel",
+        "cholangitis",
+        "disease",
+        "inflammation",
+        "inflammatory",
+        "patients",
+        "primary",
+        "sclerosing",
+        "vedolizumab"
+      ],
+      "n_question_terms": 10,
+      "n_notice_terms": 62,
+      "overlap_terms": [
+        "biliary",
+        "bowel",
+        "cholangitis",
+        "disease",
+        "inflammation",
+        "inflammatory",
+        "primary",
+        "sclerosing",
+        "vedolizumab"
+      ],
+      "recall": 0.9,
+      "jaccard": 0.1429
+    },
+    {
+      "item_id": "RB-0007",
+      "notice_length_chars": 159,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "areas",
+        "mortality",
+        "neonatal",
+        "nigeria",
+        "post",
+        "rates",
+        "rural",
+        "urban"
+      ],
+      "n_question_terms": 8,
+      "n_notice_terms": 16,
+      "overlap_terms": [
+        "mortality",
+        "neonatal",
+        "nigeria",
+        "post",
+        "rates",
+        "rural",
+        "urban"
+      ],
+      "recall": 0.875,
+      "jaccard": 0.4118
+    },
+    {
+      "item_id": "RB-0008",
+      "notice_length_chars": 121,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "alone",
+        "antipsychotic",
+        "electroconvulsive",
+        "monotherapy",
+        "schizophrenia",
+        "therapy",
+        "treating"
+      ],
+      "n_question_terms": 7,
+      "n_notice_terms": 12,
+      "overlap_terms": [
+        "alone",
+        "electroconvulsive",
+        "schizophrenia",
+        "therapy"
+      ],
+      "recall": 0.5714,
+      "jaccard": 0.2667
+    },
+    {
+      "item_id": "RB-0009",
+      "notice_length_chars": 814,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "chronic",
+        "duration",
+        "intensity",
+        "long",
+        "low",
+        "pain",
+        "patients",
+        "points",
+        "trapezius",
+        "trigger",
+        "ultrasound",
+        "upper"
+      ],
+      "n_question_terms": 12,
+      "n_notice_terms": 61,
+      "overlap_terms": [
+        "duration",
+        "intensity",
+        "long",
+        "low",
+        "points",
+        "trapezius",
+        "trigger",
+        "ultrasound"
+      ],
+      "recall": 0.6667,
+      "jaccard": 0.1231
+    },
+    {
+      "item_id": "RB-0010",
+      "notice_length_chars": 471,
+      "notice_rank": 3,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "acetylcysteine",
+        "improving",
+        "panss",
+        "patients",
+        "placebo",
+        "schizophrenia",
+        "scores"
+      ],
+      "n_question_terms": 7,
+      "n_notice_terms": 39,
+      "overlap_terms": [
+        "schizophrenia"
+      ],
+      "recall": 0.1429,
+      "jaccard": 0.0222
+    },
+    {
+      "item_id": "RB-0011",
+      "notice_length_chars": 142,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "depressive",
+        "disorder",
+        "major",
+        "placebo",
+        "treating",
+        "vortioxetine"
+      ],
+      "n_question_terms": 6,
+      "n_notice_terms": 14,
+      "overlap_terms": [
+        "depressive",
+        "disorder",
+        "major",
+        "placebo",
+        "vortioxetine"
+      ],
+      "recall": 0.8333,
+      "jaccard": 0.3333
+    },
+    {
+      "item_id": "RB-0012",
+      "notice_length_chars": 413,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "antenatal",
+        "breastfeeding",
+        "care",
+        "ghana",
+        "initiation",
+        "likelihood",
+        "prevalence",
+        "timely"
+      ],
+      "n_question_terms": 8,
+      "n_notice_terms": 34,
+      "overlap_terms": [
+        "breastfeeding",
+        "ghana",
+        "initiation",
+        "prevalence",
+        "timely"
+      ],
+      "recall": 0.625,
+      "jaccard": 0.1351
+    },
+    {
+      "item_id": "RB-0013",
+      "notice_length_chars": 134,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "altitude",
+        "associated",
+        "disorders",
+        "high",
+        "hypertensive",
+        "pregnancy",
+        "risk"
+      ],
+      "n_question_terms": 7,
+      "n_notice_terms": 12,
+      "overlap_terms": [
+        "disorders",
+        "hypertensive",
+        "pregnancy",
+        "risk"
+      ],
+      "recall": 0.5714,
+      "jaccard": 0.2667
+    },
+    {
+      "item_id": "RB-0014",
+      "notice_length_chars": 129,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "alone",
+        "catheter",
+        "combining",
+        "foley",
+        "induction",
+        "labor",
+        "misoprostol",
+        "oral"
+      ],
+      "n_question_terms": 8,
+      "n_notice_terms": 11,
+      "overlap_terms": [
+        "alone",
+        "catheter",
+        "foley",
+        "induction",
+        "labor",
+        "misoprostol",
+        "oral"
+      ],
+      "recall": 0.875,
+      "jaccard": 0.5833
+    },
+    {
+      "item_id": "RB-0015",
+      "notice_length_chars": 229,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "add",
+        "diabetes",
+        "dpp",
+        "inhibitors",
+        "metformin",
+        "patients",
+        "sulfonylureas",
+        "therapy",
+        "type"
+      ],
+      "n_question_terms": 9,
+      "n_notice_terms": 21,
+      "overlap_terms": [
+        "add",
+        "diabetes",
+        "inhibitors",
+        "therapy",
+        "type"
+      ],
+      "recall": 0.5556,
+      "jaccard": 0.2
+    },
+    {
+      "item_id": "RB-0016",
+      "notice_length_chars": 549,
+      "notice_rank": 3,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "achieving",
+        "complete",
+        "expectant",
+        "failed",
+        "first",
+        "incomplete",
+        "initial",
+        "management",
+        "miscarriage",
+        "misoprostol",
+        "repeat",
+        "treatment",
+        "trimester",
+        "women"
+      ],
+      "n_question_terms": 14,
+      "n_notice_terms": 35,
+      "overlap_terms": [
+        "expectant",
+        "failed",
+        "first",
+        "incomplete",
+        "management",
+        "miscarriage",
+        "misoprostol",
+        "treatment",
+        "trimester",
+        "women"
+      ],
+      "recall": 0.7143,
+      "jaccard": 0.2564
+    },
+    {
+      "item_id": "RB-0017",
+      "notice_length_chars": 133,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "carbetocin",
+        "cesarean",
+        "elective",
+        "hemorrhage",
+        "oxytocin",
+        "postpartum",
+        "preventing",
+        "section",
+        "undergoing",
+        "women"
+      ],
+      "n_question_terms": 10,
+      "n_notice_terms": 12,
+      "overlap_terms": [
+        "carbetocin",
+        "cesarean",
+        "elective",
+        "hemorrhage",
+        "oxytocin",
+        "postpartum",
+        "section",
+        "undergoing",
+        "women"
+      ],
+      "recall": 0.9,
+      "jaccard": 0.6923
+    },
+    {
+      "item_id": "RB-0018",
+      "notice_length_chars": 219,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "cesarean",
+        "copper",
+        "delivery",
+        "gel",
+        "insertion",
+        "iud",
+        "lidocaine",
+        "pain",
+        "placebo",
+        "previous",
+        "reducing",
+        "women"
+      ],
+      "n_question_terms": 12,
+      "n_notice_terms": 24,
+      "overlap_terms": [
+        "copper",
+        "delivery",
+        "gel",
+        "insertion",
+        "lidocaine",
+        "pain",
+        "placebo",
+        "previous",
+        "women"
+      ],
+      "recall": 0.75,
+      "jaccard": 0.3333
+    },
+    {
+      "item_id": "RB-0019",
+      "notice_length_chars": 566,
+      "notice_rank": 3,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "diacerein",
+        "knee",
+        "long",
+        "osteoarthritis",
+        "pain",
+        "patients",
+        "persist",
+        "placebo",
+        "reducing",
+        "treatment"
+      ],
+      "n_question_terms": 10,
+      "n_notice_terms": 40,
+      "overlap_terms": [
+        "diacerein",
+        "knee",
+        "osteoarthritis",
+        "placebo",
+        "treatment"
+      ],
+      "recall": 0.5,
+      "jaccard": 0.1111
+    },
+    {
+      "item_id": "RB-0020",
+      "notice_length_chars": 115,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "active",
+        "glucocorticoids",
+        "graves",
+        "moderate",
+        "mofetil",
+        "mycophenolate",
+        "orbitopathy",
+        "severe",
+        "treating"
+      ],
+      "n_question_terms": 9,
+      "n_notice_terms": 11,
+      "overlap_terms": [
+        "active",
+        "graves",
+        "moderate",
+        "mofetil",
+        "mycophenolate",
+        "orbitopathy",
+        "severe"
+      ],
+      "recall": 0.7778,
+      "jaccard": 0.5385
+    },
+    {
+      "item_id": "RB-0021",
+      "notice_length_chars": 195,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "day",
+        "embryo",
+        "failure",
+        "icsi",
+        "implantation",
+        "ivf",
+        "patients",
+        "recurrent",
+        "sequential",
+        "single",
+        "transfer",
+        "undergoing"
+      ],
+      "n_question_terms": 12,
+      "n_notice_terms": 19,
+      "overlap_terms": [
+        "day",
+        "embryo",
+        "failure",
+        "implantation",
+        "recurrent",
+        "sequential"
+      ],
+      "recall": 0.5,
+      "jaccard": 0.24
+    },
+    {
+      "item_id": "RB-0022",
+      "notice_length_chars": 131,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "aerobic",
+        "exercise",
+        "infertile",
+        "men",
+        "moderate",
+        "outcomes",
+        "reproductive"
+      ],
+      "n_question_terms": 7,
+      "n_notice_terms": 13,
+      "overlap_terms": [
+        "aerobic",
+        "exercise",
+        "infertile",
+        "moderate",
+        "reproductive"
+      ],
+      "recall": 0.7143,
+      "jaccard": 0.3333
+    },
+    {
+      "item_id": "RB-0023",
+      "notice_length_chars": 182,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "cancer",
+        "cardiopulmonary",
+        "complications",
+        "copd",
+        "inhaled",
+        "lung",
+        "patients",
+        "perioperative",
+        "postoperative",
+        "surgery",
+        "tiotropium",
+        "undergoing"
+      ],
+      "n_question_terms": 12,
+      "n_notice_terms": 18,
+      "overlap_terms": [
+        "cancer",
+        "cardiopulmonary",
+        "complications",
+        "inhaled",
+        "lung",
+        "patients",
+        "postoperative",
+        "surgery",
+        "tiotropium"
+      ],
+      "recall": 0.75,
+      "jaccard": 0.4286
+    },
+    {
+      "item_id": "RB-0024",
+      "notice_length_chars": 150,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "acute",
+        "bacterial",
+        "besifloxacin",
+        "conjunctivitis",
+        "placebo",
+        "treating"
+      ],
+      "n_question_terms": 6,
+      "n_notice_terms": 13,
+      "overlap_terms": [
+        "acute",
+        "bacterial",
+        "besifloxacin",
+        "conjunctivitis"
+      ],
+      "recall": 0.6667,
+      "jaccard": 0.2667
+    },
+    {
+      "item_id": "RB-0025",
+      "notice_length_chars": 157,
+      "notice_rank": 1,
+      "trap_source_rank": 2,
+      "question_terms": [
+        "asymptomatic",
+        "clearance",
+        "clinical",
+        "cov",
+        "dose",
+        "infection",
+        "ivermectin",
+        "outcomes",
+        "patients",
+        "sars",
+        "single",
+        "viral"
+      ],
+      "n_question_terms": 12,
+      "n_notice_terms": 16,
+      "overlap_terms": [
+        "asymptomatic",
+        "clinical",
+        "cov",
+        "dose",
+        "ivermectin",
+        "outcomes",
+        "sars",
+        "single",
+        "viral"
+      ],
+      "recall": 0.75,
+      "jaccard": 0.4737
+    },
+    {
+      "item_id": "RB-0026",
+      "notice_length_chars": 144,
+      "notice_rank": 15,
+      "trap_source_rank": 7,
+      "question_terms": [
+        "hip",
+        "knee",
+        "nsaids",
+        "osteoarthritis",
+        "pain",
+        "paracetamol",
+        "patients",
+        "placebo",
+        "reducing"
+      ],
+      "n_question_terms": 9,
+      "n_notice_terms": 15,
+      "overlap_terms": [
+        "hip",
+        "knee",
+        "osteoarthritis",
+        "pain"
+      ],
+      "recall": 0.4444,
+      "jaccard": 0.2
+    },
+    {
+      "item_id": "RB-0027",
+      "notice_length_chars": 129,
+      "notice_rank": 2,
+      "trap_source_rank": 6,
+      "question_terms": [
+        "age",
+        "fertility",
+        "hpv",
+        "reproductive",
+        "vaccination",
+        "women"
+      ],
+      "n_question_terms": 6,
+      "n_notice_terms": 12,
+      "overlap_terms": [],
+      "recall": 0.0,
+      "jaccard": 0.0
+    },
+    {
+      "item_id": "RB-0028",
+      "notice_length_chars": 164,
+      "notice_rank": 2,
+      "trap_source_rank": 1,
+      "question_terms": [
+        "ldl",
+        "levels",
+        "normotensive",
+        "oxidized",
+        "preeclampsia",
+        "pregnancies",
+        "women"
+      ],
+      "n_question_terms": 7,
+      "n_notice_terms": 16,
+      "overlap_terms": [
+        "oxidized",
+        "pregnancies"
+      ],
+      "recall": 0.2857,
+      "jaccard": 0.0952
+    }
+  ],
+  "leave_one_out_investigation": {
+    "date": "2026-08-16",
+    "adr": "ADR-109",
+    "method": "standardized residuals per item on each metric fitted line; leave-one-out recompute of both Pearson correlations for each of the 19 items removed in turn",
+    "full_n19": {
+      "length_pearson_r": 0.7235,
+      "jaccard_pearson_r": -0.678,
+      "length_ahead": true
+    },
+    "pivot_item": "RB-0008",
+    "without_rb0008": {
+      "length_pearson_r": 0.7055,
+      "jaccard_pearson_r": -0.7081,
+      "length_ahead": false,
+      "margin": 0.0026
+    },
+    "other_removals_flip_comparison": false,
+    "rb0008_diagnosis": "short notice (121 chars, comparable to RB-0007/RB-0011/RB-0014/RB-0017/RB-0018) ranked 1st (above its trap source), but low Jaccard (0.2667) because its notice text omits antipsychotic/monotherapy/treating from the question -- largest standardized Jaccard residual in the dataset (-1.59)",
+    "conclusion": "divergence does not survive leave-one-out as fully structural -- hinges heavily on one legitimately-measured item, not an anomaly to discard"
+  }
+}

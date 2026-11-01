@@ -1,0 +1,31 @@
+domain,record_id,claim_short,real_search_result,what_was_found
+Pharmacology,42874,Mycophenolate mofetil / Graves orbitopathy,found,EUGOGO 2021 guideline explicitly recommends mycophenolate+IVMP as first-line
+Pharmacology,46294,Letrozole / PCOS ovulation induction,found,ESHRE 2018 guideline recommends letrozole first-line; multiple 2024-25 SRs
+Pharmacology,24742,Nifedipine+sildenafil / threatened preterm labour,uncertain,"broader nifedipine Cochrane evidence exists, but the retracted paper was itself the only SR of the sildenafil-combination specifically -- no independent replacement found"
+Pharmacology,52214,Corticosteroid+HA injection / knee OA,found,OARSI/ACR/AAOS guidelines cover intra-articular injections for knee OA
+Pharmacology,2404,Vedolizumab / PSC in IBD,found,multiple systematic reviews and meta-analyses specifically on biologics for PSC-IBD
+Pharmacology,22856,Sildenafil / oligohydramnios,found,Cochrane review 'Interventions affecting the nitric oxide pathway...for FGR' covers this
+Pharmacology,68058,Metformin / COVID-19 (TOGETHER trial),found,NIH COVID-19 Treatment Guidelines panel + multiple SRs address metformin directly
+Pharmacology,35863,Tramadol / premature ejaculation,found,EAU guideline explicitly discusses tramadol for PE
+Pharmacology,39214,Sofosbuvir+ribavirin / HCV genotype 4,found,AASLD/IDSA guidance covers sofosbuvir-based regimens for genotype 4
+Pharmacology,5695,Finasteride/dutasteride / pre-TURP bleeding,found,multiple systematic reviews and meta-analyses directly on this exact question
+Obstetrics/Gynecology,42937,Uterine artery ligation / placenta previa,found,systematic reviews on hemorrhage-control interventions for placenta previa/accreta
+Obstetrics/Gynecology,28623,Pertuzumab+trastuzumab / HER2+ breast cancer (TBCRC026),found,NCCN guideline explicitly recommends dual HER2 blockade neoadjuvant regimens
+Obstetrics/Gynecology,47666,Delayed vs early pushing / 2nd stage labour,found,Cochrane review 'Pushing/bearing down methods for the second stage of labour' -- exact match
+Obstetrics/Gynecology,17019,Tranexamic acid / myomectomy blood loss,found,multiple systematic reviews and meta-analyses directly on this exact question
+Obstetrics/Gynecology,69877,Labor scale vs WHO partograph,found,broader systematic reviews on labor-monitoring tool comparisons; WHO Labour Care Guide literature
+Obstetrics/Gynecology,52159,Sequential vs day3 vs day5 embryo transfer,uncertain,retraction left a real evidence gap for this specific comparison per the search results themselves ('readers should be cautious about the strength of evidence in this specific area')
+Obstetrics/Gynecology,70240,Antioxidants / GDM fetal outcome,found,"2025 systematic review and meta-analysis directly on this, post-dates the retraction"
+Obstetrics/Gynecology,71090,Vertical vs horizontal vaginal cuff closure / sexual function,found,multiple systematic reviews on cuff closure technique and outcomes including sexual function
+Obstetrics/Gynecology,52582,Misoprostol vs expectant management / miscarriage,found,Cochrane review 'Medical treatments for incomplete miscarriage' -- exact match
+Obstetrics/Gynecology,16626,Rural-urban post-neonatal mortality / Nigeria,not_found,related Nigeria rural-urban health disparity studies exist but no institutional synthesis addressing this specific claim
+Rehabilitation/Therapy,45529,Diacerein / knee OA,found,multiple systematic reviews and network meta-analyses directly on this
+Rehabilitation/Therapy,52215,Multidisciplinary biopsychosocial program / chronic low back pain,found,Cochrane review 'Multidisciplinary biopsychosocial rehabilitation for chronic low back pain' -- exact match
+Rehabilitation/Therapy,40383,Non-invasive vagus nerve stimulation / Parkinson's disease,found,"multiple 2024-2025 systematic reviews and meta-analyses specifically on this, post-date retraction"
+Rehabilitation/Therapy,6531,Risedronate / hip fracture in neurological disease,uncertain,"general risedronate/bisphosphonate hip-fracture evidence is guideline-covered, but no independent post-retraction synthesis found for the specific neurological-disease subpopulation"
+Rehabilitation/Therapy,39040,Multimodal exercise+CBT / failed back surgery syndrome,uncertain,"broader CBT+exercise evidence for chronic low back pain exists, but not specifically for the narrower failed-back-surgery-syndrome population"
+Rehabilitation/Therapy,17937,Sacral nerve stimulation / overactive bladder cost-effectiveness,found,NICE guidance + multiple cost-effectiveness systematic reviews
+Rehabilitation/Therapy,53983,Anti-CGRP monoclonal antibodies / IIH headache,uncertain,scattered primary studies with conflicting findings; no systematic review or guideline synthesis found specifically for this narrow population
+Rehabilitation/Therapy,18004,Topical oxymetazoline / rosacea (REVEAL trials),found,FDA-approved drug (regulatory route) plus multiple non-retracted companion REVEAL trial publications
+Rehabilitation/Therapy,38885,Multimodal exercise+CBT / chronic neck pain,found,Cochrane review 'Cognitive-behavioural treatment for neck pain' plus broader physiotherapy/CBT systematic reviews
+Rehabilitation/Therapy,20767,Adjuvant radiotherapy / advanced-stage DLBCL,found,ESMO and NCCN guidelines both address consolidative radiotherapy for DLBCL (with some disagreement on when)

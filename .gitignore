@@ -1,0 +1,55 @@
+# --- data ---
+# The raw Retraction Watch download and the rebuilt corpus/index are never committed
+# (see README: not redistributed / regenerable). The interim files that the manuscript
+# cites ARE included and are listed explicitly below.
+data/raw/*
+!data/raw/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+!data/interim/eval/
+data/interim/eval/*
+!data/interim/eval/model_responses.jsonl
+!data/interim/eval/faithfulness_check_nli.json
+!data/interim/eval/correctness_labeling_key.json
+!data/interim/eval/m3_labeling_key.json
+!data/interim/phase5_part_b_raw_responses_v2.jsonl
+!data/interim/phase5_scaled_sample.json
+!data/interim/phase5_scaled_sample_v1_contaminated.json
+!data/interim/phase5_scaled_sample_v2_retraction_only.json
+!data/interim/phase5_title_mismatch_esummary_cache.json
+!data/interim/corpus/
+data/interim/corpus/*
+!data/interim/corpus/CORPUS_FREEZE.json
+*.duckdb
+
+# --- secrets ---
+.env
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+build/
+dist/
+
+# --- caches ---
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.cache/
+
+# --- model weights / embeddings ---
+*.faiss
+*.index
+models/
+.sentence_transformers/
+huggingface_cache/
+
+# --- LaTeX build artifacts ---
+paper/latex/*.aux
+paper/latex/*.log
+paper/latex/*.bbl
+paper/latex/*.blg
+paper/latex/*.out
+paper/latex/*.toc

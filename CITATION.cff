@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use RetractionBench, please cite it as below."
+title: "RetractionBench: Evaluating Superseded-Evidence Handling in Medical Retrieval-Augmented Generation"
+type: software
+authors:
+  - family-names: Islam
+    given-names: Md. Mahbubul
+    orcid: "https://orcid.org/0009-0009-1910-1980"
+    affiliation: "AI & Robotics Laboratory, Department of AI & Big Data, al-Farabi Kazakh National University"
+repository-code: "https://github.com/Islam-DS/retractionbench"
+license: MIT
+date-released: "2026-11-01"
+keywords:
+  - retraction
+  - research integrity
+  - retrieval-augmented generation
+  - PubMed
+  - benchmark

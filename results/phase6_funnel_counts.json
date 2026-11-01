@@ -1,0 +1,47 @@
+{
+ "screening_steps": [
+  {
+   "step": "Retraction Watch rows at ingestion",
+   "n_records": 71540
+  },
+  {
+   "step": "Non-blank records",
+   "n_records": 71325
+  },
+  {
+   "step": "Retraction-nature records",
+   "n_records": 66081
+  },
+  {
+   "step": "Retracted 2016 or later",
+   "n_records": 47622
+  },
+  {
+   "step": "Original paper has a resolvable PubMed ID",
+   "n_records": 24261
+  },
+  {
+   "step": "Reason screen: tier_1_clean",
+   "n_records": 2164
+  },
+  {
+   "step": "Claim-type screen: clinical claim",
+   "n_records": 1462
+  }
+ ],
+ "three_domain_pool": {
+  "rows": 364,
+  "distinct_papers": 296,
+  "rows_by_domain": {
+   "(HSC) Medicine - Pharmacology": 156,
+   "(HSC) Medicine - Obstetrics/Gynecology": 119,
+   "(HSC) Medicine - Rehabilitation/Therapy": 89
+  }
+ },
+ "annotation": {
+  "candidates_evaluated": 40,
+  "included": 28,
+  "rejected": 6,
+  "deferred": 6
+ }
+}

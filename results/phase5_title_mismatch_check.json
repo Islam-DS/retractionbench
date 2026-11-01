@@ -1,0 +1,50 @@
+{
+  "git_hash": "88309ed802fa074547589613f87f682c55f68c5c",
+  "threshold": 0.4,
+  "n_checked_part_a": 296,
+  "n_checked_part_b": 300,
+  "n_flagged_part_a": 2,
+  "n_flagged_part_b": 3,
+  "flagged": [
+    {
+      "pool": "Part A (curated pool)",
+      "pmid": "38355237",
+      "rw_title": "Predicting chorioamnionitis using AI-based methods: a retrospective cohort study",
+      "pubmed_title": "",
+      "similarity": 0.0,
+      "pubmed_lookup_empty": true
+    },
+    {
+      "pool": "Part A (curated pool)",
+      "pmid": "35593880",
+      "rw_title": "Effectiveness of anti-CGRP monoclonal antibodies for persistent headaches in patients with idiopathic intracranial hypertension",
+      "pubmed_title": "American Headache Society 64th Annual Scientific Meeting June 9-12, 2022 Denver, Colorado.",
+      "similarity": 0.28,
+      "pubmed_lookup_empty": false
+    },
+    {
+      "pool": "Part B v2 (broad sample)",
+      "pmid": "28451861",
+      "rw_title": "Abstract 256688 - SCOUT RADAR localization improves breast surgery operating room start times compared with wire localization",
+      "pubmed_title": "",
+      "similarity": 0.0,
+      "pubmed_lookup_empty": true
+    },
+    {
+      "pool": "Part B v2 (broad sample)",
+      "pmid": "12966832",
+      "rw_title": "End of a millennium - end of the simple mammary bypass. Two Arteriae mammariae internae - standard for the next millennium?",
+      "pubmed_title": "[End of the millennium - end of the single mammary artery graft? Two internal mammary arteries - standard for the next millennium? Early clinical results and analysis of risk factors in 1487 patients with bilateral internal mammary artery bypass].",
+      "similarity": 0.225,
+      "pubmed_lookup_empty": false
+    },
+    {
+      "pool": "Part B v2 (broad sample)",
+      "pmid": "1834920",
+      "rw_title": "A prospective randomized trial on the role of perioperative celecoxib administration for total knee arthroplasty: improving clinical outcomes",
+      "pubmed_title": "Preprotein translocase of Escherichia coli: solubilization, purification, and reconstitution of the integral membrane subunits SecY/E.",
+      "similarity": 0.341,
+      "pubmed_lookup_empty": false
+    }
+  ]
+}

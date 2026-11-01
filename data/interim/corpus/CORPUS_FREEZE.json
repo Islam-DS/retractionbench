@@ -1,0 +1,184 @@
+{
+  "freeze_date": "2026-08-09",
+  "freeze_datetime_utc": "2026-08-09T01:59:00.915610Z",
+  "record_count": 325167,
+  "content_sha256": "bbc8b01a600ab78b1b96b2d5310f81f1de1357bd23d2d883b8de2b81e182b174",
+  "domain_counts": {
+    "(HSC) Medicine - Pharmacology": 55086,
+    "(HSC) Medicine - Obstetrics/Gynecology": 12061,
+    "(HSC) Medicine - Rehabilitation/Therapy": 258020
+  },
+  "corpus_role_counts": {
+    "background": 325086,
+    "benchmark_source": 28,
+    "supersession_notice": 24,
+    "superseding_evidence": 29
+  },
+  "pub_year_min": 2000,
+  "pub_year_max": 2026,
+  "pub_year_distribution": {
+    "2000": 4972,
+    "2001": 5483,
+    "2002": 5955,
+    "2003": 6621,
+    "2004": 7343,
+    "2005": 7963,
+    "2006": 8795,
+    "2007": 9854,
+    "2008": 10407,
+    "2009": 11328,
+    "2010": 11423,
+    "2011": 12009,
+    "2012": 12981,
+    "2013": 13485,
+    "2014": 14544,
+    "2015": 15296,
+    "2016": 14765,
+    "2017": 15238,
+    "2018": 15083,
+    "2019": 15823,
+    "2020": 16569,
+    "2021": 15434,
+    "2022": 13358,
+    "2023": 12112,
+    "2024": 15860,
+    "2025": 18782,
+    "2026": 11975
+  },
+  "update_history": [
+    {
+      "update_date": "2026-08-09",
+      "update_datetime_utc": "2026-08-09T14:06:11.254980+00:00",
+      "reason": "RB-0002 (rw-6402) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy, not a background-pool rebuild.",
+      "records_added": 3,
+      "previous_record_count": 400542,
+      "previous_content_sha256": "6af1f70f6bac46ad1c37398ce8ffc28d683771187476abeef23f7cd1ee42cf59",
+      "new_record_count": 400545,
+      "new_content_sha256": "6dac0cdab227e317b432e620f42205df4a16c7422ee74b4dee97a914baedf873",
+      "hash_method_note": "Recomputed via retraction_bench.corpus.freeze.content_sha256 (ADR-054) -- a newly committed, permanent function. The original 2026-08-09 freeze hash was produced by an uncommitted one-off script; this and the original are not guaranteed byte-for-byte comparable in method, only in covering the same conceptual content (sorted pmid+abstract pairs)."
+    },
+    {
+      "update_date": "2026-08-09",
+      "update_datetime_utc": "2026-08-09T16:52:06.857545+00:00",
+      "reason": "RB-0003 (rw-7837) and RB-0004 (rw-1471) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 6,
+      "previous_record_count": 400545,
+      "previous_content_sha256": "6dac0cdab227e317b432e620f42205df4a16c7422ee74b4dee97a914baedf873",
+      "new_record_count": 400551,
+      "new_content_sha256": "3f7561a97e971e022c3bcb95f3d65740e456870b1c38a2b27d4d9693d1f2252a"
+    },
+    {
+      "update_date": "2026-08-09",
+      "update_datetime_utc": "2026-08-09T21:14:33.739710+00:00",
+      "reason": "RB-0005 through RB-0009 annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 13,
+      "skipped_evidence_no_pmid": [
+        [
+          "RB-0007",
+          "NDHS-2023-24"
+        ]
+      ],
+      "previous_record_count": 400551,
+      "previous_content_sha256": "3f7561a97e971e022c3bcb95f3d65740e456870b1c38a2b27d4d9693d1f2252a",
+      "new_record_count": 400564,
+      "new_content_sha256": "30dbe86e1fb96f028e481a94e1758ec25df751b720a35ea6aad5f269c17b4c89"
+    },
+    {
+      "update_date": "2026-08-11",
+      "update_datetime_utc": "2026-08-11T18:48:23.426378+00:00",
+      "reason": "RB-0010 through RB-0012 (items 18-20) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 9,
+      "skipped_evidence_no_pmid": [],
+      "previous_record_count": 400564,
+      "previous_content_sha256": "30dbe86e1fb96f028e481a94e1758ec25df751b720a35ea6aad5f269c17b4c89",
+      "new_record_count": 400573,
+      "new_content_sha256": "fcd845981974e22e445a40512cb2da6f3bc8ae6cc2819e15e4c52b04ce00b5e1"
+    },
+    {
+      "update_date": "2026-08-12",
+      "update_datetime_utc": "2026-08-12T08:33:19.802375+00:00",
+      "reason": "RB-0013 (item 21) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 3,
+      "skipped_evidence_no_pmid": [],
+      "previous_record_count": 400573,
+      "previous_content_sha256": "fcd845981974e22e445a40512cb2da6f3bc8ae6cc2819e15e4c52b04ce00b5e1",
+      "new_record_count": 400576,
+      "new_content_sha256": "73688e6a1c47a62c7cb255202355a33578869d6f0c421bece474cb321162168e"
+    },
+    {
+      "update_date": "2026-08-15",
+      "update_datetime_utc": "2026-08-15T15:24:41.234986+00:00",
+      "reason": "RB-0014 and RB-0015 (items 22-23) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 6,
+      "skipped_evidence_no_pmid": [],
+      "previous_record_count": 400576,
+      "previous_content_sha256": "73688e6a1c47a62c7cb255202355a33578869d6f0c421bece474cb321162168e",
+      "new_record_count": 400582,
+      "new_content_sha256": "93ebca8a9cb652c958f9862c2c8cc47976d81c90376e33630a92ecfe0a913781"
+    },
+    {
+      "update_date": "2026-08-16",
+      "update_datetime_utc": "2026-08-16T00:00:51.939915+00:00",
+      "reason": "RB-0016 through RB-0020 (items 24-28) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 15,
+      "skipped_evidence_no_pmid": [],
+      "previous_record_count": 400582,
+      "previous_content_sha256": "93ebca8a9cb652c958f9862c2c8cc47976d81c90376e33630a92ecfe0a913781",
+      "new_record_count": 400597,
+      "new_content_sha256": "5277c4e538700aad41b3daecfed7e42a06990920a322f29104b1c08a9846c916"
+    },
+    {
+      "update_date": "2026-08-16",
+      "update_datetime_utc": "2026-08-16T17:50:39.910823+00:00",
+      "reason": "RB-0021, RB-0022, RB-0023, RB-0024 (items 29, 30, 32, 33) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 12,
+      "skipped_evidence_no_pmid": [],
+      "previous_record_count": 400597,
+      "previous_content_sha256": "5277c4e538700aad41b3daecfed7e42a06990920a322f29104b1c08a9846c916",
+      "new_record_count": 400609,
+      "new_content_sha256": "44f88ebd7e7c260c8b2664b2b5939da98e7dab2cee5eb36d5afa4df25983bd57"
+    },
+    {
+      "update_date": "2026-08-16",
+      "update_datetime_utc": "2026-08-16T18:13:06.682775+00:00",
+      "reason": "RB-0025 (item31) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 3,
+      "skipped_evidence_no_pmid": [],
+      "previous_record_count": 400609,
+      "previous_content_sha256": "44f88ebd7e7c260c8b2664b2b5939da98e7dab2cee5eb36d5afa4df25983bd57",
+      "new_record_count": 400612,
+      "new_content_sha256": "8c5cd91a3af0d4c13cfb2b4b91990c705bf54aaf5476ff581e8a27895798ac38"
+    },
+    {
+      "update_date": "2026-08-18",
+      "update_datetime_utc": "2026-08-19T08:22:03.825650+00:00",
+      "reason": "RB-0026/RB-0027/RB-0028 (items 34-36) annotated after the original freeze; benchmark documents inserted individually per ADR-048's freeze policy.",
+      "records_added": 10,
+      "skipped_evidence_no_pmid": [],
+      "previous_record_count": 400612,
+      "previous_content_sha256": "8c5cd91a3af0d4c13cfb2b4b91990c705bf54aaf5476ff581e8a27895798ac38",
+      "new_record_count": 400622,
+      "new_content_sha256": "62ff4143c814b46ab44d8020c3ca0b1a0d840b43170e3010fd1f175e286fc01b"
+    },
+    {
+      "update_date": "2026-09-10",
+      "update_datetime_utc": "2026-09-10T14:48:14.697310+00:00",
+      "reason": "Two later, larger structural rebuilds -- a ~19% duplicate-row removal and a notice-creation-gate fix (both post-dating the incremental per-item insertions logged above) -- were never reflected in this manifest's top-level fields, leaving it stale relative to the corpus actually used for every retrieval-dependent result in the paper. This entry brings record_count and content_sha256 back in sync with the live data/interim/corpus/assembled_corpus.jsonl, computed via the same retraction_bench.corpus.freeze.content_sha256 function used throughout.",
+      "records_added": -75455,
+      "previous_record_count": 400622,
+      "previous_content_sha256": "8c5cd91a3af0d4c13cfb2b4b91990c705bf54aaf5476ff581e8a27895798ac38",
+      "new_record_count": 325167,
+      "new_content_sha256": "bbc8b01a600ab78b1b96b2d5310f81f1de1357bd23d2d883b8de2b81e182b174"
+    },
+    {
+      "update_date": "2026-09-10",
+      "update_datetime_utc": "2026-09-10T14:49:35.611048+00:00",
+      "reason": "Two later, larger structural rebuilds -- a ~19%% duplicate-row removal and a notice-creation-gate fix (both post-dating the incremental per-item insertions logged above) -- were never reflected in this manifest previously, leaving it stale relative to the corpus actually used for every retrieval-dependent result in the paper. This entry, written via the newly committed write_manifest (ADR-152), brings record_count and content_sha256 back in sync with the live data/interim/corpus/assembled_corpus.jsonl.",
+      "records_added": 0,
+      "previous_record_count": 325167,
+      "previous_content_sha256": "bbc8b01a600ab78b1b96b2d5310f81f1de1357bd23d2d883b8de2b81e182b174",
+      "new_record_count": 325167,
+      "new_content_sha256": "bbc8b01a600ab78b1b96b2d5310f81f1de1357bd23d2d883b8de2b81e182b174"
+    }
+  ]
+}

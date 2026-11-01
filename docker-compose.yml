@@ -1,0 +1,5 @@
+# Placeholder for the reproduction environment (`make reproduce`).
+# No services defined yet -- this will wrap the ingest -> curate -> index ->
+# run -> evaluate -> report pipeline once those components exist.
+# See the project protocol (Docker Compose is the chosen reproduction path).
+services: {}

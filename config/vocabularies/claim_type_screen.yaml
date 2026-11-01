@@ -1,0 +1,196 @@
+# Claim-type heuristic screen -- classifies a retracted paper's TITLE (plus
+# Retraction Watch's ArticleType) into what kind of claim it makes.
+#
+# THIS IS NOT GROUND TRUTH, and -- as of the redesign below -- IT IS NOT
+# TRYING TO BE ACCURATE. It is a cheap, high-recall pre-filter in front of
+# human judgment (see docs/DECISIONS.md ADR-021). A human reads every
+# candidate the screen passes through; nothing is included in the benchmark
+# on the screen's say-so alone. That changes what "good" means here:
+#
+#   - False negatives (a real clinical claim excluded) are expensive --
+#     invisible, silently shrinking the candidate pool.
+#   - False positives (a preclinical paper passed through) are nearly free
+#     -- a human discards them during review in seconds.
+#
+# So the design is deliberately asymmetric: exclude ONLY on confident,
+# bounded preclinical signals (animal models, cell-line/in-vitro language,
+# biomaterials/drug-delivery vocabulary -- a closed, stable vocabulary).
+# Everything else defaults to PASSING THROUGH as a clinical candidate,
+# including comparison phrasing, biomarker language, case reports, and
+# registry/database studies that an earlier, match-to-classify version of
+# this screen missed by defaulting to `unclear` (see ADR-021's failure-mode
+# characterisation -- that version scored 44% agreement, kappa 0.324, by
+# silently declining to answer on 56% of real titles). Trying to enumerate
+# every way a title can *state* a clinical claim is an unbounded lexicon
+# and every addition risks overfitting to whichever hand labels exist at
+# the time. Trying to enumerate every way a title signals *preclinical*
+# work is a much smaller, more stable problem, so that's the one this
+# screen actually tries to solve.
+#
+# Four output classes, but only two of them do any exclusion:
+#   preclinical  -- confident exclusion signal fired. Excluded.
+#   unclear      -- ArticleType isn't primary research (Letter, Commentary,
+#                   etc.) or the title is empty. Excluded.
+#   clinical_intervention / clinical_observational -- passes through to
+#                   human review. The specific sub-label is informational
+#                   (which keyword family fired, if any) and does not gate
+#                   anything; recall is measured on the two combined.
+#
+# Revisions must bump schema_version.
+
+schema_version: "0.2.0"
+
+# ArticleType values that are not a primary research claim at all -- forced
+# to `unclear` regardless of title, before any keyword rule runs. Kept
+# deliberately narrow: only types that structurally cannot state a single
+# testable claim (e.g. a Letter or Commentary). Review Article and Meta-
+# Analysis are NOT here even though some reviews are hard to classify --
+# excluding a whole ArticleType risks recall for uncertain precision gain,
+# which is exactly the trade this screen is designed not to make.
+non_research_article_types:
+  - "Letter"
+  - "Commentary/Editorial"
+  - "Interview/Q&A"
+  - "Auto/Biography"
+  - "Legal Case/Analysis"
+  - "Trade Magazines"
+  - "Technical Report/White Paper"
+  - "Dissertation/Thesis"
+  - "Government Publication"
+  - "Book Chapter/Reference Work"
+  - "Supplementary Materials"
+  - "Correction/Erratum/Corrigendum"
+  - "Retraction Notice"
+  - "Retracted Article"
+  - "Expression of Concern"
+  - "Other"
+
+# The ONLY exclusion gate below "not primary research". If any term here
+# matches, the record is preclinical, full stop, regardless of whether
+# clinical-sounding language also appears in the title (a mouse-model
+# efficacy study is still a mouse-model study). Grouped by the failure-mode
+# patterns identified in ADR-021 (E: biomaterials/drug-delivery, G:
+# non-rodent animal models, plus the original cell-line/animal core).
+# Pattern F (named-gene mechanism verbs: "activates", "inhibits" + a named
+# molecule) is deliberately NOT enumerated here -- those verbs appear in
+# genuinely clinical titles too ("the drug inhibits platelet aggregation
+# in patients with..."), so excluding on them would cost recall to buy
+# precision this screen doesn't need. Preclinical papers of that shape that
+# aren't caught here are an accepted, cheap false positive -- a human
+# discards them in review.
+preclinical_exclusion_terms:
+  # cell-line / in-vitro core
+  - "cell line"
+  - "cell lines"
+  - "in vitro"
+  - "cell viability"
+  - "cell proliferation and"
+  - "cancer cells"
+  - "tumor cells"
+  - "cell apoptosis"
+  - "apoptosis"
+  # animal models -- rodent (original) + non-rodent (pattern G)
+  - "mouse model"
+  - "mouse models"
+  - " mice "
+  - " mice."
+  - " mice,"
+  - "murine"
+  - "xenograft"
+  - "rat model"
+  - " rats "
+  - "zebrafish"
+  - "canine"
+  - "canines"
+  - " dogs "
+  - "porcine"
+  - "bovine"
+  - "rabbit model"
+  - "guinea pig"
+  - "non-human primate"
+  # molecular biology / bioinformatics (original weak list)
+  - "signaling pathway"
+  - "signalling pathway"
+  - "molecular mechanism"
+  - "in silico"
+  - "bioinformatic"
+  - "bioinformatics"
+  - "mir-"
+  - "mirna"
+  - "microrna"
+  - "lncrna"
+  - "circrna"
+  - "sirna"
+  - "shrna"
+  - "crispr"
+  - "knockdown"
+  - "knockout"
+  - "transgenic"
+  - "plasmid"
+  - "overexpression"
+  - "transfection"
+  - "western blot"
+  - "qrt-pcr"
+  - "suppresses proliferation"
+  - "promotes progression"
+  - "targets and"
+  - "regulates"
+  # biomaterials / drug-delivery / nanoparticle formulation (pattern E)
+  - "nanoparticle"
+  - "nanoparticles"
+  - "nanocapsule"
+  - "nanocapsules"
+  - "nanorod"
+  - "nanorods"
+  - "liposome"
+  - "liposomes"
+  - "scaffold"
+  - "scaffolds"
+  - "biomaterial"
+  - "hydrogel"
+  - "mesoporous silica"
+  - "for transdermal delivery"
+  - "for targeted delivery"
+  - "drug delivery system"
+
+# Informational only -- chooses which pass-through sub-label to report.
+# Does not gate inclusion; a title matching neither still passes through
+# as clinical_observational (see classify_claim_type's default).
+clinical_intervention_terms:
+  - "randomized"
+  - "randomised"
+  - "double-blind"
+  - "double blind"
+  - "placebo-controlled"
+  - "placebo controlled"
+  - "clinical trial"
+  - "phase i "
+  - "phase ii"
+  - "phase iii"
+  - " rct "
+  - "efficacy of"
+  - "efficacy and safety"
+  - "safety and efficacy"
+  - "treatment with"
+  - "therapy for"
+  - "vs placebo"
+  - "versus placebo"
+  - "cost-effectiveness of"
+  - "adjuvant therapy"
+  - "combination therapy"
+
+clinical_observational_terms:
+  - "cohort"
+  - "case-control"
+  - "cross-sectional"
+  - "prevalence of"
+  - "incidence of"
+  - "risk factors for"
+  - "association between"
+  - "associated with"
+  - "in patients with"
+  - "diagnostic accuracy"
+  - "retrospective study"
+  - "prospective study"
+  - "epidemiology of"
+  - "epidemiological"

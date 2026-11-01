@@ -1,0 +1,122 @@
+{
+  "status": "exploratory, n=12, tests ADR-094 falsifiable prediction (sharpened ADR-098: conditional remedy)",
+  "method": "notice document re-embedded as (notice_text + trap_source_title + trap_source_abstract); background/trap-source vectors reused unchanged from the production index; new in-memory IndexFlatIP built and re-searched",
+  "summary": {
+    "improved": 1,
+    "worsened": 2,
+    "unchanged": 9,
+    "excluded_no_notice": 1
+  },
+  "rows": [
+    {
+      "item_id": "RB-0001",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 2,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.2143
+    },
+    {
+      "item_id": "RB-0002",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 2,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.1111
+    },
+    {
+      "item_id": "RB-0003",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 2,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.1667
+    },
+    {
+      "item_id": "RB-0004",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 3,
+      "enriched_trap_rank": 2,
+      "enriched_notice_rank": 1,
+      "baseline_jaccard": 0.0984
+    },
+    {
+      "item_id": "RB-0005",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": null,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": null,
+      "baseline_jaccard": null
+    },
+    {
+      "item_id": "RB-0006",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 3,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 3,
+      "baseline_jaccard": 0.1429
+    },
+    {
+      "item_id": "RB-0007",
+      "baseline_trap_rank": 2,
+      "baseline_notice_rank": 1,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.4118
+    },
+    {
+      "item_id": "RB-0008",
+      "baseline_trap_rank": 2,
+      "baseline_notice_rank": 1,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.2667
+    },
+    {
+      "item_id": "RB-0009",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 2,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.1231
+    },
+    {
+      "item_id": "RB-0010",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 3,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 3,
+      "baseline_jaccard": 0.0222
+    },
+    {
+      "item_id": "RB-0011",
+      "baseline_trap_rank": 2,
+      "baseline_notice_rank": 1,
+      "enriched_trap_rank": 2,
+      "enriched_notice_rank": 1,
+      "baseline_jaccard": 0.3333
+    },
+    {
+      "item_id": "RB-0012",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 2,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.1351
+    },
+    {
+      "item_id": "RB-0013",
+      "baseline_trap_rank": 1,
+      "baseline_notice_rank": 2,
+      "enriched_trap_rank": 1,
+      "enriched_notice_rank": 2,
+      "baseline_jaccard": 0.2667
+    }
+  ],
+  "condition": "enrichment should help notices with low baseline Jaccard overlap and should not help (or should hurt) notices with near-maximal overlap",
+  "jaccard_vs_rank_improvement_pearson_r": -0.535,
+  "exceptions": {
+    "RB-0010": "lowest Jaccard (0.022) but did not improve (stayed rank 3)",
+    "RB-0011": "high Jaccard (0.333) but did not worsen (stayed rank 1)"
+  }
+}

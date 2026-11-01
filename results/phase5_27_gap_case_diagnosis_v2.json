@@ -1,0 +1,1048 @@
+[
+  {
+    "pmid": "14583953",
+    "doi": "10.1002/14651858.CD002766",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Therapeutic touch for healing acute wounds.",
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "16856030",
+    "doi": "10.1002/14651858.CD004125.pub2",
+    "rw_reason": "Investigation by Journal/Publisher;Retract and Replace;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Drugs for preventing postoperative nausea and vomiting.",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {
+        "withdrawal": [
+          {
+            "id-type": "doi",
+            "id": "10.1002/14651858.CD004125.pub3",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "update_to_raw": [],
+      "retraction_relation_keys": [
+        "withdrawal"
+      ],
+      "has_independent_relation": true,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "Crossref relation (publisher-asserted): ['withdrawal']"
+    ]
+  },
+  {
+    "pmid": "19959915",
+    "doi": "10.1007/BF03324916",
+    "rw_reason": "Cites Retracted Work;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Prevention of hip fractures by exposure to sunlight and pharmacotherapy in patients with Alzheimer's disease.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "22696330",
+    "doi": "10.1002/14651858.CD002766.pub2",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Therapeutic touch for healing acute wounds.",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "25069726",
+    "doi": "10.1002/14651858.CD002766.pub3",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Therapeutic touch for healing acute wounds.",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "26658572",
+    "doi": "10.1007/s00167-015-3909-9",
+    "rw_reason": "Concerns/Issues about Data;Error in Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "RETRACTED ARTICLE: The benefit of arthroscopically assisted therapy for concomitant glenohumeral injuries in patients with unstable lateral clavicle fractures.",
+      "pubtype": [
+        "Journal Article",
+        "Retraction Notice"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": true
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1007/s00167-015-3909-9",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2016,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2016-10-01T00:00:00Z",
+            "timestamp": 1475280000000
+          },
+          "record-id": "8140"
+        },
+        {
+          "DOI": "10.1007/s00167-015-3909-9",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2015,
+                12,
+                12
+              ]
+            ],
+            "date-time": "2015-12-12T00:00:00Z",
+            "timestamp": 1449878400000
+          }
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": true,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "PubMed title itself: 'RETRACTED ARTICLE: The benefit of arthroscopically assisted therapy for concomit'",
+      "Crossref update-to, source=publisher"
+    ]
+  },
+  {
+    "pmid": "26955437",
+    "doi": "10.4314/mmj.v27i4.7",
+    "rw_reason": "Error in Data;Notice - Lack of;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Semen profiles of young men involved as bicycle taxi cyclists in Mangochi District, Malawi: A case-control study.",
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": false
+    },
+    "classification": "rw_only_uncorroborated",
+    "evidence_notes": []
+  },
+  {
+    "pmid": "27098397",
+    "doi": "10.1002/cbin.10615",
+    "rw_reason": "Results Not Reproducible;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Retracted: Exosomes secreted by human urine-derived stem cells accelerate skin wound healing by promoting angiogenesis in rat by Yuan H, Guan J, Zhang J, Zhang R, Li M.",
+      "pubtype": [
+        "Journal Article",
+        "Retraction Notice"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": true
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1002/cbin.10615",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                7,
+                24
+              ]
+            ],
+            "date-time": "2017-07-24T00:00:00Z",
+            "timestamp": 1500854400000
+          },
+          "record-id": "8610"
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "PubMed title itself: 'Retracted: Exosomes secreted by human urine-derived stem cells accelerate skin w'"
+    ]
+  },
+  {
+    "pmid": "27140910",
+    "doi": "10.1002/14651858.CD002766.pub4",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Therapeutic touch for healing acute wounds.",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "27294218",
+    "doi": "10.29252/ijrm.14.3.193",
+    "rw_reason": "Error in Results and/or Conclusions;Investigation by Journal/Publisher;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "The effect of endometrial injury on first cycle IVF/ICSI outcome: A randomized controlled trial.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "27552401",
+    "doi": "10.1002/14651858.CD002766.pub5",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Therapeutic touch for healing acute wounds.",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "28226403",
+    "doi": "10.1111/papr.12567",
+    "rw_reason": "Error in Data;Removed;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "The Effect of Peripheral Neuromodulation on Pain from the Sacroiliac Joint: A Retrospective Cohort Study.",
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1111/papr.12567",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2017-09-01T00:00:00Z",
+            "timestamp": 1504224000000
+          },
+          "record-id": "16669"
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=True"
+    ]
+  },
+  {
+    "pmid": "28395637",
+    "doi": "10.1080/14397595.2017.1304857",
+    "rw_reason": "Error in Data;Investigation by Company/Institution;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "RETRACTED ARTICLE: Safety and effectiveness of high-dose methotrexate (over 8\u2009mg/week) in 2838 Japanese patients with rheumatoid arthritis: A postmarketing surveillance report.",
+      "pubtype": [
+        "Journal Article",
+        "Retraction Notice"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": true
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1080/14397595.2017.1304857",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2020,
+                1,
+                2
+              ]
+            ],
+            "date-time": "2020-01-02T00:00:00Z",
+            "timestamp": 1577923200000
+          },
+          "record-id": "16851"
+        },
+        {
+          "DOI": "10.1080/14397595.2017.1304857",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                4,
+                11
+              ]
+            ],
+            "date-time": "2017-04-11T00:00:00Z",
+            "timestamp": 1491868800000
+          }
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": true,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "PubMed title itself: 'RETRACTED ARTICLE: Safety and effectiveness of high-dose methotrexate (over 8\\u2009mg'",
+      "Crossref update-to, source=publisher"
+    ]
+  },
+  {
+    "pmid": "28617973",
+    "doi": "10.1111/ppe.12371",
+    "rw_reason": "Unreliable Data;Unreliable Results and/or Conclusions;Removed;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Hepatitis B Virus Infection in Preconception Period Among Women of Reproductive Age in Rural China - A Nationwide Study.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1111/ppe.12371",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                9,
+                20
+              ]
+            ],
+            "date-time": "2017-09-20T00:00:00Z",
+            "timestamp": 1505865600000
+          },
+          "record-id": "12945"
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=True"
+    ]
+  },
+  {
+    "pmid": "29438490",
+    "doi": "10.1093/jb/mvy028",
+    "rw_reason": "Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Detection of novel metabolite for Roxadustat doping by global metabolomics.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "30267080",
+    "doi": "10.1001/jamaoncol.2018.4070",
+    "rw_reason": "Error in Data;Retract and Replace;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Risk of Hepatocellular Carcinoma in Patients Treated With Entecavir vs Tenofovir for Chronic Hepatitis B: A Korean Nationwide Cohort Study.",
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "30688986",
+    "doi": "10.1001/jamainternmed.2018.5394",
+    "rw_reason": "Error in Analyses;Error in Results and/or Conclusions;Retract and Replace;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Association of Antibiotic Treatment With Outcomes in Patients Hospitalized for an Asthma Exacerbation Treated With Systemic Corticosteroids.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.3410/f.734937206.793556020",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "31415103",
+    "doi": "10.1002/clc.23246",
+    "rw_reason": "Error in Analyses;Error in Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Interleukin-1 blockade treatment decreasing cardiovascular risk.",
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {
+        "retraction": [
+          {
+            "id-type": "doi",
+            "id": "10.1002/clc.23357",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "update_to_raw": [],
+      "retraction_relation_keys": [
+        "retraction"
+      ],
+      "has_independent_relation": true,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "Crossref relation (publisher-asserted): ['retraction']"
+    ]
+  },
+  {
+    "pmid": "31563928",
+    "doi": null,
+    "rw_reason": "Date of Article and/or Notice Unknown;Error in Analyses;Error in Results and/or Conclusions;Retract and Replace;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "RETRACTED Are over-the-counter fish oil supplements safe, effective and accurate with labelling? Analysis of 10 New Zealand fish oil supplements.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": true
+    },
+    "crossref_check": {
+      "status": "no_doi"
+    },
+    "openalex_check": {
+      "status": "no_doi"
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "PubMed title itself: 'RETRACTED Are over-the-counter fish oil supplements safe, effective and accurate'"
+    ]
+  },
+  {
+    "pmid": "32946583",
+    "doi": "10.1093/qjmed/hcaa271",
+    "rw_reason": "Error in Data;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Minocycline ameliorates osteoporosis induced by ovariectomy (OVX) and iron accumulation via iron chelation, bone metabolism regulation and inhibition of oxidative stress.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": false,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "rw_derived_only",
+    "evidence_notes": [
+      "RW-derived only: OpenAlex is_retracted=True, Crossref update-to source=retraction-watch=False"
+    ]
+  },
+  {
+    "pmid": "37940041",
+    "doi": "10.1016/j.jogc.2023.102264",
+    "rw_reason": "Concerns/Issues about Data;Investigation by Journal/Publisher;Investigation by Third Party;Notice - Limited or No Information;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "WITHDRAWN: The Effect of Preoperative Intravenous Tranexamic Acid Versus Rectal Misoprostol in Reducing Blood Loss During and After Elective Cesarean Delivery in Primigravida: A Double-Blinded, Randomized, Comparative-Placebo Trial.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": true
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1016/j.jogc.2023.102264",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2024,
+                9,
+                26
+              ]
+            ],
+            "date-time": "2024-09-26T00:00:00Z",
+            "timestamp": 1727308800000
+          },
+          "record-id": "70441"
+        },
+        {
+          "DOI": "10.1016/j.jogc.2023.102264",
+          "type": "removal",
+          "label": "Removal",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                7
+              ]
+            ],
+            "date-time": "2023-11-07T00:00:00Z",
+            "timestamp": 1699315200000
+          }
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": true,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "PubMed title itself: 'WITHDRAWN: The Effect of Preoperative Intravenous Tranexamic Acid Versus Rectal '",
+      "Crossref update-to, source=publisher"
+    ]
+  },
+  {
+    "pmid": "39566682",
+    "doi": "10.1016/j.ajcnut.2024.11.014",
+    "rw_reason": "Date of Article and/or Notice Unknown;Error in Analyses;Removed;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "REMOVED: Content of selected nutrients and potential contaminants in prenatal multivitamins and minerals: an observational study.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1016/j.ajcnut.2024.11.014",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2024-11-19T00:00:00Z",
+            "timestamp": 1731974400000
+          },
+          "record-id": "71762"
+        },
+        {
+          "DOI": "10.1016/j.ajcnut.2024.11.014",
+          "type": "removal",
+          "label": "Removal",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2024-11-19T00:00:00Z",
+            "timestamp": 1731974400000
+          }
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": true,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "Crossref update-to, source=publisher"
+    ]
+  },
+  {
+    "pmid": "39906865",
+    "doi": "10.1016/j.heliyon.2025.e41707",
+    "rw_reason": "Concerns/Issues about Image;Investigation by Journal/Publisher;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Exploration of the mechanism of Lithospermum erythrorhizon oil in treating atopic dermatitis based on network pharmacology and experimental validation of the PI3K-Akt pathway regulation.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1016/j.heliyon.2025.e41707",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                30
+              ]
+            ],
+            "date-time": "2025-01-30T00:00:00Z",
+            "timestamp": 1738195200000
+          }
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": true,
+      "has_rw_update_to": false
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "Crossref update-to, source=publisher"
+    ]
+  },
+  {
+    "pmid": "6522427",
+    "doi": "10.1016/0091-3057(84)90154-0",
+    "rw_reason": "Date of Article and/or Notice Unknown;Removed;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "title": "Cesium therapy in cancer patients.",
+      "pubtype": [
+        "Journal Article"
+      ],
+      "tagged": false,
+      "title_text_flags_retraction": false
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation_raw": {},
+      "update_to_raw": [
+        {
+          "DOI": "10.1016/0091-3057(84)90154-0",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                23
+              ]
+            ],
+            "date-time": "2026-04-23T00:00:00Z",
+            "timestamp": 1776902400000
+          },
+          "record-id": "70609"
+        },
+        {
+          "DOI": "10.1016/0091-3057(84)90154-0",
+          "type": "removal",
+          "label": "Removal",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                1984,
+                1,
+                1
+              ]
+            ],
+            "date-time": "1984-01-01T00:00:00Z",
+            "timestamp": 441763200000
+          }
+        }
+      ],
+      "retraction_relation_keys": [],
+      "has_independent_relation": false,
+      "has_publisher_update_to": true,
+      "has_rw_update_to": true
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true
+    },
+    "classification": "independent_evidence",
+    "evidence_notes": [
+      "Crossref update-to, source=publisher"
+    ]
+  }
+]

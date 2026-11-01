@@ -1,0 +1,148 @@
+{
+  "n_responses": 422,
+  "n_items": 24,
+  "glmm_attempt": {
+    "method": "BinomialBayesMixedGLM (variational Bayes, crossed random effects item+seed)",
+    "converged": true,
+    "fe_names": [
+      "Intercept",
+      "condition[T.retrieval_with_notice]",
+      "model[T.openai/gpt-oss-120b]",
+      "model[T.qwen2.5:7b-instruct-q4_K_M]",
+      "condition[T.retrieval_with_notice]:model[T.openai/gpt-oss-120b]",
+      "condition[T.retrieval_with_notice]:model[T.qwen2.5:7b-instruct-q4_K_M]"
+    ],
+    "fe_mean": [
+      3.5878564802877566,
+      0.13348815437533942,
+      1.498331999246267,
+      0.6389789522157043,
+      -1.8821717749151383,
+      -3.5282305821013957
+    ],
+    "fe_sd": [
+      0.1970654491751551,
+      0.2440487357683021,
+      0.38177114704797144,
+      0.2882863737645425,
+      0.46428352181528637,
+      0.33353763331003927
+    ],
+    "vc_mean": [
+      -0.4152882924747259,
+      -5.316304122372556,
+      2.4082226475663875,
+      0.5612864497646372,
+      -4.617135224029661,
+      -1.0938146640239246,
+      2.4082195012642726,
+      2.408220120644277,
+      -2.46251726246979,
+      -1.0938147161099432,
+      2.4082196948963364,
+      -1.0938145649939508,
+      2.4082201870631685,
+      2.386077329242931,
+      2.4082216482660552,
+      2.4082212218213956,
+      2.4082196549994586,
+      -0.5414605332223764,
+      2.363764682280317,
+      -1.0938148615375125,
+      -1.093814544017542,
+      2.4082183244879722,
+      -1.2503943702884732,
+      -1.0938145831795303,
+      0.06786176851359892,
+      0.022448453007184215,
+      -0.023290736577002025
+    ],
+    "vc_names": [
+      "C(item_id)[RB-0001]",
+      "C(item_id)[RB-0002]",
+      "C(item_id)[RB-0003]",
+      "C(item_id)[RB-0004]",
+      "C(item_id)[RB-0006]",
+      "C(item_id)[RB-0007]",
+      "C(item_id)[RB-0008]",
+      "C(item_id)[RB-0009]",
+      "C(item_id)[RB-0010]",
+      "C(item_id)[RB-0011]",
+      "C(item_id)[RB-0012]",
+      "C(item_id)[RB-0013]",
+      "C(item_id)[RB-0014]",
+      "C(item_id)[RB-0015]",
+      "C(item_id)[RB-0016]",
+      "C(item_id)[RB-0017]",
+      "C(item_id)[RB-0018]",
+      "C(item_id)[RB-0019]",
+      "C(item_id)[RB-0020]",
+      "C(item_id)[RB-0021]",
+      "C(item_id)[RB-0022]",
+      "C(item_id)[RB-0023]",
+      "C(item_id)[RB-0024]",
+      "C(item_id)[RB-0025]",
+      "C(seed)[1]",
+      "C(seed)[2]",
+      "C(seed)[3]"
+    ]
+  },
+  "gee_fallback": {
+    "method": "GEE (exchangeable, clustered on item_id) -- fallback, no seed random effect",
+    "converged": true,
+    "params": {
+      "Intercept": 1.8816314209830327,
+      "condition[T.retrieval_with_notice]": 0.4541890864362965,
+      "model[T.openai/gpt-oss-120b]": 1.2538627949461156,
+      "model[T.qwen2.5:7b-instruct-q4_K_M]": 0.713623285973833,
+      "condition[T.retrieval_with_notice]:model[T.openai/gpt-oss-120b]": -1.7666513924806204,
+      "condition[T.retrieval_with_notice]:model[T.qwen2.5:7b-instruct-q4_K_M]": -2.53861816962717
+    },
+    "pvalues": {
+      "Intercept": 0.0017407372692851886,
+      "condition[T.retrieval_with_notice]": 0.2541642617910139,
+      "model[T.openai/gpt-oss-120b]": 0.14444996758907516,
+      "model[T.qwen2.5:7b-instruct-q4_K_M]": 0.30801443594234357,
+      "condition[T.retrieval_with_notice]:model[T.openai/gpt-oss-120b]": 0.1547812076693576,
+      "condition[T.retrieval_with_notice]:model[T.qwen2.5:7b-instruct-q4_K_M]": 0.005756108515490361
+    },
+    "conf_int": {
+      "Intercept": [
+        0.7038432174047431,
+        3.0594196245613223
+      ],
+      "condition[T.retrieval_with_notice]": [
+        -0.3264824320152727,
+        1.2348606048878659
+      ],
+      "model[T.openai/gpt-oss-120b]": [
+        -0.43004485946478943,
+        2.9377704493570205
+      ],
+      "model[T.qwen2.5:7b-instruct-q4_K_M]": [
+        -0.6584384991698471,
+        2.085685071117513
+      ],
+      "condition[T.retrieval_with_notice]:model[T.openai/gpt-oss-120b]": [
+        -4.200208149827376,
+        0.6669053648661354
+      ],
+      "condition[T.retrieval_with_notice]:model[T.qwen2.5:7b-instruct-q4_K_M]": [
+        -4.340483598486802,
+        -0.736752740767538
+      ]
+    },
+    "interaction_terms": [
+      "condition[T.retrieval_with_notice]:model[T.openai/gpt-oss-120b]",
+      "condition[T.retrieval_with_notice]:model[T.qwen2.5:7b-instruct-q4_K_M]"
+    ],
+    "interaction_pvalues_raw": {
+      "condition[T.retrieval_with_notice]:model[T.openai/gpt-oss-120b]": 0.1547812076693576,
+      "condition[T.retrieval_with_notice]:model[T.qwen2.5:7b-instruct-q4_K_M]": 0.005756108515490361
+    }
+  },
+  "interaction_pvalues_holm_adjusted": {
+    "condition[T.retrieval_with_notice]:model[T.qwen2.5:7b-instruct-q4_K_M]": 0.011512217030980721,
+    "condition[T.retrieval_with_notice]:model[T.openai/gpt-oss-120b]": 0.1547812076693576
+  }
+}

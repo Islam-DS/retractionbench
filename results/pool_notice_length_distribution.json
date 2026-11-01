@@ -1,0 +1,1412 @@
+{
+  "methodology_note": "Corrected measurement: joined to Retraction Watch by record_id, not OriginalPaperPubMedID. Supersedes the original pool_notice_length_distribution.json run, which used a PMID-based join and misclassified candidates whose original PMID has more than one raw Retraction Watch row (37 such PMIDs found, mostly Expression-of-Concern -> Retraction pairs). See ADR-086.",
+  "n_candidates_total": 296,
+  "n_no_separate_notice_document_blank_or_zero": 23,
+  "n_no_separate_notice_document_same_as_original": 5,
+  "n_no_separate_notice_document_total": 28,
+  "n_notice_pmid_present": 268,
+  "n_notice_unresolved": 0,
+  "n_notice_length_measured": 268,
+  "lengths": [
+    {
+      "original_pmid": "22311724",
+      "notice_pmid": "31665562",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "30721110",
+      "notice_pmid": "33999659",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "28561987",
+      "notice_pmid": "34854176",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "26810338",
+      "notice_pmid": "35670077",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "33892614",
+      "notice_pmid": "37753730",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "32926507",
+      "notice_pmid": "34390097",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "27484048",
+      "notice_pmid": "36825477",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "29940689",
+      "notice_pmid": "31284742",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "28326838",
+      "notice_pmid": "32180451",
+      "length_chars": 11
+    },
+    {
+      "original_pmid": "26831366",
+      "notice_pmid": "28449929",
+      "length_chars": 18
+    },
+    {
+      "original_pmid": "29409915",
+      "notice_pmid": "29655997",
+      "length_chars": 18
+    },
+    {
+      "original_pmid": "33280522",
+      "notice_pmid": "34939476",
+      "length_chars": 18
+    },
+    {
+      "original_pmid": "27246516",
+      "notice_pmid": "36069340",
+      "length_chars": 18
+    },
+    {
+      "original_pmid": "34225541",
+      "notice_pmid": "36001630",
+      "length_chars": 24
+    },
+    {
+      "original_pmid": "33356640",
+      "notice_pmid": "36098961",
+      "length_chars": 24
+    },
+    {
+      "original_pmid": "21456887",
+      "notice_pmid": "28376663",
+      "length_chars": 24
+    },
+    {
+      "original_pmid": "18384711",
+      "notice_pmid": "28376645",
+      "length_chars": 24
+    },
+    {
+      "original_pmid": "29338665",
+      "notice_pmid": "31251119",
+      "length_chars": 30
+    },
+    {
+      "original_pmid": "24837434",
+      "notice_pmid": "31157621",
+      "length_chars": 51
+    },
+    {
+      "original_pmid": "8522668",
+      "notice_pmid": "37341744",
+      "length_chars": 59
+    },
+    {
+      "original_pmid": "16339297",
+      "notice_pmid": "39207197",
+      "length_chars": 61
+    },
+    {
+      "original_pmid": "31236364",
+      "notice_pmid": "31544033",
+      "length_chars": 70
+    },
+    {
+      "original_pmid": "36601436",
+      "notice_pmid": "38250055",
+      "length_chars": 71
+    },
+    {
+      "original_pmid": "18784499",
+      "notice_pmid": "41437910",
+      "length_chars": 71
+    },
+    {
+      "original_pmid": "28658896",
+      "notice_pmid": "29874321",
+      "length_chars": 75
+    },
+    {
+      "original_pmid": "29438490",
+      "notice_pmid": "29771375",
+      "length_chars": 75
+    },
+    {
+      "original_pmid": "27790554",
+      "notice_pmid": "32662777",
+      "length_chars": 75
+    },
+    {
+      "original_pmid": "28446937",
+      "notice_pmid": "28694910",
+      "length_chars": 76
+    },
+    {
+      "original_pmid": "21375372",
+      "notice_pmid": "41780510",
+      "length_chars": 78
+    },
+    {
+      "original_pmid": "29693059",
+      "notice_pmid": "30238053",
+      "length_chars": 80
+    },
+    {
+      "original_pmid": "29078018",
+      "notice_pmid": "32410398",
+      "length_chars": 90
+    },
+    {
+      "original_pmid": "26150866",
+      "notice_pmid": "29616084",
+      "length_chars": 91
+    },
+    {
+      "original_pmid": "29641345",
+      "notice_pmid": "28263696",
+      "length_chars": 93
+    },
+    {
+      "original_pmid": "29720049",
+      "notice_pmid": "30880561",
+      "length_chars": 93
+    },
+    {
+      "original_pmid": "23623304",
+      "notice_pmid": "28038792",
+      "length_chars": 97
+    },
+    {
+      "original_pmid": "21714693",
+      "notice_pmid": "41565365",
+      "length_chars": 100
+    },
+    {
+      "original_pmid": "8923073",
+      "notice_pmid": "37041369",
+      "length_chars": 100
+    },
+    {
+      "original_pmid": "27231202",
+      "notice_pmid": "31160311",
+      "length_chars": 103
+    },
+    {
+      "original_pmid": "24580652",
+      "notice_pmid": "41956966",
+      "length_chars": 104
+    },
+    {
+      "original_pmid": "30835717",
+      "notice_pmid": "33328387",
+      "length_chars": 106
+    },
+    {
+      "original_pmid": "9201530",
+      "notice_pmid": "37039886",
+      "length_chars": 106
+    },
+    {
+      "original_pmid": "31418073",
+      "notice_pmid": "37470881",
+      "length_chars": 107
+    },
+    {
+      "original_pmid": "30372641",
+      "notice_pmid": "37070528",
+      "length_chars": 110
+    },
+    {
+      "original_pmid": "38586880",
+      "notice_pmid": "39104209",
+      "length_chars": 111
+    },
+    {
+      "original_pmid": "27154914",
+      "notice_pmid": "32238414",
+      "length_chars": 116
+    },
+    {
+      "original_pmid": "27268381",
+      "notice_pmid": "41946668",
+      "length_chars": 116
+    },
+    {
+      "original_pmid": "30161241",
+      "notice_pmid": "37079656",
+      "length_chars": 117
+    },
+    {
+      "original_pmid": "33596356",
+      "notice_pmid": "42377355",
+      "length_chars": 117
+    },
+    {
+      "original_pmid": "20091317",
+      "notice_pmid": "39046470",
+      "length_chars": 119
+    },
+    {
+      "original_pmid": "32406308",
+      "notice_pmid": "40298028",
+      "length_chars": 119
+    },
+    {
+      "original_pmid": "19366276",
+      "notice_pmid": "33507528",
+      "length_chars": 119
+    },
+    {
+      "original_pmid": "18569468",
+      "notice_pmid": "36368926",
+      "length_chars": 121
+    },
+    {
+      "original_pmid": "31339910",
+      "notice_pmid": "39240988",
+      "length_chars": 121
+    },
+    {
+      "original_pmid": "38448715",
+      "notice_pmid": "38758430",
+      "length_chars": 121
+    },
+    {
+      "original_pmid": "28938689",
+      "notice_pmid": "41955002",
+      "length_chars": 122
+    },
+    {
+      "original_pmid": "33186304",
+      "notice_pmid": "38164098",
+      "length_chars": 122
+    },
+    {
+      "original_pmid": "11210871",
+      "notice_pmid": "28833224",
+      "length_chars": 122
+    },
+    {
+      "original_pmid": "27882418",
+      "notice_pmid": "34365532",
+      "length_chars": 122
+    },
+    {
+      "original_pmid": "23080548",
+      "notice_pmid": "36038658",
+      "length_chars": 124
+    },
+    {
+      "original_pmid": "3104433",
+      "notice_pmid": "37326648",
+      "length_chars": 124
+    },
+    {
+      "original_pmid": "2972597",
+      "notice_pmid": "41214194",
+      "length_chars": 125
+    },
+    {
+      "original_pmid": "30157787",
+      "notice_pmid": "36849942",
+      "length_chars": 126
+    },
+    {
+      "original_pmid": "27227402",
+      "notice_pmid": "27607567",
+      "length_chars": 126
+    },
+    {
+      "original_pmid": "10591360",
+      "notice_pmid": "28833222",
+      "length_chars": 126
+    },
+    {
+      "original_pmid": "26484672",
+      "notice_pmid": "29698517",
+      "length_chars": 127
+    },
+    {
+      "original_pmid": "33429667",
+      "notice_pmid": "33455209",
+      "length_chars": 127
+    },
+    {
+      "original_pmid": "35729419",
+      "notice_pmid": "36964772",
+      "length_chars": 127
+    },
+    {
+      "original_pmid": "11371485",
+      "notice_pmid": "27073822",
+      "length_chars": 128
+    },
+    {
+      "original_pmid": "30315625",
+      "notice_pmid": "33305896",
+      "length_chars": 129
+    },
+    {
+      "original_pmid": "31977239",
+      "notice_pmid": "34242056",
+      "length_chars": 129
+    },
+    {
+      "original_pmid": "27428477",
+      "notice_pmid": "27607568",
+      "length_chars": 129
+    },
+    {
+      "original_pmid": "25364278",
+      "notice_pmid": "33688273",
+      "length_chars": 129
+    },
+    {
+      "original_pmid": "26227783",
+      "notice_pmid": "35614337",
+      "length_chars": 132
+    },
+    {
+      "original_pmid": "1289367",
+      "notice_pmid": "37326647",
+      "length_chars": 132
+    },
+    {
+      "original_pmid": "32450107",
+      "notice_pmid": "32511943",
+      "length_chars": 134
+    },
+    {
+      "original_pmid": "33790308",
+      "notice_pmid": "34537808",
+      "length_chars": 135
+    },
+    {
+      "original_pmid": "30031962",
+      "notice_pmid": "31513738",
+      "length_chars": 135
+    },
+    {
+      "original_pmid": "26999688",
+      "notice_pmid": "41956980",
+      "length_chars": 137
+    },
+    {
+      "original_pmid": "7790607",
+      "notice_pmid": "37505259",
+      "length_chars": 137
+    },
+    {
+      "original_pmid": "2369230",
+      "notice_pmid": "28007254",
+      "length_chars": 138
+    },
+    {
+      "original_pmid": "22326955",
+      "notice_pmid": "31157620",
+      "length_chars": 139
+    },
+    {
+      "original_pmid": "28978240",
+      "notice_pmid": "37070522",
+      "length_chars": 139
+    },
+    {
+      "original_pmid": "2025077",
+      "notice_pmid": "28219541",
+      "length_chars": 139
+    },
+    {
+      "original_pmid": "28277352",
+      "notice_pmid": "32150003",
+      "length_chars": 140
+    },
+    {
+      "original_pmid": "17714066",
+      "notice_pmid": "42100923",
+      "length_chars": 140
+    },
+    {
+      "original_pmid": "29174108",
+      "notice_pmid": "32951764",
+      "length_chars": 141
+    },
+    {
+      "original_pmid": "21075366",
+      "notice_pmid": "37517854",
+      "length_chars": 141
+    },
+    {
+      "original_pmid": "37666566",
+      "notice_pmid": "38438168",
+      "length_chars": 141
+    },
+    {
+      "original_pmid": "39905022",
+      "notice_pmid": "40954147",
+      "length_chars": 141
+    },
+    {
+      "original_pmid": "28787749",
+      "notice_pmid": "40016962",
+      "length_chars": 142
+    },
+    {
+      "original_pmid": "38416549",
+      "notice_pmid": "39225356",
+      "length_chars": 142
+    },
+    {
+      "original_pmid": "23634843",
+      "notice_pmid": "28716023",
+      "length_chars": 142
+    },
+    {
+      "original_pmid": "28316986",
+      "notice_pmid": "38419693",
+      "length_chars": 142
+    },
+    {
+      "original_pmid": "34930979",
+      "notice_pmid": "36104393",
+      "length_chars": 143
+    },
+    {
+      "original_pmid": "27239349",
+      "notice_pmid": "29874338",
+      "length_chars": 144
+    },
+    {
+      "original_pmid": "22576212",
+      "notice_pmid": "33947719",
+      "length_chars": 144
+    },
+    {
+      "original_pmid": "37698604",
+      "notice_pmid": "39379574",
+      "length_chars": 144
+    },
+    {
+      "original_pmid": "28738708",
+      "notice_pmid": "41946689",
+      "length_chars": 144
+    },
+    {
+      "original_pmid": "34016064",
+      "notice_pmid": "34666700",
+      "length_chars": 146
+    },
+    {
+      "original_pmid": "27125463",
+      "notice_pmid": "41565360",
+      "length_chars": 146
+    },
+    {
+      "original_pmid": "32983981",
+      "notice_pmid": "33520730",
+      "length_chars": 147
+    },
+    {
+      "original_pmid": "36482382",
+      "notice_pmid": "37978400",
+      "length_chars": 147
+    },
+    {
+      "original_pmid": "28591045",
+      "notice_pmid": "29369226",
+      "length_chars": 149
+    },
+    {
+      "original_pmid": "29889622",
+      "notice_pmid": "31821111",
+      "length_chars": 149
+    },
+    {
+      "original_pmid": "34796244",
+      "notice_pmid": "35146053",
+      "length_chars": 149
+    },
+    {
+      "original_pmid": "10201761",
+      "notice_pmid": "28833223",
+      "length_chars": 149
+    },
+    {
+      "original_pmid": "33143742",
+      "notice_pmid": "33541363",
+      "length_chars": 150
+    },
+    {
+      "original_pmid": "27583685",
+      "notice_pmid": "41145235",
+      "length_chars": 150
+    },
+    {
+      "original_pmid": "26997557",
+      "notice_pmid": "28699579",
+      "length_chars": 150
+    },
+    {
+      "original_pmid": "32421401",
+      "notice_pmid": "40329461",
+      "length_chars": 151
+    },
+    {
+      "original_pmid": "30519094",
+      "notice_pmid": "31118784",
+      "length_chars": 152
+    },
+    {
+      "original_pmid": "30384782",
+      "notice_pmid": "31104530",
+      "length_chars": 152
+    },
+    {
+      "original_pmid": "32757947",
+      "notice_pmid": "35670829",
+      "length_chars": 153
+    },
+    {
+      "original_pmid": "29393690",
+      "notice_pmid": "36533553",
+      "length_chars": 153
+    },
+    {
+      "original_pmid": "18166179",
+      "notice_pmid": "37517853",
+      "length_chars": 153
+    },
+    {
+      "original_pmid": "31822137",
+      "notice_pmid": "31994946",
+      "length_chars": 154
+    },
+    {
+      "original_pmid": "29523188",
+      "notice_pmid": "37775775",
+      "length_chars": 154
+    },
+    {
+      "original_pmid": "30135654",
+      "notice_pmid": "40201685",
+      "length_chars": 154
+    },
+    {
+      "original_pmid": "34044553",
+      "notice_pmid": "34488418",
+      "length_chars": 154
+    },
+    {
+      "original_pmid": "34045464",
+      "notice_pmid": "36329071",
+      "length_chars": 154
+    },
+    {
+      "original_pmid": "33855908",
+      "notice_pmid": "37991170",
+      "length_chars": 155
+    },
+    {
+      "original_pmid": "26221559",
+      "notice_pmid": "33628557",
+      "length_chars": 155
+    },
+    {
+      "original_pmid": "37948681",
+      "notice_pmid": "38518293",
+      "length_chars": 155
+    },
+    {
+      "original_pmid": "30356382",
+      "notice_pmid": "34422413",
+      "length_chars": 156
+    },
+    {
+      "original_pmid": "28969488",
+      "notice_pmid": "41946688",
+      "length_chars": 157
+    },
+    {
+      "original_pmid": "18204339",
+      "notice_pmid": "35230053",
+      "length_chars": 157
+    },
+    {
+      "original_pmid": "17873675",
+      "notice_pmid": "35230053",
+      "length_chars": 157
+    },
+    {
+      "original_pmid": "16415702",
+      "notice_pmid": "35230053",
+      "length_chars": 157
+    },
+    {
+      "original_pmid": "35982202",
+      "notice_pmid": "38819763",
+      "length_chars": 157
+    },
+    {
+      "original_pmid": "22372723",
+      "notice_pmid": "28391589",
+      "length_chars": 158
+    },
+    {
+      "original_pmid": "38554477",
+      "notice_pmid": "38839145",
+      "length_chars": 159
+    },
+    {
+      "original_pmid": "29804486",
+      "notice_pmid": "41974496",
+      "length_chars": 159
+    },
+    {
+      "original_pmid": "32967476",
+      "notice_pmid": "40340755",
+      "length_chars": 159
+    },
+    {
+      "original_pmid": "29113521",
+      "notice_pmid": "34269645",
+      "length_chars": 160
+    },
+    {
+      "original_pmid": "33149920",
+      "notice_pmid": "34868608",
+      "length_chars": 162
+    },
+    {
+      "original_pmid": "2138182",
+      "notice_pmid": "37306780",
+      "length_chars": 163
+    },
+    {
+      "original_pmid": "38043916",
+      "notice_pmid": "39393943",
+      "length_chars": 163
+    },
+    {
+      "original_pmid": "25079598",
+      "notice_pmid": "31344142",
+      "length_chars": 165
+    },
+    {
+      "original_pmid": "32112181",
+      "notice_pmid": "35939111",
+      "length_chars": 165
+    },
+    {
+      "original_pmid": "29914278",
+      "notice_pmid": "41946676",
+      "length_chars": 165
+    },
+    {
+      "original_pmid": "32745816",
+      "notice_pmid": "39241288",
+      "length_chars": 165
+    },
+    {
+      "original_pmid": "30655568",
+      "notice_pmid": "38355714",
+      "length_chars": 168
+    },
+    {
+      "original_pmid": "28983675",
+      "notice_pmid": "36125557",
+      "length_chars": 170
+    },
+    {
+      "original_pmid": "29343720",
+      "notice_pmid": "33883680",
+      "length_chars": 171
+    },
+    {
+      "original_pmid": "23347605",
+      "notice_pmid": "37922774",
+      "length_chars": 171
+    },
+    {
+      "original_pmid": "39155091",
+      "notice_pmid": "39181776",
+      "length_chars": 171
+    },
+    {
+      "original_pmid": "38973678",
+      "notice_pmid": "39783656",
+      "length_chars": 172
+    },
+    {
+      "original_pmid": "18765050",
+      "notice_pmid": "40589775",
+      "length_chars": 172
+    },
+    {
+      "original_pmid": "27373757",
+      "notice_pmid": "30072011",
+      "length_chars": 173
+    },
+    {
+      "original_pmid": "27294218",
+      "notice_pmid": "36812099",
+      "length_chars": 174
+    },
+    {
+      "original_pmid": "28092795",
+      "notice_pmid": "38030527",
+      "length_chars": 174
+    },
+    {
+      "original_pmid": "33840341",
+      "notice_pmid": "40747629",
+      "length_chars": 174
+    },
+    {
+      "original_pmid": "26989802",
+      "notice_pmid": "39708475",
+      "length_chars": 175
+    },
+    {
+      "original_pmid": "34039476",
+      "notice_pmid": "35430026",
+      "length_chars": 175
+    },
+    {
+      "original_pmid": "34569421",
+      "notice_pmid": "42286996",
+      "length_chars": 176
+    },
+    {
+      "original_pmid": "32436800",
+      "notice_pmid": "37589098",
+      "length_chars": 177
+    },
+    {
+      "original_pmid": "30069515",
+      "notice_pmid": "31032458",
+      "length_chars": 177
+    },
+    {
+      "original_pmid": "38579090",
+      "notice_pmid": "38996178",
+      "length_chars": 177
+    },
+    {
+      "original_pmid": "28122931",
+      "notice_pmid": "33974701",
+      "length_chars": 178
+    },
+    {
+      "original_pmid": "33901883",
+      "notice_pmid": "34953649",
+      "length_chars": 178
+    },
+    {
+      "original_pmid": "34136465",
+      "notice_pmid": "40510261",
+      "length_chars": 179
+    },
+    {
+      "original_pmid": "33006501",
+      "notice_pmid": "37070534",
+      "length_chars": 180
+    },
+    {
+      "original_pmid": "8708167",
+      "notice_pmid": "37490057",
+      "length_chars": 182
+    },
+    {
+      "original_pmid": "34673744",
+      "notice_pmid": "37559364",
+      "length_chars": 182
+    },
+    {
+      "original_pmid": "39117277",
+      "notice_pmid": "42091286",
+      "length_chars": 183
+    },
+    {
+      "original_pmid": "35940183",
+      "notice_pmid": "37459870",
+      "length_chars": 183
+    },
+    {
+      "original_pmid": "23717223",
+      "notice_pmid": "37601516",
+      "length_chars": 184
+    },
+    {
+      "original_pmid": "38714931",
+      "notice_pmid": "41555313",
+      "length_chars": 184
+    },
+    {
+      "original_pmid": "32946583",
+      "notice_pmid": "33313913",
+      "length_chars": 185
+    },
+    {
+      "original_pmid": "33194600",
+      "notice_pmid": "34178702",
+      "length_chars": 186
+    },
+    {
+      "original_pmid": "23328343",
+      "notice_pmid": "38393296",
+      "length_chars": 186
+    },
+    {
+      "original_pmid": "38171239",
+      "notice_pmid": "39191541",
+      "length_chars": 187
+    },
+    {
+      "original_pmid": "31046067",
+      "notice_pmid": "32163112",
+      "length_chars": 189
+    },
+    {
+      "original_pmid": "37669538",
+      "notice_pmid": "38394448",
+      "length_chars": 189
+    },
+    {
+      "original_pmid": "23884390",
+      "notice_pmid": "33974699",
+      "length_chars": 192
+    },
+    {
+      "original_pmid": "31966840",
+      "notice_pmid": "33284881",
+      "length_chars": 193
+    },
+    {
+      "original_pmid": "23307265",
+      "notice_pmid": "34779935",
+      "length_chars": 195
+    },
+    {
+      "original_pmid": "32980580",
+      "notice_pmid": "35610107",
+      "length_chars": 198
+    },
+    {
+      "original_pmid": "26016859",
+      "notice_pmid": "33966085",
+      "length_chars": 200
+    },
+    {
+      "original_pmid": "21831503",
+      "notice_pmid": "35700607",
+      "length_chars": 201
+    },
+    {
+      "original_pmid": "34007627",
+      "notice_pmid": "34010367",
+      "length_chars": 202
+    },
+    {
+      "original_pmid": "33947827",
+      "notice_pmid": "36278474",
+      "length_chars": 204
+    },
+    {
+      "original_pmid": "1888324",
+      "notice_pmid": "34158165",
+      "length_chars": 206
+    },
+    {
+      "original_pmid": "33739797",
+      "notice_pmid": "36507703",
+      "length_chars": 211
+    },
+    {
+      "original_pmid": "34731694",
+      "notice_pmid": "35303971",
+      "length_chars": 211
+    },
+    {
+      "original_pmid": "27546094",
+      "notice_pmid": "30526954",
+      "length_chars": 212
+    },
+    {
+      "original_pmid": "37149726",
+      "notice_pmid": "41160398",
+      "length_chars": 215
+    },
+    {
+      "original_pmid": "30267080",
+      "notice_pmid": "31021386",
+      "length_chars": 218
+    },
+    {
+      "original_pmid": "28919201",
+      "notice_pmid": "38552648",
+      "length_chars": 219
+    },
+    {
+      "original_pmid": "37483219",
+      "notice_pmid": "38585105",
+      "length_chars": 220
+    },
+    {
+      "original_pmid": "33728053",
+      "notice_pmid": "38617032",
+      "length_chars": 220
+    },
+    {
+      "original_pmid": "25768800",
+      "notice_pmid": "32324840",
+      "length_chars": 221
+    },
+    {
+      "original_pmid": "34419704",
+      "notice_pmid": "35779893",
+      "length_chars": 221
+    },
+    {
+      "original_pmid": "27822126",
+      "notice_pmid": "33235518",
+      "length_chars": 226
+    },
+    {
+      "original_pmid": "33464758",
+      "notice_pmid": "34127606",
+      "length_chars": 229
+    },
+    {
+      "original_pmid": "30688986",
+      "notice_pmid": "33464281",
+      "length_chars": 230
+    },
+    {
+      "original_pmid": "27769522",
+      "notice_pmid": "28042931",
+      "length_chars": 231
+    },
+    {
+      "original_pmid": "32580089",
+      "notice_pmid": "37572406",
+      "length_chars": 231
+    },
+    {
+      "original_pmid": "33539256",
+      "notice_pmid": "37589093",
+      "length_chars": 238
+    },
+    {
+      "original_pmid": "22249251",
+      "notice_pmid": "28263979",
+      "length_chars": 240
+    },
+    {
+      "original_pmid": "22781654",
+      "notice_pmid": "28237391",
+      "length_chars": 241
+    },
+    {
+      "original_pmid": "33968980",
+      "notice_pmid": "41404184",
+      "length_chars": 242
+    },
+    {
+      "original_pmid": "24132976",
+      "notice_pmid": "33966084",
+      "length_chars": 243
+    },
+    {
+      "original_pmid": "26609167",
+      "notice_pmid": "33974698",
+      "length_chars": 244
+    },
+    {
+      "original_pmid": "33564231",
+      "notice_pmid": "34345169",
+      "length_chars": 244
+    },
+    {
+      "original_pmid": "40190903",
+      "notice_pmid": "40190831",
+      "length_chars": 245
+    },
+    {
+      "original_pmid": "26808666",
+      "notice_pmid": "31455589",
+      "length_chars": 250
+    },
+    {
+      "original_pmid": "27987020",
+      "notice_pmid": "31980912",
+      "length_chars": 251
+    },
+    {
+      "original_pmid": "34221933",
+      "notice_pmid": "39416803",
+      "length_chars": 259
+    },
+    {
+      "original_pmid": "36378671",
+      "notice_pmid": "41417715",
+      "length_chars": 260
+    },
+    {
+      "original_pmid": "29426287",
+      "notice_pmid": "34551704",
+      "length_chars": 262
+    },
+    {
+      "original_pmid": "37305179",
+      "notice_pmid": "38058587",
+      "length_chars": 263
+    },
+    {
+      "original_pmid": "34095013",
+      "notice_pmid": "35118025",
+      "length_chars": 263
+    },
+    {
+      "original_pmid": "34504763",
+      "notice_pmid": "35402157",
+      "length_chars": 263
+    },
+    {
+      "original_pmid": "32207831",
+      "notice_pmid": "33599776",
+      "length_chars": 275
+    },
+    {
+      "original_pmid": "37462661",
+      "notice_pmid": "38727132",
+      "length_chars": 279
+    },
+    {
+      "original_pmid": "28745809",
+      "notice_pmid": "29419962",
+      "length_chars": 282
+    },
+    {
+      "original_pmid": "34927127",
+      "notice_pmid": "41220597",
+      "length_chars": 318
+    },
+    {
+      "original_pmid": "38735261",
+      "notice_pmid": "39147646",
+      "length_chars": 328
+    },
+    {
+      "original_pmid": "11907701",
+      "notice_pmid": "31745586",
+      "length_chars": 339
+    },
+    {
+      "original_pmid": "37627071",
+      "notice_pmid": "38339431",
+      "length_chars": 340
+    },
+    {
+      "original_pmid": "28506377",
+      "notice_pmid": "29506664",
+      "length_chars": 364
+    },
+    {
+      "original_pmid": "27966023",
+      "notice_pmid": "32940769",
+      "length_chars": 376
+    },
+    {
+      "original_pmid": "34073401",
+      "notice_pmid": "34751680",
+      "length_chars": 390
+    },
+    {
+      "original_pmid": "29121934",
+      "notice_pmid": "30876421",
+      "length_chars": 404
+    },
+    {
+      "original_pmid": "12574873",
+      "notice_pmid": "31745587",
+      "length_chars": 448
+    },
+    {
+      "original_pmid": "35575662",
+      "notice_pmid": "38953760",
+      "length_chars": 455
+    },
+    {
+      "original_pmid": "19499964",
+      "notice_pmid": "29705920",
+      "length_chars": 456
+    },
+    {
+      "original_pmid": "29492850",
+      "notice_pmid": "29705919",
+      "length_chars": 484
+    },
+    {
+      "original_pmid": "30446769",
+      "notice_pmid": "30972452",
+      "length_chars": 488
+    },
+    {
+      "original_pmid": "24961352",
+      "notice_pmid": "34957978",
+      "length_chars": 610
+    },
+    {
+      "original_pmid": "29028095",
+      "notice_pmid": "33877673",
+      "length_chars": 694
+    },
+    {
+      "original_pmid": "29687860",
+      "notice_pmid": "35731046",
+      "length_chars": 712
+    },
+    {
+      "original_pmid": "28182513",
+      "notice_pmid": "28414267",
+      "length_chars": 728
+    },
+    {
+      "original_pmid": "29687877",
+      "notice_pmid": "34533792",
+      "length_chars": 759
+    },
+    {
+      "original_pmid": "26866274",
+      "notice_pmid": "31068574",
+      "length_chars": 778
+    },
+    {
+      "original_pmid": "29385882",
+      "notice_pmid": "29986625",
+      "length_chars": 781
+    },
+    {
+      "original_pmid": "30396343",
+      "notice_pmid": "31973750",
+      "length_chars": 815
+    },
+    {
+      "original_pmid": "19892338",
+      "notice_pmid": "37358060",
+      "length_chars": 868
+    },
+    {
+      "original_pmid": "30526814",
+      "notice_pmid": "30834887",
+      "length_chars": 932
+    },
+    {
+      "original_pmid": "25860066",
+      "notice_pmid": "31701844",
+      "length_chars": 952
+    },
+    {
+      "original_pmid": "35593880",
+      "notice_pmid": "38837724",
+      "length_chars": 1049
+    },
+    {
+      "original_pmid": "36341700",
+      "notice_pmid": "38465469",
+      "length_chars": 1084
+    },
+    {
+      "original_pmid": "34545997",
+      "notice_pmid": "38465461",
+      "length_chars": 1141
+    },
+    {
+      "original_pmid": "28980716",
+      "notice_pmid": "30133801",
+      "length_chars": 1162
+    },
+    {
+      "original_pmid": "18453793",
+      "notice_pmid": "37594022",
+      "length_chars": 1170
+    },
+    {
+      "original_pmid": "27125765",
+      "notice_pmid": "35332681",
+      "length_chars": 1178
+    },
+    {
+      "original_pmid": "24957533",
+      "notice_pmid": "39976175",
+      "length_chars": 1189
+    },
+    {
+      "original_pmid": "38752466",
+      "notice_pmid": "39900504",
+      "length_chars": 1237
+    },
+    {
+      "original_pmid": "33615468",
+      "notice_pmid": "38419152",
+      "length_chars": 1240
+    },
+    {
+      "original_pmid": "21946890",
+      "notice_pmid": "27779652",
+      "length_chars": 1245
+    },
+    {
+      "original_pmid": "40152156",
+      "notice_pmid": "40650558",
+      "length_chars": 1283
+    },
+    {
+      "original_pmid": "24025159",
+      "notice_pmid": "30240055",
+      "length_chars": 1298
+    },
+    {
+      "original_pmid": "18050202",
+      "notice_pmid": "37337725",
+      "length_chars": 1316
+    },
+    {
+      "original_pmid": "21492238",
+      "notice_pmid": "30240054",
+      "length_chars": 1322
+    },
+    {
+      "original_pmid": "32246762",
+      "notice_pmid": "38108640",
+      "length_chars": 1508
+    },
+    {
+      "original_pmid": "37303275",
+      "notice_pmid": "38812278",
+      "length_chars": 1556
+    },
+    {
+      "original_pmid": "25407358",
+      "notice_pmid": "30134061",
+      "length_chars": 1821
+    },
+    {
+      "original_pmid": "27552401",
+      "notice_pmid": "27581995",
+      "length_chars": 1850
+    },
+    {
+      "original_pmid": "27140910",
+      "notice_pmid": "27581995",
+      "length_chars": 1850
+    },
+    {
+      "original_pmid": "25069726",
+      "notice_pmid": "27581995",
+      "length_chars": 1850
+    },
+    {
+      "original_pmid": "22696330",
+      "notice_pmid": "27581995",
+      "length_chars": 1850
+    },
+    {
+      "original_pmid": "14583953",
+      "notice_pmid": "27581995",
+      "length_chars": 1850
+    },
+    {
+      "original_pmid": "37903465",
+      "notice_pmid": "41950103",
+      "length_chars": 2196
+    },
+    {
+      "original_pmid": "16856030",
+      "notice_pmid": "28715610",
+      "length_chars": 2309
+    },
+    {
+      "original_pmid": "2012584",
+      "notice_pmid": "34167788",
+      "length_chars": 2383
+    },
+    {
+      "original_pmid": "31563928",
+      "notice_pmid": "32994616",
+      "length_chars": 2746
+    },
+    {
+      "original_pmid": "29669162",
+      "notice_pmid": "30875106",
+      "length_chars": 2814
+    }
+  ],
+  "summary": {
+    "n_candidates_total": 296,
+    "n_no_notice_pmid_blank_or_zero": 23,
+    "n_no_notice_pmid_same_as_original": 5,
+    "n_no_separate_notice_document_total": 28,
+    "n_notice_length_measured": 268,
+    "length_chars": {
+      "min": 11,
+      "max": 2814,
+      "mean": 333.7,
+      "median": 161.0,
+      "p25": 128,
+      "p75": 242,
+      "stdev": 480.5
+    },
+    "fraction_under_200_chars": 0.6642,
+    "fraction_over_1000_chars": 0.1007,
+    "histogram": [
+      {
+        "range": "0-50",
+        "n": 18,
+        "pct": 6.7
+      },
+      {
+        "range": "50-100",
+        "n": 17,
+        "pct": 6.3
+      },
+      {
+        "range": "100-200",
+        "n": 143,
+        "pct": 53.4
+      },
+      {
+        "range": "200-300",
+        "n": 39,
+        "pct": 14.6
+      },
+      {
+        "range": "300-500",
+        "n": 13,
+        "pct": 4.9
+      },
+      {
+        "range": "500-1000",
+        "n": 11,
+        "pct": 4.1
+      },
+      {
+        "range": "1000-2000",
+        "n": 22,
+        "pct": 8.2
+      },
+      {
+        "range": "2000-10000",
+        "n": 5,
+        "pct": 1.9
+      }
+    ]
+  }
+}

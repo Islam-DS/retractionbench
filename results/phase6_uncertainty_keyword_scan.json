@@ -1,0 +1,276 @@
+{
+ "prespecification": "prereg/phase6_uncertainty_keyword_scan.md",
+ "phrases": [
+  "i don't know",
+  "i do not know",
+  "not sure",
+  "uncertain",
+  "unclear",
+  "insufficient evidence",
+  "limited evidence",
+  "evidence is limited",
+  "evidence is insufficient",
+  "lack of evidence",
+  "not enough evidence",
+  "no current",
+  "no reliable",
+  "no consensus",
+  "conflicting evidence",
+  "inconclusive",
+  "not been established",
+  "not well established",
+  "cannot determine",
+  "unable to determine"
+ ],
+ "n_items": 13,
+ "n_responses": 117,
+ "n_with_hit": 18,
+ "rate": 0.15384615384615385,
+ "wilson_95ci": [
+  0.09958656287229516,
+  0.23011368412498184
+ ],
+ "item_clustered_bootstrap_95ci": [
+  0.02564102564102564,
+  0.3076923076923077
+ ],
+ "hits_by_model": {
+  "qwen2.5:7b-instruct-q4_K_M": 6,
+  "llama3.1:8b-instruct-q4_K_M": 12
+ },
+ "responses_by_model": {
+  "openai/gpt-oss-120b": 39,
+  "qwen2.5:7b-instruct-q4_K_M": 39,
+  "llama3.1:8b-instruct-q4_K_M": 39
+ },
+ "hits_by_item": {
+  "RB-0023": 6,
+  "RB-0025": 6,
+  "RB-0003": 3,
+  "RB-0004": 3
+ },
+ "hits_by_phrase": {
+  "evidence is limited": 3,
+  "evidence is insufficient": 3,
+  "unclear": 3,
+  "limited evidence": 9
+ },
+ "hit_responses": [
+  {
+   "response_id": "RB-0023_no_retrieval_1_qwen2.5-7b-instruct-q4_K_M",
+   "item_id": "RB-0023",
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "seed": 1,
+   "hits": [
+    "evidence is limited"
+   ],
+   "contexts": [
+    "ations in patients with copd undergoing lung cancer surgery, but the quality of evidence is limited. further high-quality studies are needed to confirm these findings.\ncited_docum"
+   ]
+  },
+  {
+   "response_id": "RB-0023_no_retrieval_2_qwen2.5-7b-instruct-q4_K_M",
+   "item_id": "RB-0023",
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "seed": 2,
+   "hits": [
+    "evidence is limited"
+   ],
+   "contexts": [
+    "ations in patients with copd undergoing lung cancer surgery, but the quality of evidence is limited by the small number of studies and their heterogeneity.\n\ncited_document_ids: no"
+   ]
+  },
+  {
+   "response_id": "RB-0023_no_retrieval_3_qwen2.5-7b-instruct-q4_K_M",
+   "item_id": "RB-0023",
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "seed": 3,
+   "hits": [
+    "evidence is limited"
+   ],
+   "contexts": [
+    "ations in patients with copd undergoing lung cancer surgery, but the quality of evidence is limited by the small number of studies and their heterogeneity.\n\ncited_document_ids: no"
+   ]
+  },
+  {
+   "response_id": "RB-0025_no_retrieval_1_qwen2.5-7b-instruct-q4_K_M",
+   "item_id": "RB-0025",
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "seed": 1,
+   "hits": [
+    "evidence is insufficient"
+   ],
+   "contexts": [
+    "answer: the current evidence is insufficient to determine the effect of a single dose of ivermectin on viral clearance and c"
+   ]
+  },
+  {
+   "response_id": "RB-0025_no_retrieval_2_qwen2.5-7b-instruct-q4_K_M",
+   "item_id": "RB-0025",
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "seed": 2,
+   "hits": [
+    "evidence is insufficient"
+   ],
+   "contexts": [
+    "answer: the available evidence is insufficient to draw definitive conclusions about the effect of a single dose of ivermectin "
+   ]
+  },
+  {
+   "response_id": "RB-0025_no_retrieval_3_qwen2.5-7b-instruct-q4_K_M",
+   "item_id": "RB-0025",
+   "model": "qwen2.5:7b-instruct-q4_K_M",
+   "seed": 3,
+   "hits": [
+    "evidence is insufficient"
+   ],
+   "contexts": [
+    "answer: the available evidence is insufficient to draw definitive conclusions about the effect of a single dose of ivermectin "
+   ]
+  },
+  {
+   "response_id": "RB-0003_no_retrieval_1_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0003",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 1,
+   "hits": [
+    "unclear"
+   ],
+   "contexts": [
+    " with stage i er-positive breast cancer, but the exact extent of this change is unclear. some studies suggest that the use of radiation therapy in this population may "
+   ]
+  },
+  {
+   "response_id": "RB-0003_no_retrieval_2_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0003",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 2,
+   "hits": [
+    "unclear"
+   ],
+   "contexts": [
+    " with stage i er-positive breast cancer, but the exact extent of this change is unclear. some studies suggest that the use of radiation therapy in this population may "
+   ]
+  },
+  {
+   "response_id": "RB-0003_no_retrieval_3_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0003",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 3,
+   "hits": [
+    "unclear"
+   ],
+   "contexts": [
+    " with stage i er-positive breast cancer, but the exact extent of this change is unclear. some studies suggest that the use of radiation therapy in this population may "
+   ]
+  },
+  {
+   "response_id": "RB-0004_no_retrieval_1_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0004",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 1,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence comparing ramosetron and granisetron specifically for preventing vomiting after"
+   ]
+  },
+  {
+   "response_id": "RB-0004_no_retrieval_2_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0004",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 2,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence comparing ramosetron and granisetron specifically for preventing vomiting after"
+   ]
+  },
+  {
+   "response_id": "RB-0004_no_retrieval_3_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0004",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 3,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence comparing ramosetron and granisetron specifically for preventing vomiting after"
+   ]
+  },
+  {
+   "response_id": "RB-0023_no_retrieval_1_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0023",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 1,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence to suggest that perioperative inhaled tiotropium may reduce postoperative cardi"
+   ]
+  },
+  {
+   "response_id": "RB-0023_no_retrieval_2_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0023",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 2,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence to suggest that perioperative inhaled tiotropium may reduce postoperative cardi"
+   ]
+  },
+  {
+   "response_id": "RB-0023_no_retrieval_3_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0023",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 3,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence to suggest that perioperative inhaled tiotropium may reduce postoperative cardi"
+   ]
+  },
+  {
+   "response_id": "RB-0025_no_retrieval_1_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0025",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 1,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence to suggest that a single dose of ivermectin may have a modest effect on viral c"
+   ]
+  },
+  {
+   "response_id": "RB-0025_no_retrieval_2_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0025",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 2,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence to suggest that a single dose of ivermectin may have a modest effect on viral c"
+   ]
+  },
+  {
+   "response_id": "RB-0025_no_retrieval_3_llama3.1-8b-instruct-q4_K_M",
+   "item_id": "RB-0025",
+   "model": "llama3.1:8b-instruct-q4_K_M",
+   "seed": 3,
+   "hits": [
+    "limited evidence"
+   ],
+   "contexts": [
+    "answer: there is limited evidence to suggest that a single dose of ivermectin may have a modest effect on viral c"
+   ]
+  }
+ ]
+}

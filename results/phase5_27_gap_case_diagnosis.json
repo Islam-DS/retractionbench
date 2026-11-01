@@ -1,0 +1,1028 @@
+[
+  {
+    "pmid": "14583953",
+    "record_ids": [
+      "31162"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/14651858.CD002766",
+    "rw_journal": "Cochrane Database of Systematic Reviews",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "9/1/2016 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Systematic Review"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Therapeutic touch for healing acute wounds"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "16856030",
+    "record_ids": [
+      "30918"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/14651858.CD004125.pub2",
+    "rw_journal": "Cochrane Database of Systematic Reviews",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "7/17/2017 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Investigation by Journal/Publisher;Retract and Replace;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Drugs for preventing postoperative nausea and vomiting"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {
+        "withdrawal": [
+          {
+            "id-type": "doi",
+            "id": "10.1002/14651858.CD004125.pub3",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "19959915",
+    "record_ids": [
+      "18348"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1007/BF03324916",
+    "rw_journal": "Aging Clinical and Experimental Research",
+    "rw_publisher": "Springer",
+    "rw_retraction_date": "6/5/2018 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Cites Retracted Work;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "RETRACTED ARTICLE: Prevention of hip fractures by exposure to sunlight and pharmacotherapy in patients with Alzheimer\u2019s disease"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "22696330",
+    "record_ids": [
+      "31161"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/14651858.CD002766.pub2",
+    "rw_journal": "Cochrane Database of Systematic Reviews",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "9/1/2016 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Therapeutic touch for healing acute wounds"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "25069726",
+    "record_ids": [
+      "31160"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/14651858.CD002766.pub3",
+    "rw_journal": "Cochrane Database of Systematic Reviews",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "9/1/2016 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Therapeutic touch for healing acute wounds"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "26658572",
+    "record_ids": [
+      "8140"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1007/s00167-015-3909-9",
+    "rw_journal": "Knee Surgery, Sports Traumatology, Arthroscopy: Official Journal of the ESSKA",
+    "rw_publisher": "Springer",
+    "rw_retraction_date": "10/1/2016 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Data;Error in Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Retraction Notice"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "RETRACTED ARTICLE: The benefit of arthroscopically assisted therapy for concomitant glenohumeral injuries in patients with unstable lateral clavicle fractures"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1007/s00167-015-3909-9",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2016,
+                10,
+                1
+              ]
+            ],
+            "date-time": "2016-10-01T00:00:00Z",
+            "timestamp": 1475280000000
+          },
+          "record-id": "8140"
+        },
+        {
+          "DOI": "10.1007/s00167-015-3909-9",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2015,
+                12,
+                12
+              ]
+            ],
+            "date-time": "2015-12-12T00:00:00Z",
+            "timestamp": 1449878400000
+          }
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "26955437",
+    "record_ids": [
+      "21551"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.4314/mmj.v27i4.7",
+    "rw_journal": "Malawi Medical Journal: the Journal of Medical Association of Malawi",
+    "rw_publisher": "Montfort Press for the Medical Association of Malawi",
+    "rw_retraction_date": "10/23/2019 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Data;Notice - Lack of;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": false,
+      "title": "Semen profiles of young men involved as bicycle taxi cyclists in Mangochi District, Malawi: A case-control study"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "corroboration_impossible_no_public_notice_anywhere",
+    "rw_reason_note": "RW's own reason field includes \"Notice - Lack of\" -- RW itself discloses that no public retraction notice could be located for this record. No independent source (PubMed structured tag, PubMed title/abstract text, OpenAlex, Crossref) corroborates a retraction at all."
+  },
+  {
+    "pmid": "27098397",
+    "record_ids": [
+      "8610"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/cbin.10615",
+    "rw_journal": "Cell Biology International",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "7/24/2017 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Results Not Reproducible;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Retraction Notice"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Retracted: Exosomes secreted by human urine\u2010derived stem cells accelerate skin wound healing by promoting angiogenesis in rat by Yuan H, Guan J, Zhang J, Zhang R, Li M"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1002/cbin.10615",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                7,
+                24
+              ]
+            ],
+            "date-time": "2017-07-24T00:00:00Z",
+            "timestamp": 1500854400000
+          },
+          "record-id": "8610"
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "27140910",
+    "record_ids": [
+      "31159"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/14651858.CD002766.pub4",
+    "rw_journal": "Cochrane Database of Systematic Reviews",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "9/1/2016 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Therapeutic touch for healing acute wounds"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "27294218",
+    "record_ids": [
+      "43260"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.29252/ijrm.14.3.193",
+    "rw_journal": "International Journal of Reproductive Biomedicine",
+    "rw_publisher": "Shahid Sdoughi University of Medical Sciences",
+    "rw_retraction_date": "1/9/2023 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Results and/or Conclusions;Investigation by Journal/Publisher;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "The effect of endometrial injury on first cycle IVF/ICSI outcome: A randomized controlled trial"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "27552401",
+    "record_ids": [
+      "31158"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/14651858.CD002766.pub5",
+    "rw_journal": "Cochrane Database of Systematic Reviews",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "9/1/2016 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Data;Notice - Limited or No Information;Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Therapeutic touch for healing acute wounds"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "28226403",
+    "record_ids": [
+      "16669"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1111/papr.12567",
+    "rw_journal": "Pain Practice: The Official Journal of World Institute of Pain",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "9/1/2017 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Data;Removed;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Case Reports",
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Retracted: The Effect of Peripheral Neuromodulation on Pain from the Sacroiliac Joint: A Retrospective Cohort Study"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1111/papr.12567",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                9,
+                1
+              ]
+            ],
+            "date-time": "2017-09-01T00:00:00Z",
+            "timestamp": 1504224000000
+          },
+          "record-id": "16669"
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "28395637",
+    "record_ids": [
+      "16851"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1080/14397595.2017.1304857",
+    "rw_journal": "Modern Rheumatology",
+    "rw_publisher": "Taylor and Francis",
+    "rw_retraction_date": "1/2/2020 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Data;Investigation by Company/Institution;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Retraction Notice"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "RETRACTED ARTICLE: Safety and effectiveness of high-dose methotrexate (over 8 mg/week) in 2838 Japanese patients with rheumatoid arthritis: A postmarketing surveillance report"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1080/14397595.2017.1304857",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2020,
+                1,
+                2
+              ]
+            ],
+            "date-time": "2020-01-02T00:00:00Z",
+            "timestamp": 1577923200000
+          },
+          "record-id": "16851"
+        },
+        {
+          "DOI": "10.1080/14397595.2017.1304857",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                4,
+                11
+              ]
+            ],
+            "date-time": "2017-04-11T00:00:00Z",
+            "timestamp": 1491868800000
+          }
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "28617973",
+    "record_ids": [
+      "12945"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1111/ppe.12371",
+    "rw_journal": "Paediatric and Perinatal Epidemiology",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "9/20/2017 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Unreliable Data;Unreliable Results and/or Conclusions;Removed;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Retracted : \u2018Hepatitis B Virus Infection in Preconception Period Among Women of Reproductive Age in Rural China \u2013 A Nationwide Study\u2019"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1111/ppe.12371",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2017,
+                9,
+                20
+              ]
+            ],
+            "date-time": "2017-09-20T00:00:00Z",
+            "timestamp": 1505865600000
+          },
+          "record-id": "12945"
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "29438490",
+    "record_ids": [
+      "18495"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1093/jb/mvy028",
+    "rw_journal": "Journal of Biochemistry",
+    "rw_publisher": "Oxford University Press",
+    "rw_retraction_date": "5/15/2018 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Unreliable Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Retracted: Detection of novel metabolite for Roxadustat doping by global metabolomics"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "30267080",
+    "record_ids": [
+      "20361"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1001/jamaoncol.2018.4070",
+    "rw_journal": "JAMA Oncology",
+    "rw_publisher": "American Medical Association",
+    "rw_retraction_date": "4/25/2019 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Data;Retract and Replace;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Comparative Study",
+        "Journal Article",
+        "Observational Study",
+        "Research Support, Non-U.S. Gov't"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Risk of Hepatocellular Carcinoma in Patients Treated With Entecavir vs Tenofovir for Chronic Hepatitis B"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "30688986",
+    "record_ids": [
+      "25061"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1001/jamainternmed.2018.5394",
+    "rw_journal": "JAMA Internal Medicine",
+    "rw_publisher": "American Medical Association",
+    "rw_retraction_date": "1/19/2021 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Analyses;Error in Results and/or Conclusions;Retract and Replace;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Association of Antibiotic Treatment With Outcomes in Patients Hospitalized for an Asthma Exacerbation Treated With Systemic Corticosteroids"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {
+        "has-review": [
+          {
+            "id-type": "doi",
+            "id": "10.3410/f.734937206.793556020",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "31415103",
+    "record_ids": [
+      "23160"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1002/clc.23246",
+    "rw_journal": "Clinical Cardiology",
+    "rw_publisher": "Wiley",
+    "rw_retraction_date": "3/17/2020 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Analyses;Error in Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Review"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Retracted: Interleukin\u20101 blockade treatment decreasing cardiovascular risk"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {
+        "retraction": [
+          {
+            "id-type": "doi",
+            "id": "10.1002/clc.23357",
+            "asserted-by": "object"
+          }
+        ]
+      },
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "31563928",
+    "record_ids": [
+      "21323"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "unavailable",
+    "rw_journal": "The New Zealand Medical Journal",
+    "rw_publisher": "New Zealand Medical Association",
+    "rw_retraction_date": "9/25/2019 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Date of Article and/or Notice Unknown;Error in Analyses;Error in Results and/or Conclusions;Retract and Replace;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 404,
+      "is_retracted": null
+    },
+    "crossref_check": {
+      "status": 404,
+      "relation": null,
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated_by_pubmed_own_text",
+    "doi_note": "RW stored the literal placeholder string \"unavailable\" as the DOI value -- not a real DOI, so the Crossref/OpenAlex 404s above are a script artifact, not real non-corroboration.",
+    "pubmed_text_check": "PubMed title is itself \"RETRACTED Are over-the-counter fish oil supplements...\" and the abstract field is literally \"RETRACTED.\" -- unambiguous confirmation in PubMed, same pattern as the already-documented PMID 37940041 WITHDRAWN-title case. The structured pubtype tag omits it regardless."
+  },
+  {
+    "pmid": "32946583",
+    "record_ids": [
+      "24857"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1093/qjmed/hcaa271",
+    "rw_journal": "QJM: An International Journal of Medicine",
+    "rw_publisher": "Oxford University Press",
+    "rw_retraction_date": "12/14/2020 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Error in Data;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "Minocycline ameliorates osteoporosis induced by ovariectomy (OVX) and iron accumulation via iron chelation, bone metabolism regulation and inhibition of oxidative stress"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": null
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "37940041",
+    "record_ids": [
+      "70441"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1016/j.jogc.2023.102264",
+    "rw_journal": "Journal of Obstetrics and Gynaecology Canada",
+    "rw_publisher": "Elsevier",
+    "rw_retraction_date": "9/26/2024 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Data;Investigation by Journal/Publisher;Investigation by Third Party;Notice - Limited or No Information;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "WITHDRAWN: The Effect of Preoperative Intravenous Tranexamic Acid Versus Rectal Misoprostol in Reducing Blood Loss During and After Elective Cesarean Delivery in Primigravida: A Double-Blinded, Randomized, Comparative-Placebo Trial"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1016/j.jogc.2023.102264",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2024,
+                9,
+                26
+              ]
+            ],
+            "date-time": "2024-09-26T00:00:00Z",
+            "timestamp": 1727308800000
+          },
+          "record-id": "70441"
+        },
+        {
+          "DOI": "10.1016/j.jogc.2023.102264",
+          "type": "removal",
+          "label": "Removal",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2023,
+                11,
+                7
+              ]
+            ],
+            "date-time": "2023-11-07T00:00:00Z",
+            "timestamp": 1699315200000
+          }
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "39566682",
+    "record_ids": [
+      "71762"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1016/j.ajcnut.2024.11.014",
+    "rw_journal": "The American Journal of Clinical Nutrition",
+    "rw_publisher": "Elsevier",
+    "rw_retraction_date": "11/19/2024 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Date of Article and/or Notice Unknown;Error in Analyses;Removed;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "REMOVED: Content of selected nutrients and potential contaminants in prenatal multivitamins and minerals: an observational study"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1016/j.ajcnut.2024.11.014",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2024-11-19T00:00:00Z",
+            "timestamp": 1731974400000
+          },
+          "record-id": "71762"
+        },
+        {
+          "DOI": "10.1016/j.ajcnut.2024.11.014",
+          "type": "removal",
+          "label": "Removal",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2024,
+                11,
+                19
+              ]
+            ],
+            "date-time": "2024-11-19T00:00:00Z",
+            "timestamp": 1731974400000
+          }
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "39906865",
+    "record_ids": [
+      "70654"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1016/j.heliyon.2025.e41707",
+    "rw_journal": "Heliyon",
+    "rw_publisher": "Elsevier - Cell Press",
+    "rw_retraction_date": "1/22/2026 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Concerns/Issues about Image;Investigation by Journal/Publisher;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "RETRACTED: Exploration of the mechanism of Lithospermum erythrorhizon oil in treating atopic dermatitis based on network pharmacology and experimental validation of the PI3K-Akt pathway regulation"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1016/j.heliyon.2025.e41707",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                2025,
+                1,
+                30
+              ]
+            ],
+            "date-time": "2025-01-30T00:00:00Z",
+            "timestamp": 1738195200000
+          }
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  },
+  {
+    "pmid": "6522427",
+    "record_ids": [
+      "70609"
+    ],
+    "duplicate_candidate_rows": false,
+    "doi": "10.1016/0091-3057(84)90154-0",
+    "rw_journal": "Pharmacology Biochemistry and Behavior",
+    "rw_publisher": "Elsevier",
+    "rw_retraction_date": "4/23/2026 0:00",
+    "rw_retraction_nature": "Retraction",
+    "rw_reason": "Date of Article and/or Notice Unknown;Removed;Unreliable Results and/or Conclusions;",
+    "pubmed_check": {
+      "status": 200,
+      "pubtype": [
+        "Journal Article"
+      ]
+    },
+    "openalex_check": {
+      "status": 200,
+      "is_retracted": true,
+      "title": "REMOVED: Cesium therapy in cancer patients"
+    },
+    "crossref_check": {
+      "status": 200,
+      "relation": {},
+      "update_to": [
+        {
+          "DOI": "10.1016/0091-3057(84)90154-0",
+          "type": "retraction",
+          "label": "Retraction",
+          "source": "retraction-watch",
+          "updated": {
+            "date-parts": [
+              [
+                2026,
+                4,
+                23
+              ]
+            ],
+            "date-time": "2026-04-23T00:00:00Z",
+            "timestamp": 1776902400000
+          },
+          "record-id": "70609"
+        },
+        {
+          "DOI": "10.1016/0091-3057(84)90154-0",
+          "type": "removal",
+          "label": "Removal",
+          "source": "publisher",
+          "updated": {
+            "date-parts": [
+              [
+                1984,
+                1,
+                1
+              ]
+            ],
+            "date-time": "1984-01-01T00:00:00Z",
+            "timestamp": 441763200000
+          }
+        }
+      ]
+    },
+    "classification": "true_pubmed_gap_corroborated"
+  }
+]

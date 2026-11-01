@@ -1,0 +1,38 @@
+RetractionBench dataset — Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+Copyright (c) 2026 Md. Mahbubul Islam
+
+This applies to the benchmark dataset in this repository: `data/benchmark/`
+(items.jsonl, sources.jsonl, rejected_candidates.jsonl, deferred_candidates.jsonl)
+and `data/human/` (the hand-labeled M3 and Correctness annotations).
+
+You are free to:
+
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+
+for any purpose, even commercially, under the following terms:
+
+  - Attribution — You must give appropriate credit to the author (Md. Mahbubul
+    Islam), provide a link to this license, and indicate if changes were made.
+    You may do so in any reasonable manner, but not in any way that suggests
+    the licensor endorses you or your use. When citing this dataset in
+    academic work, please cite the accompanying paper (see CITATION, once
+    published).
+
+No additional restrictions — you may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+---
+
+Note on underlying source content: this dataset's `question`, `trap_claim`,
+and `gold_claim` fields are original text written for this benchmark. Items
+also reference external identifiers (PMIDs, DOIs) and quote short excerpts of
+retraction notice text for annotation purposes; the underlying papers
+themselves remain under their own original publishers' copyright and are not
+redistributed in full by this dataset.
+
+Source code (everything under `src/`, `tests/`) is licensed separately under
+MIT — see LICENSE.

@@ -1,0 +1,89 @@
+[project]
+name = "retraction_bench"
+version = "0.1.0"
+description = "RetractionBench -- evaluating evidence currency in medical retrieval-augmented generation"
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+# This is a research application, not a distributed library, so runtime
+# dependencies live in the "core" dependency group below rather than here.
+dependencies = [
+    "anthropic>=0.125.0",
+]
+
+[project.scripts]
+retraction-bench = "retraction_bench.cli:app"
+
+[dependency-groups]
+# Always needed: schemas, config loading, the CLI, local analytical storage.
+core = [
+    "pydantic>=2.7",
+    "typer>=0.12",
+    "pyyaml>=6.0",
+    "duckdb>=1.0",
+    "pandas>=2.2",
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+]
+# Heavy ML dependencies (embeddings, retrieval, the litellm model interface).
+# Kept separate so `uv sync` doesn't pull these in for tasks that don't need them.
+models = [
+    "litellm>=1.40",
+    "sentence-transformers>=3.0",
+    "faiss-cpu>=1.8",
+    "psutil>=6.0",
+    "torch>=2.13",
+    "statsmodels>=0.15.0",
+]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.5",
+]
+
+[tool.uv]
+# `uv sync` installs these by default; `uv sync --group models` opts into the
+# heavy ML deps when you actually need embeddings/retrieval/model calls.
+default-groups = ["core", "dev"]
+
+# Without this, `uv sync --group models` silently installs PyPI's default CPU-only
+# torch build even on a CUDA-capable machine -- discovered live building the corpus
+# index (ADR-047): a 400k-document embedding job ran with 0% GPU utilization until
+# this was added. Pinned to the CUDA build matching this project's actual dev
+# machine (RTX 3050, driver-reported CUDA 13.0) on Windows specifically; other
+# platforms fall back to the default PyPI resolution, which may still be CPU-only --
+# re-verify `torch.cuda.is_available()` after `uv sync --group models` on a new
+# machine rather than assuming this pin is universally correct.
+[[tool.uv.index]]
+name = "pytorch-cu130"
+url = "https://download.pytorch.org/whl/cu130"
+explicit = true
+
+[tool.uv.sources]
+torch = [{ index = "pytorch-cu130", marker = "sys_platform == 'win32'" }]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/retraction_bench"]
+
+[tool.ruff]
+target-version = "py312"
+line-length = 120
+src = ["src", "tests"]
+
+[tool.ruff.lint]
+# E/F: pyflakes+pycodestyle basics, I: import sorting, UP: modern syntax,
+# B: bugbear (common bug patterns), SIM: simplification, N: naming, C4: comprehensions.
+select = ["E", "F", "I", "UP", "B", "SIM", "N", "C4"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["retraction_bench"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+markers = [
+    "slow: loads real committed data from disk (900-response cache, full benchmark) instead of small synthetic fixtures -- still fast in practice, not skipped by default, but marked for anyone who later wants to gate it out (e.g. `-m 'not slow'`).",
+]

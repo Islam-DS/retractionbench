@@ -1,0 +1,1955 @@
+{
+  "n_responses_scored": 234,
+  "n_responses_with_replacement_actually_retrieved": 126,
+  "n_of_those_where_model_cited_replacement": 79,
+  "citation_rate_given_retrieved": 0.626984126984127,
+  "citation_rate_given_retrieved_item_clustered_ci": {
+    "point_estimate": 0.626984126984127,
+    "ci_low": 0.373015873015873,
+    "ci_high": 0.8571428571428571,
+    "n_responses": 126,
+    "n_items": 7
+  },
+  "n_items_with_resolved_replacement": 15,
+  "per_item": {
+    "RB-0001": {
+      "retrieved": 0,
+      "cited": 0,
+      "total": 18
+    },
+    "RB-0002": {
+      "retrieved": 18,
+      "cited": 18,
+      "total": 18
+    },
+    "RB-0006": {
+      "retrieved": 18,
+      "cited": 18,
+      "total": 18
+    },
+    "RB-0008": {
+      "retrieved": 18,
+      "cited": 14,
+      "total": 18
+    },
+    "RB-0009": {
+      "retrieved": 0,
+      "cited": 0,
+      "total": 18
+    },
+    "RB-0010": {
+      "retrieved": 0,
+      "cited": 0,
+      "total": 18
+    },
+    "RB-0012": {
+      "retrieved": 0,
+      "cited": 0,
+      "total": 18
+    },
+    "RB-0013": {
+      "retrieved": 0,
+      "cited": 0,
+      "total": 18
+    },
+    "RB-0014": {
+      "retrieved": 18,
+      "cited": 9,
+      "total": 18
+    },
+    "RB-0017": {
+      "retrieved": 18,
+      "cited": 11,
+      "total": 18
+    },
+    "RB-0018": {
+      "retrieved": 18,
+      "cited": 0,
+      "total": 18
+    },
+    "RB-0021": {
+      "retrieved": 18,
+      "cited": 9,
+      "total": 18
+    },
+    "RB-0022": {
+      "retrieved": 0,
+      "cited": 0,
+      "total": 18
+    }
+  },
+  "rows": [
+    {
+      "response_id": "RB-0001_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0001",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0001",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0001",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0002",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0002",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0002",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0001",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0001",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0001",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0001_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0001",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0002",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0002",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0002",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0002_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0002",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0006",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0006",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0006",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0008",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0008",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0008",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0009",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0009",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0009",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0010",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0010",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0010",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0012",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0012",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0012",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0013",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0013",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0013",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0014",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0014",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0014",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0017",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0017",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0017",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0018",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0018",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0018",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0021",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0021",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0021",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_1_openai-gpt-oss-120b",
+      "item_id": "RB-0022",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_2_openai-gpt-oss-120b",
+      "item_id": "RB-0022",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_3_openai-gpt-oss-120b",
+      "item_id": "RB-0022",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_1_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_2_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_3_qwen2.5-7b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0014_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_naive_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_naive",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0006",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0008",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0009",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0010",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0012",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0013",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0014",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0017",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0018",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0021",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_1_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_2_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_3_llama3.1-8b-instruct-q4_K_M",
+      "item_id": "RB-0022",
+      "model": "llama3.1:8b-instruct-q4_K_M",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0006",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0006",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0006_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0006",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0008",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0008",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0008_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0008",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0009",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0009",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0009_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0009",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0010",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0010",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0010_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0010",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0012",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0012",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0012_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0012",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0013",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0013",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0013_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0013",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0014",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0014",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0014_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0014",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0017",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0017",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0017_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0017",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0018",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0018",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0018_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0018",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": false
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0021",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0021",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0021_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0021",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": true,
+      "replacement_cited": true
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_1_openai-gpt-oss-120b",
+      "item_id": "RB-0022",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_2_openai-gpt-oss-120b",
+      "item_id": "RB-0022",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    },
+    {
+      "response_id": "RB-0022_retrieval_with_notice_3_openai-gpt-oss-120b",
+      "item_id": "RB-0022",
+      "model": "openai/gpt-oss-120b",
+      "condition": "retrieval_with_notice",
+      "replacement_retrieved_in_this_response": false,
+      "replacement_cited": null
+    }
+  ]
+}

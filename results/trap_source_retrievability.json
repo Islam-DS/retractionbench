@@ -1,0 +1,74 @@
+{
+  "RB-0007": {
+    "group": "FLIP",
+    "source_id": "rw-16626",
+    "own_question_rank": 2,
+    "best_rank_on_other_questions": 3509,
+    "median_rank_on_other_questions": 298028,
+    "n_other_questions": 19
+  },
+  "RB-0008": {
+    "group": "FLIP",
+    "source_id": "rw-5690",
+    "own_question_rank": 2,
+    "best_rank_on_other_questions": 868,
+    "median_rank_on_other_questions": 280852,
+    "n_other_questions": 19
+  },
+  "RB-0011": {
+    "group": "FLIP",
+    "source_id": "rw-31612",
+    "own_question_rank": 2,
+    "best_rank_on_other_questions": 7013,
+    "median_rank_on_other_questions": 274535,
+    "n_other_questions": 19
+  },
+  "RB-0014": {
+    "group": "FLIP",
+    "source_id": "rw-34512",
+    "own_question_rank": 2,
+    "best_rank_on_other_questions": 219,
+    "median_rank_on_other_questions": 245492,
+    "n_other_questions": 19
+  },
+  "RB-0017": {
+    "group": "FLIP",
+    "source_id": "rw-70702",
+    "own_question_rank": 2,
+    "best_rank_on_other_questions": 208,
+    "median_rank_on_other_questions": 125133,
+    "n_other_questions": 19
+  },
+  "RB-0018": {
+    "group": "FLIP",
+    "source_id": "rw-47012",
+    "own_question_rank": 2,
+    "best_rank_on_other_questions": 1430,
+    "median_rank_on_other_questions": 200764,
+    "n_other_questions": 19
+  },
+  "RB-0002": {
+    "group": "NONFLIP_BARE",
+    "source_id": "rw-6402",
+    "own_question_rank": 1,
+    "best_rank_on_other_questions": 2042,
+    "median_rank_on_other_questions": 254613,
+    "n_other_questions": 19
+  },
+  "RB-0013": {
+    "group": "NONFLIP_BARE",
+    "source_id": "rw-20485",
+    "own_question_rank": 1,
+    "best_rank_on_other_questions": 19873,
+    "median_rank_on_other_questions": 215365,
+    "n_other_questions": 19
+  },
+  "RB-0020": {
+    "group": "NONFLIP_BARE",
+    "source_id": "rw-42874",
+    "own_question_rank": 1,
+    "best_rank_on_other_questions": 16440,
+    "median_rank_on_other_questions": 227032,
+    "n_other_questions": 19
+  }
+}

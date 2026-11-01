@@ -1,0 +1,84 @@
+{
+  "primary_majority_vote": {
+    "omnibus_friedman": {
+      "n_items": 21,
+      "statistic": 8.967741935483835,
+      "p_value": 0.011289626680630245
+    },
+    "pairwise": {
+      "llama3.1:8b-instruct-q4_K_M vs qwen2.5:7b-instruct-q4_K_M": {
+        "n_items": 21,
+        "mean_diff_of_diffs": 0.38095238095238093,
+        "ci": [
+          0.19047619047619047,
+          0.5714285714285714
+        ],
+        "p_value": 0.0072992700729927005
+      },
+      "llama3.1:8b-instruct-q4_K_M vs openai/gpt-oss-120b": {
+        "n_items": 21,
+        "mean_diff_of_diffs": 0.09523809523809523,
+        "ci": [
+          -0.09523809523809523,
+          0.2857142857142857
+        ],
+        "p_value": 0.6248375162483751
+      },
+      "qwen2.5:7b-instruct-q4_K_M vs openai/gpt-oss-120b": {
+        "n_items": 24,
+        "mean_diff_of_diffs": -0.20833333333333334,
+        "ci": [
+          -0.5,
+          0.08333333333333333
+        ],
+        "p_value": 0.268973102689731
+      }
+    },
+    "holm_adjusted_pairwise_p": {
+      "llama3.1:8b-instruct-q4_K_M vs qwen2.5:7b-instruct-q4_K_M": 0.021897810218978103,
+      "qwen2.5:7b-instruct-q4_K_M vs openai/gpt-oss-120b": 0.537946205379462,
+      "llama3.1:8b-instruct-q4_K_M vs openai/gpt-oss-120b": 0.6248375162483751
+    }
+  },
+  "check_continuous_rate": {
+    "omnibus_friedman": {
+      "n_items": 21,
+      "statistic": 7.8235294117646825,
+      "p_value": 0.020005166658160104
+    },
+    "pairwise": {
+      "llama3.1:8b-instruct-q4_K_M vs qwen2.5:7b-instruct-q4_K_M": {
+        "n_items": 21,
+        "mean_diff_of_diffs": 0.38095238095238093,
+        "ci": [
+          0.19047619047619047,
+          0.5714285714285714
+        ],
+        "p_value": 0.0072992700729927005
+      },
+      "llama3.1:8b-instruct-q4_K_M vs openai/gpt-oss-120b": {
+        "n_items": 21,
+        "mean_diff_of_diffs": 0.11111111111111113,
+        "ci": [
+          -0.03174603174603174,
+          0.2698412698412699
+        ],
+        "p_value": 0.18598140185981402
+      },
+      "qwen2.5:7b-instruct-q4_K_M vs openai/gpt-oss-120b": {
+        "n_items": 24,
+        "mean_diff_of_diffs": -0.2083333333333333,
+        "ci": [
+          -0.47222222222222215,
+          0.04166666666666668
+        ],
+        "p_value": 0.1488851114888511
+      }
+    },
+    "holm_adjusted_pairwise_p": {
+      "llama3.1:8b-instruct-q4_K_M vs qwen2.5:7b-instruct-q4_K_M": 0.021897810218978103,
+      "qwen2.5:7b-instruct-q4_K_M vs openai/gpt-oss-120b": 0.2977702229777022,
+      "llama3.1:8b-instruct-q4_K_M vs openai/gpt-oss-120b": 0.2977702229777022
+    }
+  }
+}

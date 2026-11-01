@@ -1,0 +1,1884 @@
+{
+  "n_rows": 364,
+  "n_unique_pmids": 296,
+  "duplicate_pmid_rows": 68,
+  "counts_by_row": {
+    "no_abstract": 26,
+    "replaced_by_retraction_text": 23,
+    "original_retained": 315
+  },
+  "proportions_by_row": {
+    "no_abstract": 0.07142857142857142,
+    "replaced_by_retraction_text": 0.06318681318681318,
+    "original_retained": 0.8653846153846154
+  },
+  "replaced_by_retraction_text_ci95_by_row": [
+    0.038461538461538464,
+    0.08791208791208792
+  ],
+  "replaced_by_retraction_text_by_unique_pmid": {
+    "count": 17,
+    "n": 296,
+    "proportion": 0.057432432432432436
+  },
+  "classifier": {
+    "openers": [
+      "this article has been retracted",
+      "this article was retracted",
+      "this article is being retracted",
+      "this article has been withdrawn",
+      "retracted:",
+      "retraction:",
+      "this retracts",
+      "[this retracts",
+      "the following article has been retracted",
+      "we, the authors, editors and publishers",
+      "this paper has been retracted",
+      "this paper was retracted",
+      "the publisher regrets"
+    ],
+    "short_word_threshold": 120,
+    "retract_keyword_pattern": "\\bretract(ed|ion|s)?\\b",
+    "structure_marker_pattern": "\\b(background|objective|purpose|aim|methods?|design|setting|participants?|interventions?|results?|conclusions?)\\s*:"
+  },
+  "per_record": [
+    {
+      "record_id": "12945",
+      "pmid": "28617973",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "16626",
+      "pmid": "28745809",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "17019",
+      "pmid": "28591045",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18336",
+      "pmid": "27239349",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18340",
+      "pmid": "28658896",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "19625",
+      "pmid": "27546094",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20136",
+      "pmid": "29669162",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20364",
+      "pmid": "30519094",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20424",
+      "pmid": "26866274",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20485",
+      "pmid": "30384782",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20571",
+      "pmid": "22326955",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20572",
+      "pmid": "27231202",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20929",
+      "pmid": "25079598",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21101",
+      "pmid": "22311724",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21127",
+      "pmid": "26808666",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "21551",
+      "pmid": "26955437",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21640",
+      "pmid": "11907701",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21641",
+      "pmid": "12574873",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21782",
+      "pmid": "29889622",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22183",
+      "pmid": "27987020",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22411",
+      "pmid": "2780939",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22856",
+      "pmid": "28277352",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22986",
+      "pmid": "27154914",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "23200",
+      "pmid": "25768800",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "23410",
+      "pmid": "29078018",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24261",
+      "pmid": "29174108",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "24292",
+      "pmid": "32316009",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24670",
+      "pmid": "27822126",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24737",
+      "pmid": "31966840",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24742",
+      "pmid": "30315625",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24857",
+      "pmid": "32946583",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24869",
+      "pmid": "30835717",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "25304",
+      "pmid": "32983981",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "25419",
+      "pmid": "33143742",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "25837",
+      "pmid": "32207831",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "27760",
+      "pmid": "29343720",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28117",
+      "pmid": "22576212",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28310",
+      "pmid": "26016859",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28312",
+      "pmid": "24132976",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28372",
+      "pmid": "23884390",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28623",
+      "pmid": "30721110",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "30702",
+      "pmid": "31977239",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "32516",
+      "pmid": "29426287",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "33254",
+      "pmid": "34016064",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34512",
+      "pmid": "28561987",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34883",
+      "pmid": "24961352",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37530",
+      "pmid": "26810338",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37571",
+      "pmid": "32757947",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37685",
+      "pmid": "21831503",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "38513",
+      "pmid": "32112181",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "38751",
+      "pmid": "23080548",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "40545",
+      "pmid": "18569468",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "40559",
+      "pmid": "29687860",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "41364",
+      "pmid": "29393690",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "42937",
+      "pmid": "30157787",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43260",
+      "pmid": "27294218",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43937",
+      "pmid": "33006501",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43939",
+      "pmid": "28978240",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43940",
+      "pmid": "30372641",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "44875",
+      "pmid": "32721075",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "46284",
+      "pmid": "16831439",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46287",
+      "pmid": "18166179",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46289",
+      "pmid": "18304534",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46290",
+      "pmid": "18314112",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46292",
+      "pmid": "18342858",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46293",
+      "pmid": "18675959",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46294",
+      "pmid": "18706549",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46496",
+      "pmid": "21075366",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "47011",
+      "pmid": "32436800",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "47012",
+      "pmid": "33539256",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "47666",
+      "pmid": "33892614",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "48828",
+      "pmid": "23347605",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "49716",
+      "pmid": "33855908",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "49782",
+      "pmid": "28092795",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "50125",
+      "pmid": "37305179",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "50389",
+      "pmid": "32246762",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "51861",
+      "pmid": "37627071",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "51914",
+      "pmid": "38355237",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "52159",
+      "pmid": "33739797",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52582",
+      "pmid": "33615468",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53044",
+      "pmid": "36601436",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53800",
+      "pmid": "37303275",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53981",
+      "pmid": "38554477",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "54766",
+      "pmid": "35575662",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "55213",
+      "pmid": "20091317",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "55980",
+      "pmid": "39155091",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "5833",
+      "pmid": "21946890",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "63557",
+      "pmid": "26989802",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "6402",
+      "pmid": "28446937",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "64785",
+      "pmid": "31339910",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "66455",
+      "pmid": "37698604",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "67752",
+      "pmid": "38973678",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69877",
+      "pmid": "28787749",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69879",
+      "pmid": "18765050",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69943",
+      "pmid": "19892338",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69944",
+      "pmid": "24957533",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70231",
+      "pmid": "37903465",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70239",
+      "pmid": "24580652",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70240",
+      "pmid": "26999688",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70241",
+      "pmid": "29914278",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "70242",
+      "pmid": "28969488",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70243",
+      "pmid": "27268381",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70244",
+      "pmid": "28738708",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70245",
+      "pmid": "29804486",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "70246",
+      "pmid": "21714693",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70247",
+      "pmid": "27125463",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70248",
+      "pmid": "21375372",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70294",
+      "pmid": "27583685",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70299",
+      "pmid": "33840341",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70302",
+      "pmid": "32967476",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70441",
+      "pmid": "37940041",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "70578",
+      "pmid": "39117277",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70702",
+      "pmid": "32421401",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70703",
+      "pmid": "32406308",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70704",
+      "pmid": "32745816",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70980",
+      "pmid": "28938689",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "71090",
+      "pmid": "34569421",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "71762",
+      "pmid": "39566682",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "7837",
+      "pmid": "26831366",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "1471",
+      "pmid": "11371485",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "16851",
+      "pmid": "28395637",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "17019",
+      "pmid": "28591045",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "17535",
+      "pmid": "28506377",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "17538",
+      "pmid": "29492850",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "17838",
+      "pmid": "19499964",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "17902",
+      "pmid": "26150866",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18004",
+      "pmid": "29409915",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "18348",
+      "pmid": "19959915",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18495",
+      "pmid": "29438490",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18661",
+      "pmid": "29385882",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "18954",
+      "pmid": "27373757",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "19091",
+      "pmid": "28980716",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "19241",
+      "pmid": "29693059",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "20126",
+      "pmid": "29121934",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20302",
+      "pmid": "30446769",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20361",
+      "pmid": "30267080",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20385",
+      "pmid": "30069515",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20571",
+      "pmid": "22326955",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20767",
+      "pmid": "29338665",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "21127",
+      "pmid": "26808666",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "21323",
+      "pmid": "31563928",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "21326",
+      "pmid": "31236364",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21545",
+      "pmid": "25860066",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22146",
+      "pmid": "30396343",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22220",
+      "pmid": "31822137",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "22847",
+      "pmid": "31046067",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22856",
+      "pmid": "28277352",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "23200",
+      "pmid": "25768800",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "23529",
+      "pmid": "32450107",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "23734",
+      "pmid": "27790554",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "2404",
+      "pmid": "27769522",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "24231",
+      "pmid": "27966023",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24742",
+      "pmid": "30315625",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "25061",
+      "pmid": "30688986",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "25238",
+      "pmid": "19366276",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "26197",
+      "pmid": "26221559",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28369",
+      "pmid": "28122931",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "28372",
+      "pmid": "23884390",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28440",
+      "pmid": "26609167",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28623",
+      "pmid": "30721110",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28689",
+      "pmid": "34007627",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "29744",
+      "pmid": "33194600",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "29980",
+      "pmid": "33464758",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "30918",
+      "pmid": "16856030",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31200",
+      "pmid": "33564231",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31553",
+      "pmid": "32926507",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31612",
+      "pmid": "29113521",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "32487",
+      "pmid": "33790308",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "33597",
+      "pmid": "34073401",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34061",
+      "pmid": "23307265",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34467",
+      "pmid": "33149920",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34512",
+      "pmid": "28561987",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34615",
+      "pmid": "29028095",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34846",
+      "pmid": "33280522",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "35226",
+      "pmid": "34095013",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "35394",
+      "pmid": "34796244",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "35860",
+      "pmid": "18204339",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "35862",
+      "pmid": "17873675",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "35863",
+      "pmid": "16415702",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "36238",
+      "pmid": "34731694",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "37307",
+      "pmid": "34419704",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37364",
+      "pmid": "32980580",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37552",
+      "pmid": "26227783",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37685",
+      "pmid": "21831503",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "38686",
+      "pmid": "34225541",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "38751",
+      "pmid": "23080548",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "39214",
+      "pmid": "28983675",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "40545",
+      "pmid": "18569468",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "41364",
+      "pmid": "29393690",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "42874",
+      "pmid": "27484048",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43761",
+      "pmid": "8923073",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43763",
+      "pmid": "9201530",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43961",
+      "pmid": "30161241",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "45144",
+      "pmid": "31578804",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "45244",
+      "pmid": "2138182",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "45529",
+      "pmid": "18050202",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "45574",
+      "pmid": "8522668",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "45575",
+      "pmid": "1289367",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "45576",
+      "pmid": "3104433",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46041",
+      "pmid": "35940183",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46249",
+      "pmid": "8708167",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46284",
+      "pmid": "16831439",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46287",
+      "pmid": "18166179",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46290",
+      "pmid": "18314112",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46293",
+      "pmid": "18675959",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46294",
+      "pmid": "18706549",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46396",
+      "pmid": "7790607",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46829",
+      "pmid": "34673744",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46947",
+      "pmid": "32580089",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "47012",
+      "pmid": "33539256",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "47081",
+      "pmid": "18453793",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "47088",
+      "pmid": "23717223",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "48194",
+      "pmid": "29523188",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "48828",
+      "pmid": "23347605",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "50389",
+      "pmid": "32246762",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "50625",
+      "pmid": "33186304",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "51891",
+      "pmid": "30655568",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52214",
+      "pmid": "37669538",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "52582",
+      "pmid": "33615468",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52779",
+      "pmid": "36341700",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52780",
+      "pmid": "34545997",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52985",
+      "pmid": "28919201",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53092",
+      "pmid": "37483219",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53692",
+      "pmid": "38448715",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53981",
+      "pmid": "38554477",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "55213",
+      "pmid": "20091317",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "55568",
+      "pmid": "38586880",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "55980",
+      "pmid": "39155091",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "56240",
+      "pmid": "38171239",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "56503",
+      "pmid": "38735261",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "5667",
+      "pmid": "27428477",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "5690",
+      "pmid": "27227402",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "5695",
+      "pmid": "29641345",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "58252",
+      "pmid": "33728053",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "59154",
+      "pmid": "38043916",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "6040",
+      "pmid": "23623304",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "6062",
+      "pmid": "26997557",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "61319",
+      "pmid": "38752466",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "6173",
+      "pmid": "22781654",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "63515",
+      "pmid": "40190903",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "63924",
+      "pmid": "38416549",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "64785",
+      "pmid": "31339910",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "6490",
+      "pmid": "24656405",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "66450",
+      "pmid": "34221933",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "66465",
+      "pmid": "16339297",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "67930",
+      "pmid": "39733973",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "68058",
+      "pmid": "34927127",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "68067",
+      "pmid": "37149726",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69113",
+      "pmid": "2972597",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69114",
+      "pmid": "18784499",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69332",
+      "pmid": "38714931",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69611",
+      "pmid": "36378671",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69873",
+      "pmid": "33968980",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69943",
+      "pmid": "19892338",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "69944",
+      "pmid": "24957533",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "7000",
+      "pmid": "23634843",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70067",
+      "pmid": "34136465",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70084",
+      "pmid": "30135654",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70231",
+      "pmid": "37903465",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70243",
+      "pmid": "27268381",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70244",
+      "pmid": "28738708",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70246",
+      "pmid": "21714693",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70373",
+      "pmid": "41461240",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70441",
+      "pmid": "37940041",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "70578",
+      "pmid": "39117277",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70648",
+      "pmid": "17714066",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70654",
+      "pmid": "39906865",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70702",
+      "pmid": "32421401",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70980",
+      "pmid": "28938689",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "71232",
+      "pmid": "33596356",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "8337",
+      "pmid": "22372723",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "8425",
+      "pmid": "10201761",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "8776",
+      "pmid": "22249251",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "9095",
+      "pmid": "10591360",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "9113",
+      "pmid": "11210871",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "16669",
+      "pmid": "28226403",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "17937",
+      "pmid": "25407358",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18004",
+      "pmid": "29409915",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "18060",
+      "pmid": "26484672",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18264",
+      "pmid": "21492238",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18266",
+      "pmid": "24025159",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18348",
+      "pmid": "19959915",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "18954",
+      "pmid": "27373757",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "20069",
+      "pmid": "30526814",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20126",
+      "pmid": "29121934",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20130",
+      "pmid": "29720049",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "20253",
+      "pmid": "30368879",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "20302",
+      "pmid": "30446769",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20361",
+      "pmid": "30267080",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20385",
+      "pmid": "30069515",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20570",
+      "pmid": "24837434",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20571",
+      "pmid": "22326955",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "20767",
+      "pmid": "29338665",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "20849",
+      "pmid": "29940689",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21065",
+      "pmid": "30031962",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "21127",
+      "pmid": "26808666",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "21545",
+      "pmid": "25860066",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22856",
+      "pmid": "28277352",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "22892",
+      "pmid": "28326838",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "23160",
+      "pmid": "31415103",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "24292",
+      "pmid": "32316009",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "25058",
+      "pmid": "33429667",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "26494",
+      "pmid": "25364278",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "28623",
+      "pmid": "30721110",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "29744",
+      "pmid": "33194600",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "29958",
+      "pmid": "1888324",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "29959",
+      "pmid": "2012584",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31158",
+      "pmid": "27552401",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31159",
+      "pmid": "27140910",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31160",
+      "pmid": "25069726",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31161",
+      "pmid": "22696330",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31162",
+      "pmid": "14583953",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31446",
+      "pmid": "27882418",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31553",
+      "pmid": "32926507",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "31790",
+      "pmid": "30356382",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "32154",
+      "pmid": "34044553",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "32522",
+      "pmid": "29687877",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34846",
+      "pmid": "33280522",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "34853",
+      "pmid": "33901883",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "36267",
+      "pmid": "34039476",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "36279",
+      "pmid": "27125765",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "36462",
+      "pmid": "34504763",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37307",
+      "pmid": "34419704",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "37364",
+      "pmid": "32980580",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "38686",
+      "pmid": "34225541",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "38885",
+      "pmid": "27246516",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "39040",
+      "pmid": "33356640",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "39070",
+      "pmid": "34930979",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "39214",
+      "pmid": "28983675",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "40008",
+      "pmid": "33947827",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "40276",
+      "pmid": "25869158",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "40383",
+      "pmid": "34045464",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "42874",
+      "pmid": "27484048",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43761",
+      "pmid": "8923073",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "43763",
+      "pmid": "9201530",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "44426",
+      "pmid": "35729419",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "45529",
+      "pmid": "18050202",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "46097",
+      "pmid": "31418073",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "49760",
+      "pmid": "36482382",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52214",
+      "pmid": "37669538",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "52215",
+      "pmid": "23328343",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52475",
+      "pmid": "37666566",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52780",
+      "pmid": "34545997",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "52834",
+      "pmid": "37948681",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53957",
+      "pmid": "35982202",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "53983",
+      "pmid": "35593880",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "53993",
+      "pmid": "37462661",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "5684",
+      "pmid": "2369230",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "5685",
+      "pmid": "2025077",
+      "classification": "replaced_by_retraction_text"
+    },
+    {
+      "record_id": "63515",
+      "pmid": "40190903",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "63924",
+      "pmid": "38416549",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "6414",
+      "pmid": "21456887",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "6531",
+      "pmid": "18384711",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "66166",
+      "pmid": "40152156",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "67103",
+      "pmid": "28316986",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "68058",
+      "pmid": "34927127",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "68772",
+      "pmid": "39905022",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70522",
+      "pmid": "38579090",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "70609",
+      "pmid": "6522427",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "71232",
+      "pmid": "33596356",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "7837",
+      "pmid": "26831366",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "7954",
+      "pmid": "28182513",
+      "classification": "original_retained"
+    },
+    {
+      "record_id": "8140",
+      "pmid": "26658572",
+      "classification": "no_abstract"
+    },
+    {
+      "record_id": "8610",
+      "pmid": "27098397",
+      "classification": "replaced_by_retraction_text"
+    }
+  ],
+  "corrected_2026_08_10": {
+    "note": "ADR-066: 68 of 364 rows are the same record_id exported once per matching domain (this project pipeline artifact, not an RW data error). n=296 unique candidates is authoritative.",
+    "n": 296,
+    "counts": {
+      "no_abstract": 22,
+      "replaced_by_retraction_text": 17,
+      "original_retained": 257
+    },
+    "proportions": {
+      "no_abstract": 0.07432432432432433,
+      "replaced_by_retraction_text": 0.057432432432432436,
+      "original_retained": 0.8682432432432432
+    },
+    "replaced_by_retraction_text_ci95": [
+      0.0304,
+      0.0845
+    ]
+  }
+}

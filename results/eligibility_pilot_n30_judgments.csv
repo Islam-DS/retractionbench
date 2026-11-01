@@ -1,0 +1,61 @@
+domain,record_id,title_short,judgment,note
+Pharmacology,42874,Mycophenolate mofetil for Graves orbitopathy,plausible,"named drug, patient-oriented outcome, EUGOGO-adjacent"
+Pharmacology,63515,PRRT for pancreatic NETs (meta-analysis),plausible,itself a review; well-covered oncology topic
+Pharmacology,46294,Extended letrozole for PCOS ovulation induction,plausible,ASRM/ESHRE guideline territory
+Pharmacology,24742,Nifedipine+sildenafil for threatened preterm labour,plausible,"named drugs, tocolysis guidelines"
+Pharmacology,52214,Corticosteroid+HA injection for knee OA,plausible,AAOS/OARSI guideline territory
+Pharmacology,50625,Midazolam vs distraction techniques for pre-op anxiety,plausible,borderline; systematic-review-likely not guideline-likely
+Pharmacology,20126,Rosuvastatin effect on endothelial biomarkers in T2DM,unclear,"surrogate/mechanistic outcome, not patient-oriented"
+Pharmacology,34061,Tiotropium to prevent post-op complications in COPD,plausible,perioperative COPD guideline territory
+Pharmacology,52779,Pentoxifylline for schizophrenia negative symptoms,plausible,adjunct-therapy reviews exist
+Pharmacology,70373,Omega-3 for psychological distress,plausible,omega-3/mental health reviews numerous
+Pharmacology,35226,DPP-4i vs SU add-on T2DM CV outcomes (meta-analysis),plausible,ADA/EASD guideline territory
+Pharmacology,2404,Vedolizumab for PSC in IBD,plausible,"named drug, named condition, gastro guidelines"
+Pharmacology,22856,Sildenafil for oligohydramnios,plausible,"known research thread (STRIDER), regulatory+review coverage"
+Pharmacology,28440,Vitamin D for depression (Beck Inventory),plausible,validated clinical outcome measure
+Pharmacology,55213,Progesterone for preterm birth in high-risk pregnancies,plausible,"ACOG guideline territory, well-known area"
+Pharmacology,50389,Vaginal progesterone after cerclage,plausible,same topic family as above
+Pharmacology,68058,Metformin for COVID-19 (TOGETHER trial),plausible,COVID treatment guideline territory
+Pharmacology,5690,ECT alone for schizophrenia (meta-analysis),plausible,psychiatric guideline territory
+Pharmacology,35863,Tramadol for premature ejaculation,plausible,urology guideline territory
+Pharmacology,34467,Terbinafine-associated rhabdomyolysis/AKI (case report),unclear,"regulatory route (FDA/EMA), not guideline/review"
+Pharmacology,20361,Entecavir vs tenofovir HCC risk (cohort),plausible,hepatology guideline territory
+Pharmacology,17838,Vitamin K2 for fractures in neurological disease,plausible,"named intervention, patient-oriented outcome"
+Pharmacology,67930,Placebo effects in pharmacological RCTs,unclear,"meta-research/methodology paper, not a clinical claim"
+Pharmacology,25061,Antibiotics for asthma exacerbation outcomes,plausible,GINA guideline territory
+Pharmacology,20767,Adjuvant radiotherapy for DLBCL,plausible,NCCN lymphoma guideline territory
+Pharmacology,39214,Sofosbuvir+ribavirin for HCV genotype 4,plausible,AASLD/EASL guideline territory
+Pharmacology,46293,GnRH agonists to prevent chemo-induced ovarian damage,plausible,ASCO fertility preservation guideline territory
+Pharmacology,31200,HbA1c associated with depression in cancer patients,unclear,"narrow biomarker association, not guideline-shaped"
+Pharmacology,5695,Finasteride/dutasteride pre-TURP bleeding,plausible,urology guideline territory
+Pharmacology,47012,Vaginal lidocaine for IUD insertion pain,plausible,named intervention RCT
+Obstetrics/Gynecology,42937,Uterine artery ligation for placenta previa,plausible,named procedure RCT
+Obstetrics/Gynecology,20364,Key genes in ovarian clear cell carcinoma,unclear,"SCREEN MISCLASSIFICATION -- bioinformatics/preclinical, not clinical"
+Obstetrics/Gynecology,28623,Pertuzumab+trastuzumab SUV-pCR correlation (Phase II),plausible,NCCN/ASCO breast cancer guideline territory
+Obstetrics/Gynecology,41364,Vaginal misoprostol pre-IUD insertion,plausible,named intervention RCT
+Obstetrics/Gynecology,55213,Progesterone for preterm birth (dup. of Pharm),plausible,same as Pharmacology entry
+Obstetrics/Gynecology,49782,Aerobic exercise for infertile patients,plausible,borderline; exercise-fertility reviews exist
+Obstetrics/Gynecology,47666,"Delayed vs early pushing, 2nd stage labour",plausible,ACOG labor management guideline territory
+Obstetrics/Gynecology,70231,LH levels and IVF outcomes (cohort),plausible,borderline; ESHRE reproductive endocrinology territory
+Obstetrics/Gynecology,47012,Vaginal lidocaine for IUD insertion (dup.),plausible,same as Pharmacology entry
+Obstetrics/Gynecology,40545,LMWH for recurrent miscarriage (dup.),plausible,classic Cochrane/ob-gyn topic
+Obstetrics/Gynecology,21127,Calcium vs COC for PMS (dup.),plausible,ACOG/Cochrane territory
+Obstetrics/Gynecology,17019,Tranexamic acid for myomectomy blood loss (meta-analysis),plausible,surgical guideline territory
+Obstetrics/Gynecology,69877,Labor scale vs WHO partograph,plausible,WHO/labor management guideline territory
+Obstetrics/Gynecology,34512,Misoprostol alone vs plus Foley for labor induction,plausible,named intervention RCT
+Obstetrics/Gynecology,51914,AI-based chorioamnionitis prediction (cohort),plausible,borderline; diagnostic-accuracy review territory
+Obstetrics/Gynecology,46284,Clomiphene+NAC vs clomiphene for infertility,plausible,named intervention RCT
+Obstetrics/Gynecology,70441,"IV tranexamic acid vs rectal misoprostol, cesarean blood loss",plausible,named intervention RCT
+Obstetrics/Gynecology,52159,Sequential vs day3 vs day5 embryo transfer,plausible,ESHRE/ASRM guideline territory
+Obstetrics/Gynecology,46293,GnRH agonists for ovarian damage prevention (dup.),plausible,same as Pharmacology entry
+Obstetrics/Gynecology,70240,Antioxidants for GDM fetal outcome,plausible,named intervention RCT
+Obstetrics/Gynecology,71090,Vertical vs horizontal vaginal cuff closure,plausible,borderline; surgical technique comparison
+Obstetrics/Gynecology,52582,"Misoprostol vs expectant management, miscarriage",plausible,named intervention RCT
+Obstetrics/Gynecology,21641,Urinary NTx in rheumatoid arthritis patients,unclear,"narrow biomarker association, not guideline-shaped"
+Obstetrics/Gynecology,43260,Endometrial injury effect on IVF outcome,plausible,named intervention RCT
+Obstetrics/Gynecology,70578,Propranolol and time-to-delivery (meta-analysis),plausible,named intervention meta-analysis
+Obstetrics/Gynecology,70245,"Subcuticular suturing technique, obese women cesarean",plausible,borderline; surgical technique comparison
+Obstetrics/Gynecology,16626,"Rural-urban post-neonatal mortality, Nigeria",plausible,"epidemiological, global health review territory"
+Obstetrics/Gynecology,70302,Omega-3+vitamin for GDM (meta-analysis),plausible,named intervention meta-analysis
+Obstetrics/Gynecology,28312,Vitamin D supplementation for GDM,plausible,named intervention RCT
+Obstetrics/Gynecology,40559,Placental exosomes in GDM (mechanistic),unclear,"mechanistic/biomarker study, not patient-oriented"

@@ -1,0 +1,101 @@
+label_id,record_id,title,article_type,human_label
+1,14406,Stimulation of Inducible Nitric Oxide by Hepatitis B Virus Transactivator Protein HBx Requires MTA1 Coregulator,Research Article;,preclinical
+2,30916,Long‐term bladder management by intermittent catheterisation in adults and children (Pub 2),Review Article;Revision;,unclear
+3,47515,Normal reference ranges for fetal cardiac function: Assessed by modified Doppler myocardial performance index (Mod MPI) in the Egyptian population,Research Article;,clinical_observational
+4,69079,Fluid management of patients undergoing abdominal surgery – more questions than answers,Review Article;,unclear
+5,28623,TBCRC026: Phase II Trial Correlating Standardized Uptake Value With Pathologic Complete Response to Pertuzumab and Trastuzumab in Breast Cancer,Clinical Study;,clinical_intervention
+6,8140,The benefit of arthroscopically assisted therapy for concomitant glenohumeral injuries in patients with unstable lateral clavicle fractures,Clinical Study;,clinical_intervention
+7,24501,Aplysin enhances temozolomide sensitivity in glioma cells by increasing miR‑181 level,Research Article;,preclinical
+8,70980,Efficacy and safety of traditional chemotherapies for patients with ovarian neoplasm: a network meta-analysis,Meta-Analysis;,clinical_intervention
+9,34820,Mocetinostat suppresses epidural fibrosis following laminectomy by inhibiting myofibroblast activation and increasing apoptosis,Research Article;,preclinical
+10,16841,Adjusting for illness severity shows there is no difference in patient mortality at weekends or weekdays for emergency medical admissions,Research Article;,clinical_observational
+11,18281,Therapeutic effect and potential mechanism of pioglitazone in rats with severe acute pancreatitis,Research Article;,preclinical
+12,20130,An analysis of factors predicting failure after single digit replantation,Research Article;,clinical_observational
+13,4426,Preparation and Characterization of Novel Lipid Nanocapsules of Ropivacaine for Transdermal Delivery,Research Article;,preclinical
+14,47668,Microvascular resistance reserve in the presence of functionally significant epicardial stenosis and changes after revascularization,Research Article;,clinical_observational
+15,20748,"Mental health in UK Biobank: development, implementation and results from an online questionnaire completed by 157 366 participants",Research Article;,clinical_observational
+16,21674,Hemolytic jaundice induced by pharmacological dose ascorbic acid in glucose-6-phosphate dehydrogenase deficiency: A case report,Case Report;,clinical_observational
+17,70243,Carbetocin versus syntometrine for prevention of postpartum hemorrhage after cesarean section,Research Article;,clinical_intervention
+18,53233,"Antiproliferative and apoptotic activity of glycyrrhizinic acid in MCF-7 human breast cancer cells and evaluation of its effect on cell cycle, cell migration and m-TOR/PI3K/Akt signalling pathway",Research Article;,preclinical
+19,22059,A survey of the secondary exposure to organophosphate and organochlorine pesticides and the impact of preventive factors in female villagers,Research Article;,clinical_observational
+20,24589,Homocysteine as a predictive factor for hip fracture in elderly women with Parkinson’s disease,Research Article;,clinical_observational
+21,40545,Low-molecular weight heparin in patients with recurrent early miscarriages of unknown aetiology,Clinical Study;,clinical_intervention
+22,52780,"Double-blind, randomized, placebo-controlled pilot study of the phosphodiesterase-3 inhibitor cilostazol as an adjunctive to antidepressants in patients with major depressive disorder",Clinical Study;,clinical_intervention
+23,24126,Endotracheal administration for intraoperative acute massive pulmonary embolism during laparoscopic hepatectomy: A case report,Case Report;,clinical_observational
+24,24850,Is interval training the magic bullet for fat loss? A systematic review and meta-analysis comparing moderate-intensity continuous training with high-intensity training (HIIT),Meta-Analysis;,clinical_intervention
+25,24996,A kinase‐interacting protein 1 may serve as a potential biomarker for deteriorative tumor features and poor prognosis in gastric cancer patients,Research Article;,clinical_observational
+26,268,Maternal exposure to particulate matter increases postnatal ozone-induced airway hyperreactivity in juvenile mice,Research Article;,preclinical
+27,12920,Development of synthetic of peptide-functionalized liposome for enhanced targeted ovarian carcinoma therapy,Research Article;,preclinical
+28,38568,Allogeneic Natural Killer and Cytomegalovirus (CMV)-pp65 Pulsed Dendritic Cells Induced Complete Response Through 15 Months in a Patient with Recurrent Glioblastoma: A Case Study,Research Article;,clinical_intervention
+29,1471,Ramosetron compared with granisetron for the prevention of vomiting following strabismus surgery in children,Research Article;,clinical_intervention
+30,40383,Non-invasive vagus nerve stimulation improves clinical and molecular biomarkers of Parkinson's disease in patients with freezing of gait,Clinical Study;,clinical_intervention
+31,6819,Anti-diabetic activity of Swertia corymbosa (Griseb.) Wight ex C.B. Clarke aerial parts extract in streptozotocin induced diabetic rats,Research Article;,preclinical
+32,12457,Atorvastatin protects cardiomyocytes against OGD/R-induced apoptosis by inhibiting miR-199a-5p,Research Article;,preclinical
+33,21289,"Decoy Oligodeoxynucleotides, Polysaccharides, and Targeted Peptide-Functionalized Gold Nanorods for the Combined Treatment of Rheumatoid Arthritis",Research Article;,preclinical
+34,32828,Fatal Outcomes from COVID-19 in Diabetes Patients and its Management: Impact of Diabetes and Other Comorbidities in COVID-19,Research Article;,unclear
+35,6406,Association between Polymorphism of the Interleukin-13 Gene and Susceptibility to Hepatocellular Carcinoma in the Chinese Population,Clinical Study;,clinical_observational
+36,70044,ErbB4 Preserves Blood-Brain Barrier Integrity via the YAP/PIK3CB Pathway After Subarachnoid Hemorrhage in Rats,Research Article;,preclinical
+37,17937,The cost-effectiveness of sacral nerve stimulation (SNS) for the treatment of idiopathic medically refractory overactive bladder (wet) in the UK,Research Article;,clinical_intervention
+38,59121,Effects of bilateral Pecto-intercostal Fascial Block for perioperative pain management in patients undergoing open cardiac surgery: a prospective randomized study,Clinical Study;,clinical_intervention
+39,7969,Genistein mediated histone acetylation and demethylation activates tumor suppressor genes in prostate cancer cells,Research Article;,preclinical
+40,20330,Embedded Silica Nanoparticles in Poly(Caprolactone) Nanofibrous Scaffolds Enhanced Osteogenic Potential for Bone Tissue Engineering,Research Article;,preclinical
+41,70299,Impact of manual removal of the placenta and intrauterine cleaning during elective cesarean delivery on maternal infectious morbidity and blood loss,Clinical Study;,clinical_intervention
+42,16648,Car safety seats for children: rear facing for best protection,Research Article;,unclear
+43,6614,Retinoic acid-incorporated glycol chitosan nanoparticles inhibit the expression of Ezh2 in U118 and U138 human glioma cells,Research Article;,preclinical
+44,23332,"Inhibition of mTORC1 kinase activates Smads 1 and 5 but not Smad8 in human prostate cancer cells, mediating cytostatic response to rapamycin",Research Article;,preclinical
+45,20136,Development and validation of algorithms to differentiate ductal carcinoma in situ from invasive breast cancer within administrative claims data,Research Article;,clinical_observational
+46,9113,Prevention of vomiting after tonsillectomy in children: granisetron versus ramosetron,Clinical Study;,clinical_intervention
+47,47012,"Self-administrated vaginal 2% lidocaine in-situ gel for pain relief during copper intrauterine device insertion in women with previous caesarean delivery only: a randomised, double-blind placebo-controlled trial",Clinical Study;,clinical_intervention
+48,45273,6-month consequences of COVID-19 in patients discharged from hospital: a cohort study,Research Article;,clinical_observational
+49,28119,Load-velocity relationship 1RM predictions: A comparison of Smith machine and free-weight exercise,Clinical Study;,clinical_observational
+50,70046,miR-16 and Fluoxetine Both Reverse Autophagic and Apoptotic Change in Chronic Unpredictable Mild Stress Model Rats,Research Article;,preclinical
+51,24027,lncRNA GHET1 down-regulation suppresses the cell activities of glioma,Research Article;,preclinical
+52,37530,Randomized controlled study of pre-conception thromboprophylaxis among patients with recurrent spontaneous abortion related to antiphospholipid syndrome,Clinical Study;,clinical_intervention
+53,38686,Efficacy of combined Sofosbuvir and Daclatasvir in the treatment of COVID-19 patients with pneumonia: a multicenter Egyptian study,Clinical Study;,clinical_intervention
+54,52475,Case of human rabies despite post-exposure prophylaxis (PEP) and complete recovery after intrathecal rabies immunoglobulin (RIG),Case Report;,clinical_intervention
+55,34133,MiR-98-5p regulates proliferation and metastasis of MCF-7 breast cancer cells by targeting Gab2,Research Article;,preclinical
+56,24168,MiR-935 Promotes Clear Cell Renal Cell Carcinoma Migration and Invasion by Targeting IREB2,Research Article;,preclinical
+57,70704,Evaluation of the severity of striae gravidarum in women with pelvic organ prolapse,Research Article;,clinical_observational
+58,19753,Phenazine Content in the Cystic Fibrosis Respiratory Tract Negatively Correlates with Lung Function and Microbial Complexity,Research Article;,clinical_observational
+59,23536,Who Performs the Preoperative Examination,Case Report;,unclear
+60,21853,Epigenetic silencing of peroxisome proliferator-activated receptor y is a biomarker for colorectal cancer progression and adverse patients' outcome,Research Article;,clinical_observational
+61,23542,Hospital Admission and Readmission Among Homeless Patients With Neurologic Disease,Research Article;,clinical_observational
+62,38540,Assessing the Dissemination of COVID-19 Articles Across Social Media With Altmetric and PlumX Metrics: Correlational Study,Research Article;,clinical_observational
+63,21335,miR-140-5p Alleviates The Aggressive Progression Of Wilms’ Tumor Through Directly Targeting TGFBR I Gene,Research Article;,preclinical
+64,20364,Identification of potential key genes associated with ovarian clear cell carcinoma,Research Article;,preclinical
+65,30131,"Prophylactic effects of psychoanalysis on cancer-prone and coronary heart disease-prone probands, as compared with control groups and behaviour therapy groups",Research Article;,clinical_intervention
+66,14421,"MAVS, cGAS, and endogenous retroviruses in T-independent B cell responses",Research Article;,preclinical
+67,21103,HDAC6 inhibitor TST strengthens the antiproliferative effects of PI3K/mTOR inhibitor BEZ235 in breast cancer cells via suppressing RTK activation,Research Article;,preclinical
+68,22410,Is Media Information That Smoking Causes Illness a Self-Fulfilling Prophecy,Research Article;,clinical_observational
+69,24857,"Minocycline ameliorates osteoporosis induced by ovariectomy (OVX) and iron accumulation via iron chelation, bone metabolism regulation and inhibition of oxidative stress",Research Article;,preclinical
+70,46293,Gonadotropin-releasing hormone agonists for prevention of chemotherapy-induced ovarian damage: prospective randomized study,Clinical Study;,clinical_intervention
+71,53692,New insight of the efficacy trimetazidine in patients with peripheral arterial disease: a meta-analysis,Meta-Analysis;,clinical_intervention
+72,42190,New Predictive Resting Metabolic Rate Equations for High-Level Athletes: A Cross-Validation Study,Research Article;,clinical_observational
+73,42874,Efficacy and safety of mycophenolate mofetil in patients with active moderate-to-severe Graves’ orbitopathy,Clinical Study;,clinical_intervention
+74,20126,Effect of rosuvastatin on fasting and postprandial endothelial biomarker levels and microvascular reactivity in patients with type 2 diabetes and dyslipidemia: a preliminary report,Clinical Study;,clinical_intervention
+75,24231,"Bismuth adjuvant ameliorates adverse effects of high-dose chemotherapy in patients with multiple myeloma and malignant lymphoma undergoing autologous stem cell transplantation: a randomised, double-blind, prospective pilot study",Clinical Study;,clinical_intervention
+76,38906,The lncRNA SNHG5-mediated miR-205-5p downregulation contributes to the progression of clear cell renal cell carcinoma by targeting ZEB1,Research Article;,preclinical
+77,7990,The coexpression of EphB4 and EphrinB2 is associated with poor prognosis in HER2-positive breast cancer,Research Article;,clinical_observational
+78,63557,Ovarian parameters and ovarian blood flow of women living in the area of environmental crisis,Research Article;,clinical_observational
+79,24671,Long Non-Coding RNA Cancer Susceptibility 9 (CASC9) Up-Regulates the Expression of ERBB2 by Inhibiting miR-193a-5p in Colorectal Cancer,Research Article;,preclinical
+80,6494,Tissue-infiltrating mucosal-associated invariant T cells play an important role against Mycobacterium tuberculosis infection in tuberculosis pleurisy,Research Article;,clinical_observational
+81,23379,A Case of Crossed Logopenic Primary Progressive Aphasia in a Dextral Patient with Underlying Frontotemporal Dementia,Case Report;,clinical_observational
+82,28677,Dose-response relationship of Aloe vera to cure atopic dermatitis in rats,Research Article;,preclinical
+83,44504,EEG signal connectivity for characterizing interictal activity in patients with mesial temporal lobe epilepsy,Research Article;,clinical_observational
+84,28370,High-dose ω-3 Fatty Acid Plus Vitamin D3 Supplementation Affects Clinical Symptoms and Metabolic Status of Patients with Multiple Sclerosis: A Randomized Controlled Clinical Trial,Clinical Study;,clinical_intervention
+85,20146,Efficacy of novel antibody-based drugs against rhinovirus infection: In vitro and in vivo results,Research Article;,preclinical
+86,18263,Bone response to hydroxyapatites with open porosity of animal origin (porcine [OsteoBiol®mp3] and bovine [Endobon®]): a radiological and histomorphometric study,Research Article;,preclinical
+87,21551,"Semen profiles of young men involved as bicycle taxi cyclists in Mangochi District, Malawi: A case-control study",Research Article;,clinical_observational
+88,24136,Spinal circRNA-9119 Suppresses Nociception by Mediating the miR-26a-TLR3 Axis in a Bone Cancer Pain Mouse Model,Research Article;,preclinical
+89,66455,The effect of uterine massage after vaginal delivery on the duration of placental delivery and amount of postpartum hemorrhage,Clinical Study;,clinical_intervention
+90,36242,Controlled Nutrient Delivery to Pancreatic Islets Using Polydopamine-Coated Mesoporous Silica Nanoparticles,Letter;Research Article;,preclinical
+91,29956,Method of test administration as a factor in test validity: The use of a personality questionnaire in the prediction of cancer and coronary heart disease,Research Article;,clinical_observational
+92,19559,Histologic evaluation of new bone in post-extraction sockets induced by melatonin and apigenin: an experimental study in American fox hound dogs,Research Article;,preclinical
+93,53240,Phosphotyrosine picked threonine kinase stimulates proliferation of human osteosarcoma cells in vitro and in vivo,Research Article;,preclinical
+94,21101,Tumor tropism of intravenously injected human-induced pluripotent stem cell-derived neural stem cells and their gene therapy application in a metastatic breast cancer model,Research Article;,preclinical
+95,39214,Efficacy and safety of sofosbuvir plus ribavirin for treatment of cirrhotic patients with genotype 4 hepatitis C virus in real-life clinical practice,Clinical Study;,clinical_intervention
+96,31862,MiR-451 Promotes Cell Proliferation and Metastasis in Pancreatic Cancer through Targeting CAB39,Research Article;,preclinical
+97,4874,Increased risk of stomach and esophageal malignancies in people with AIDS.,Research Article;,clinical_observational
+98,40265,Downregulation of long noncoding RNA H19 rescues hippocampal neurons from apoptosis and oxidative stress by inhibiting IGF2 methylation in mice with streptozotocin-induced diabetes mellitus,Research Article;,preclinical
+99,56956,Augmented venoarteriolar response with ageing is associated with morning blood pressure surge,Research Article;,clinical_observational
+100,43773,A Novel Approach in Spinal Cord Stimulation for Enhancing Gastric Motility: A Preliminary Study on Canines,Research Article;,preclinical

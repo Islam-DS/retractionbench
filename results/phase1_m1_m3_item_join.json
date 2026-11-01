@@ -1,0 +1,104 @@
+{
+  "n_shared_cells_total": 48,
+  "by_model": {
+    "llama3.1:8b-instruct-q4_K_M": {
+      "n_items": 22,
+      "phi": -0.26311740579210896,
+      "ci": [
+        -0.47140452079103173,
+        -0.13363062095621214
+      ],
+      "confusion": {
+        "cites_and_acknowledges": 11,
+        "cites_not_acknowledge": 9,
+        "not_cites_acknowledges": 2,
+        "neither": 0
+      },
+      "too_small_for_inference": false,
+      "item_ids": [
+        "RB-0001",
+        "RB-0002",
+        "RB-0003",
+        "RB-0004",
+        "RB-0006",
+        "RB-0007",
+        "RB-0008",
+        "RB-0009",
+        "RB-0010",
+        "RB-0011",
+        "RB-0012",
+        "RB-0013",
+        "RB-0014",
+        "RB-0015",
+        "RB-0016",
+        "RB-0017",
+        "RB-0018",
+        "RB-0019",
+        "RB-0021",
+        "RB-0022",
+        "RB-0023",
+        "RB-0025"
+      ]
+    },
+    "openai/gpt-oss-120b": {
+      "n_items": 2,
+      "phi": NaN,
+      "ci": [
+        NaN,
+        NaN
+      ],
+      "confusion": {
+        "cites_and_acknowledges": 0,
+        "cites_not_acknowledge": 0,
+        "not_cites_acknowledges": 2,
+        "neither": 0
+      },
+      "too_small_for_inference": true,
+      "item_ids": [
+        "RB-0001",
+        "RB-0002"
+      ]
+    },
+    "qwen2.5:7b-instruct-q4_K_M": {
+      "n_items": 24,
+      "phi": 0.2581988897471611,
+      "ci": [
+        -0.1456505408078166,
+        0.6390644422470535
+      ],
+      "confusion": {
+        "cites_and_acknowledges": 9,
+        "cites_not_acknowledge": 6,
+        "not_cites_acknowledges": 3,
+        "neither": 6
+      },
+      "too_small_for_inference": false,
+      "item_ids": [
+        "RB-0001",
+        "RB-0002",
+        "RB-0003",
+        "RB-0004",
+        "RB-0006",
+        "RB-0007",
+        "RB-0008",
+        "RB-0009",
+        "RB-0010",
+        "RB-0011",
+        "RB-0012",
+        "RB-0013",
+        "RB-0014",
+        "RB-0015",
+        "RB-0016",
+        "RB-0017",
+        "RB-0018",
+        "RB-0019",
+        "RB-0020",
+        "RB-0021",
+        "RB-0022",
+        "RB-0023",
+        "RB-0024",
+        "RB-0025"
+      ]
+    }
+  }
+}

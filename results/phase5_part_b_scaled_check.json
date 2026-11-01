@@ -1,0 +1,2408 @@
+{
+  "git_hash": "88309ed802fa074547589613f87f682c55f68c5c",
+  "n_sampled": 300,
+  "n_no_pmid_excluded": 0,
+  "n_checked": 300,
+  "results": [
+    {
+      "pmid": "3481042",
+      "doi": null,
+      "year": "1998",
+      "publisher": "AEPress",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "12617850",
+      "doi": "10.1016/S0925-4773(02)00302-7",
+      "year": "2002",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "14527508",
+      "doi": "10.1016/s0008-8749(03)00157-6",
+      "year": "2003",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "12426956",
+      "doi": null,
+      "year": "2004",
+      "publisher": "Avoxa",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "10077615",
+      "doi": "10.1073/pnas.96.6.2937",
+      "year": "2005",
+      "publisher": "National Academy of Sciences (NAS)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "1996082",
+      "doi": null,
+      "year": "2006",
+      "publisher": "ASPET: American Society for Pharmacology and Experimental Therapeutics",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "27407992",
+      "doi": "10.1016/S0377-1237(07)80082-7",
+      "year": "2007",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "17476094",
+      "doi": "10.1159/000101955",
+      "year": "2007",
+      "publisher": "Karger",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "18407737",
+      "doi": "10.2217/14796694.4.2.241",
+      "year": "2008",
+      "publisher": "Future Medicine - Future Science Group",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "17704142",
+      "doi": "10.1529/biophysj.107.105973",
+      "year": "2008",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "10796627",
+      "doi": "10.1002/14651858.CD001268",
+      "year": "2009",
+      "publisher": "Wiley",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "12917904",
+      "doi": "10.1002/14651858.CD001267",
+      "year": "2009",
+      "publisher": "Wiley",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "19372569",
+      "doi": "10.1158/1535-7163.MCT-08-0905",
+      "year": "2009",
+      "publisher": "American Association for Cancer Research",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "20375762",
+      "doi": "10.1097/PRS.0b013e3181de22d1",
+      "year": "2010",
+      "publisher": "Wolters Kluwer",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "19643896",
+      "doi": "10.1099/ijs.0.012336-0",
+      "year": "2010",
+      "publisher": "Microbiology Society",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "15829920",
+      "doi": "10.1038/nature03493",
+      "year": "2010",
+      "publisher": "Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "12535497",
+      "doi": "10.1002/14651858.CD003973",
+      "year": "2011",
+      "publisher": "Wiley",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "20375226",
+      "doi": "10.1099/vir.0.018754-0",
+      "year": "2011",
+      "publisher": "Microbiology Society",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "12625310",
+      "doi": "10.1046/j.1365-2044.2003.02964_2.x",
+      "year": "2011",
+      "publisher": "Wiley-Blackwell",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "20051107",
+      "doi": "10.1186/1471-2180-10-1",
+      "year": "2011",
+      "publisher": "BioMed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "21195530",
+      "doi": "10.1016/j.joms.2010.06.212",
+      "year": "2011",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "19845890",
+      "doi": "10.1111/j.1467-9280.2009.02458.x",
+      "year": "2012",
+      "publisher": "SAGE Publications",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "22997623",
+      "doi": "10.1016/j.tox.2011.09.020",
+      "year": "2012",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "22845628",
+      "doi": "10.1021/jo300677f",
+      "year": "2012",
+      "publisher": "American Chemical Society (ACS)",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "8595684",
+      "doi": "10.1007/BF03015095",
+      "year": "2012",
+      "publisher": "Springer",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "22244631",
+      "doi": "10.1016/j.joen.2011.10.010",
+      "year": "2012",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "19418497",
+      "doi": "10.1002/pros.20963",
+      "year": "2012",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "21525678",
+      "doi": "10.4103/0970-9290.79976",
+      "year": "2013",
+      "publisher": "Wolters Kluwer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "12735096",
+      "doi": "10.1080/713847128",
+      "year": "2013",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "22778739",
+      "doi": "10.1155/2012/380845",
+      "year": "2013",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "14652118",
+      "doi": "10.1016/S0952-8180(03)00086-2",
+      "year": "2013",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "22215414",
+      "doi": "10.1007/s12032-011-0143-2",
+      "year": "2013",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "22640574",
+      "doi": "10.1186/1748-7161-7-11",
+      "year": "2013",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "22577497",
+      "doi": "10.4081/or.2012.e1",
+      "year": "2013",
+      "publisher": "PAGEPress",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "18456410",
+      "doi": "10.1016/j.neuroscience.2008.03.052",
+      "year": "2014",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25077665",
+      "doi": "10.1292/jvms.14-0225",
+      "year": "2014",
+      "publisher": "Japanese Society of Veterinary Science",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "22212077",
+      "doi": "10.1111/j.1365-2559.2011.04000.x",
+      "year": "2014",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "11997506",
+      "doi": "10.1128/MCB.22.11.3698-3706.2002",
+      "year": "2014",
+      "publisher": "American Society for Microbiology",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25450685",
+      "doi": "10.1016/j.bbrc.2014.10.109",
+      "year": "2014",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "23634949",
+      "doi": "10.1186/1758-5996-5-22",
+      "year": "2014",
+      "publisher": "BioMed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25001589",
+      "doi": "10.1007/s11033-014-3515-9",
+      "year": "2015",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "15846603",
+      "doi": "10.1002/14651858.CD000319.pub3",
+      "year": "2015",
+      "publisher": "Wiley",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "24999493",
+      "doi": "10.1155/2014/629412",
+      "year": "2015",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25791693",
+      "doi": "10.1159/000380958",
+      "year": "2015",
+      "publisher": "Karger",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25040367",
+      "doi": "10.1111/1348-0421.12179",
+      "year": "2015",
+      "publisher": "Wiley",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "23438478",
+      "doi": "10.1016/j.ajpath.2012.11.026",
+      "year": "2015",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "19073167",
+      "doi": "10.1016/j.ydbio.2008.11.017",
+      "year": "2015",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25270010",
+      "doi": null,
+      "year": "2015",
+      "publisher": "NIOC Health Organization",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "15106255",
+      "doi": "10.1002/14651858.CD004486.pub2",
+      "year": "2015",
+      "publisher": "Wiley",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "26631726",
+      "doi": "10.1074/jbc.M115.695478",
+      "year": "2016",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "18381294",
+      "doi": "10.1074/jbc.M708933200",
+      "year": "2016",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "24627092",
+      "doi": "10.1007/s10886-014-0406-4",
+      "year": "2016",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "20066057",
+      "doi": "10.1186/1757-1626-2-9327",
+      "year": "2016",
+      "publisher": "BioMed Central (BMC)",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "21453497",
+      "doi": "10.1186/1747-1028-6-7",
+      "year": "2016",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "27145001",
+      "doi": "10.1002/14651858.CD004870.pub4",
+      "year": "2016",
+      "publisher": "Wiley",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "21699387",
+      "doi": "10.3109/10428194.2011.591005",
+      "year": "2016",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "26619950",
+      "doi": "10.1038/srep17387",
+      "year": "2016",
+      "publisher": "Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "23438478",
+      "doi": "10.1016/j.ajpath.2012.11.026",
+      "year": "2016",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "26629252",
+      "doi": null,
+      "year": "2016",
+      "publisher": "e-Century Publishing Corporation",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "26567107",
+      "doi": "10.1007/s12035-015-9524-4",
+      "year": "2017",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25764970",
+      "doi": "10.1038/srep09097",
+      "year": "2017",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "14600817",
+      "doi": "10.1007/s00125-003-1246-x",
+      "year": "2017",
+      "publisher": "Springer",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "28961558",
+      "doi": "10.1213/ANE.0000000000002508",
+      "year": "2017",
+      "publisher": "Wolters Kluwer",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "27352444",
+      "doi": "10.1515/rjim-2016-0018",
+      "year": "2017",
+      "publisher": "De Gruyter",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "26662316",
+      "doi": "10.1007/s13277-015-4558-9",
+      "year": "2017",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "28143646",
+      "doi": "10.1016/j.marpolbul.2017.01.045",
+      "year": "2017",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "28788903",
+      "doi": "10.1364/OE.25.013602",
+      "year": "2017",
+      "publisher": "Optica (formerly Optical Society of America -OSA-)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "21987578",
+      "doi": "10.1074/jbc.M111.255711",
+      "year": "2017",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25780874",
+      "doi": "10.3390/jfb6010104",
+      "year": "2018",
+      "publisher": "MDPI",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "26035306",
+      "doi": "10.1371/journal.pone.0128753",
+      "year": "2018",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "28003648",
+      "doi": "10.1038/hr.2016.169",
+      "year": "2018",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29940597",
+      "doi": "10.1159/000490836",
+      "year": "2018",
+      "publisher": "Karger",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "24994714",
+      "doi": "10.1158/0008-5472.CAN-14-0135",
+      "year": "2018",
+      "publisher": "American Association for Cancer Research",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "28724188",
+      "doi": "10.1002/jbt.21962",
+      "year": "2018",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25060748",
+      "doi": "10.3892/mmr.2014.2379",
+      "year": "2018",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "18056465",
+      "doi": "10.1158/0008-5472.CAN-07-2803",
+      "year": "2018",
+      "publisher": "American Association for Cancer Research",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "22719067",
+      "doi": "10.1158/0008-5472.CAN-12-1110",
+      "year": "2018",
+      "publisher": "American Association for Cancer Research",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "27839864",
+      "doi": "10.1016/j.cell.2016.10.023",
+      "year": "2018",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30078872",
+      "doi": "10.4103/ijd.IJD_474_17",
+      "year": "2019",
+      "publisher": "Wolters Kluwer - Medknow",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "21755959",
+      "doi": "10.1021/mp200127u",
+      "year": "2019",
+      "publisher": "American Chemical Society (ACS)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "26629041",
+      "doi": null,
+      "year": "2019",
+      "publisher": "e-Century Publishing Corporation",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "24629671",
+      "doi": "10.1016/j.jtemb.2014.02.001",
+      "year": "2019",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "23690773",
+      "doi": "10.1155/2013/925874",
+      "year": "2019",
+      "publisher": "Hindawi",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "29506272",
+      "doi": "10.1093/infdis/jiy116",
+      "year": "2019",
+      "publisher": "Oxford University Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30658564",
+      "doi": "10.1186/s12870-019-1643-z",
+      "year": "2019",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31730864",
+      "doi": "10.1016/j.lfs.2019.117050",
+      "year": "2019",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25029271",
+      "doi": "10.1371/journal.pone.0102195",
+      "year": "2019",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "16449323",
+      "doi": "10.1242/jcs.02784",
+      "year": "2019",
+      "publisher": "The Company of Biologists",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "23346882",
+      "doi": "10.1517/14656566.2013.763796",
+      "year": "2019",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29565496",
+      "doi": "10.26355/eurrev_201803_14481",
+      "year": "2020",
+      "publisher": "Verduci Editore",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32717776",
+      "doi": "10.1016/j.ijpsycho.2016.07.396",
+      "year": "2020",
+      "publisher": "Elsevier",
+      "is_gap": null,
+      "classification": "unresolved_pubmed_lookup_failed"
+    },
+    {
+      "pmid": "25815390",
+      "doi": "10.1161/circulationaha.114.012089",
+      "year": "2020",
+      "publisher": "American Heart Association",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "3405719",
+      "doi": "10.2466/pms.1988.66.3.927",
+      "year": "2020",
+      "publisher": "SAGE Publications",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "19372219",
+      "doi": "10.1074/jbc.M109.008078",
+      "year": "2020",
+      "publisher": "American Society for Biochemistry and Molecular Biology (ASBMB)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "20884621",
+      "doi": "10.1158/1078-0432.CCR-09-3174",
+      "year": "2020",
+      "publisher": "American Association for Cancer Research",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "31322008",
+      "doi": "10.1080/21691401.2019.1640708",
+      "year": "2020",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "18955300",
+      "doi": "10.1093/ecam/nem178",
+      "year": "2020",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31101800",
+      "doi": "10.12659/MSM.915246",
+      "year": "2020",
+      "publisher": "International Scientific Information, Inc",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30709128",
+      "doi": "10.1063/1.5079512",
+      "year": "2020",
+      "publisher": "AIP Publishing",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31094031",
+      "doi": "10.1002/ptr.6372",
+      "year": "2020",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32535660",
+      "doi": "10.1007/s00540-020-02803-w",
+      "year": "2020",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25851770",
+      "doi": "10.1161/STROKEAHA.115.008886",
+      "year": "2020",
+      "publisher": "American Heart Association",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "4118751",
+      "doi": "10.2466/pms.1972.35.3.945",
+      "year": "2020",
+      "publisher": "SAGE Publications",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "17688420",
+      "doi": "10.1042/CS20070193",
+      "year": "2020",
+      "publisher": "Portland Press",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "32649709",
+      "doi": "10.1371/journal.pone.0235755",
+      "year": "2020",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "26950165",
+      "doi": "10.1016/j.biomaterials.2016.02.025",
+      "year": "2020",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "1862181",
+      "doi": "10.2466/pr0.1991.68.2.500",
+      "year": "2020",
+      "publisher": "SAGE Publications",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30071868",
+      "doi": "10.1186/s13046-018-0857-5",
+      "year": "2021",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31456460",
+      "doi": "10.1177/2058738419872624",
+      "year": "2021",
+      "publisher": "SAGE Publications",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25136578",
+      "doi": "10.1155/2014/345678",
+      "year": "2021",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "22076676",
+      "doi": "10.3892/ijo.2011.1255",
+      "year": "2021",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31182467",
+      "doi": "10.1042/BSR20181852",
+      "year": "2021",
+      "publisher": "Portland Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "20809291",
+      "doi": "10.1007/s10495-010-0537-1",
+      "year": "2021",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "27245225",
+      "doi": "10.1186/s12906-016-1144-7",
+      "year": "2021",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29630524",
+      "doi": "10.3233/CBM-171045",
+      "year": "2021",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29068476",
+      "doi": "10.1002/jcb.26459",
+      "year": "2021",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34202529",
+      "doi": "10.3390/vaccines9070693",
+      "year": "2021",
+      "publisher": "MDPI",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "1688980",
+      "doi": null,
+      "year": "2021",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34584657",
+      "doi": "10.4103/ijpvm.IJPVM_331_19",
+      "year": "2021",
+      "publisher": "Isfahan University of Medical Sciences",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32229373",
+      "doi": "10.1016/j.envpol.2020.114428",
+      "year": "2021",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30355646",
+      "doi": "10.1042/BSR20180558",
+      "year": "2021",
+      "publisher": "Portland Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33329376",
+      "doi": "10.3389/fendo.2020.522340",
+      "year": "2021",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33347877",
+      "doi": "10.1016/j.lfs.2020.118937",
+      "year": "2021",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30551437",
+      "doi": "10.1016/j.biopha.2018.11.024",
+      "year": "2021",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29402808",
+      "doi": "10.1159/000486923",
+      "year": "2021",
+      "publisher": "Cellular Physiol Biochem Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33061603",
+      "doi": "10.2147/CMAR.S259243",
+      "year": "2021",
+      "publisher": "Taylor and Francis - Dove Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30523714",
+      "doi": "10.1080/08039488.2018.1525646",
+      "year": "2021",
+      "publisher": "Taylor and Francis",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "29943058",
+      "doi": "10.1007/s00464-018-6307-9",
+      "year": "2021",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30257250",
+      "doi": "10.1159/000493826",
+      "year": "2021",
+      "publisher": "Cellular Physiol Biochem Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34543316",
+      "doi": "10.1371/journal.pone.0256075",
+      "year": "2022",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33406049",
+      "doi": "10.2196/21408",
+      "year": "2022",
+      "publisher": "JMIR Publications",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30116351",
+      "doi": "10.3892/etm.2018.6223",
+      "year": "2022",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34934127",
+      "doi": "10.1038/s41598-021-03765-z",
+      "year": "2022",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29768255",
+      "doi": "10.1159/000489806",
+      "year": "2022",
+      "publisher": "Cellular Physiol Biochem Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34261474",
+      "doi": "10.1186/s12890-021-01600-9",
+      "year": "2022",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31778668",
+      "doi": "10.1016/j.yexmp.2022.104775",
+      "year": "2022",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "17726197",
+      "doi": "10.1136/bjsports-41-9-545",
+      "year": "2022",
+      "publisher": "BMJ Publishing",
+      "is_gap": true,
+      "classification": "gap_rw_derived_only"
+    },
+    {
+      "pmid": "35073579",
+      "doi": "10.1016/S1873-9946(10)00006-1",
+      "year": "2022",
+      "publisher": "Oxford University Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30265890",
+      "doi": "10.1016/j.jclinane.2018.09.025",
+      "year": "2022",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29701296",
+      "doi": "10.1111/cpr.12462",
+      "year": "2022",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29518613",
+      "doi": "10.1016/j.biopha.2018.02.129",
+      "year": "2022",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29295730",
+      "doi": "10.3727/096504017X15140544654946",
+      "year": "2022",
+      "publisher": "Cognizant Communication Corporation",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30745529",
+      "doi": "10.1536/ihj.18-048",
+      "year": "2022",
+      "publisher": "International Heart Journal Association",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31912578",
+      "doi": "10.1002/biof.1609",
+      "year": "2022",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25422628",
+      "doi": "10.4103/1658-354X.140919",
+      "year": "2022",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35073579",
+      "doi": "10.1016/S1873-9946(10)00006-1",
+      "year": "2022",
+      "publisher": "Oxford University Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34649303",
+      "doi": "10.1111/bjh.17883",
+      "year": "2022",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35537646",
+      "doi": "10.1016/j.biortech.2022.127275",
+      "year": "2022",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33057222",
+      "doi": "10.1038/s41586-020-2801-z",
+      "year": "2022",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31924110",
+      "doi": "10.1080/10717544.2019.1710622",
+      "year": "2022",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34580606",
+      "doi": "10.1155/2021/7006120",
+      "year": "2022",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33901218",
+      "doi": "10.1371/journal.pone.0250295",
+      "year": "2022",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30215508",
+      "doi": "10.1021/acs.bioconjchem.8b00520",
+      "year": "2022",
+      "publisher": "American Chemical Society (ACS)",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "30553220",
+      "doi": "10.1016/j.jclinane.2018.12.004",
+      "year": "2022",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30096517",
+      "doi": "10.1016/j.jclinane.2018.08.009",
+      "year": "2022",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35918466",
+      "doi": "10.1038/s41598-022-17636-8",
+      "year": "2022",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31002772",
+      "doi": "10.1016/j.yexmp.2019.04.011",
+      "year": "2022",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34961813",
+      "doi": "10.1155/2021/1766743",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35082914",
+      "doi": "10.1155/2022/7020209",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36941949",
+      "doi": "10.1155/2023/3320547",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "28381990",
+      "doi": "10.3389/fncel.2017.00084",
+      "year": "2023",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35941979",
+      "doi": "10.1155/2022/5639893",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30317225",
+      "doi": "10.18632/aging.101580",
+      "year": "2023",
+      "publisher": "Impact Journals",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35572823",
+      "doi": "10.1155/2022/7891007",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35465185",
+      "doi": "10.1155/2022/3279068",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33969654",
+      "doi": "10.25259/IJDVL_909_20",
+      "year": "2023",
+      "publisher": "Scientific Scholar, USA",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35958380",
+      "doi": "10.1155/2022/9124952",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34876896",
+      "doi": "10.1155/2021/6972192",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36285283",
+      "doi": "10.1155/2022/6890790",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34956581",
+      "doi": "10.1155/2021/9681129",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35482933",
+      "doi": "10.1111/evo.14496",
+      "year": "2023",
+      "publisher": "Oxford University Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36238677",
+      "doi": "10.1155/2022/7006506",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35096132",
+      "doi": "10.1155/2022/6112815",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36213015",
+      "doi": "10.1155/2022/2635144",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25999130",
+      "doi": "10.3892/ijmm.2015.2217",
+      "year": "2023",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "23691078",
+      "doi": "10.1371/journal.pone.0063636",
+      "year": "2023",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "23637748",
+      "doi": "10.1371/journal.pone.0060369",
+      "year": "2023",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34868900",
+      "doi": "10.3389/fonc.2021.649655",
+      "year": "2023",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32855707",
+      "doi": "10.3892/etm.2020.9046",
+      "year": "2023",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34977139",
+      "doi": "10.3389/fsurg.2021.759958",
+      "year": "2023",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35795757",
+      "doi": "10.1155/2022/8428641",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35309842",
+      "doi": "10.1155/2022/2813521",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "23456481",
+      "doi": "10.1007/s11010-013-1604-z",
+      "year": "2023",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36120147",
+      "doi": "10.1155/2022/7143786",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35465182",
+      "doi": "10.1155/2022/8931131",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34812876",
+      "doi": "10.1001/jama.2021.16685",
+      "year": "2023",
+      "publisher": "American Medical Association",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "35755755",
+      "doi": "10.1155/2022/2131125",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30040768",
+      "doi": "10.3233/RNN-180826",
+      "year": "2023",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35469226",
+      "doi": "10.1155/2022/3831705",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34712344",
+      "doi": "10.1155/2021/5873213",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36187499",
+      "doi": "10.1155/2022/3372296",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35959508",
+      "doi": "10.1155/2022/6148361",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33680415",
+      "doi": "10.1155/2021/6667046",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35855839",
+      "doi": "10.1155/2022/6882922",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30010156",
+      "doi": "10.3233/RNN-180834",
+      "year": "2023",
+      "publisher": "IOS Press (bought by Sage November 2023)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36051924",
+      "doi": "10.1155/2022/9884155",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30922919",
+      "doi": "10.1016/j.canlet.2019.03.036",
+      "year": "2023",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35198018",
+      "doi": "10.1155/2022/3816440",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35222687",
+      "doi": "10.1155/2022/6244175",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35463973",
+      "doi": "10.1155/2022/3529499",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "23626844",
+      "doi": "10.1371/journal.pone.0062669",
+      "year": "2023",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "24475975",
+      "doi": "10.1186/1471-2407-14-48",
+      "year": "2023",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35983136",
+      "doi": "10.1155/2022/1665021",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "18258793",
+      "doi": "10.1152/ajpgi.00452.2007",
+      "year": "2023",
+      "publisher": "American Physiological Society",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35371248",
+      "doi": "10.1155/2022/3975853",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "24345432",
+      "doi": "10.1186/bcr3587",
+      "year": "2023",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35251155",
+      "doi": "10.1155/2022/6711331",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36213014",
+      "doi": "10.1155/2022/4702003",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35847623",
+      "doi": "10.1155/2022/2909726",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36256238",
+      "doi": "10.1364/AO.460977",
+      "year": "2023",
+      "publisher": "Optica (formerly Optical Society of America -OSA-)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35178228",
+      "doi": "10.1155/2022/4372406",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30114636",
+      "doi": "10.1016/j.biopha.2018.07.116",
+      "year": "2023",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36212976",
+      "doi": "10.1155/2022/6153577",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35154357",
+      "doi": "10.1155/2022/2008668",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34899964",
+      "doi": "10.1155/2021/4256347",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36277875",
+      "doi": "10.1155/2022/1645204",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34949923",
+      "doi": "10.2147/IJN.S338064",
+      "year": "2023",
+      "publisher": "Taylor and Francis - Dove Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36479021",
+      "doi": "10.1155/2022/6186811",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36210980",
+      "doi": "10.1155/2022/9464633",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34240410",
+      "doi": "10.1002/jcop.22664",
+      "year": "2023",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35437446",
+      "doi": "10.1155/2022/5396840",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "21263321",
+      "doi": "10.1097/CCM.0b013e318207ea80",
+      "year": "2023",
+      "publisher": "Wolters Kluwer - Lippincott Williams & Wilkins",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36200087",
+      "doi": "10.1155/2022/3513250",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34917139",
+      "doi": "10.1155/2021/7502860",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35616696",
+      "doi": "10.1007/s00125-022-05718-1",
+      "year": "2023",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35284652",
+      "doi": "10.1002/hsr2.523",
+      "year": "2023",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35872945",
+      "doi": "10.1155/2022/5154896",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34720039",
+      "doi": "10.1080/21655979.2021.1996015",
+      "year": "2023",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35844241",
+      "doi": "10.1155/2022/2734672",
+      "year": "2023",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35924273",
+      "doi": "10.1155/2022/9722458",
+      "year": "2024",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "27686077",
+      "doi": "10.1007/s12035-016-0131-9",
+      "year": "2024",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "30675295",
+      "doi": "10.3892/ol.2018.9828",
+      "year": "2024",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33954199",
+      "doi": "10.1155/2021/8814843",
+      "year": "2024",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32919817",
+      "doi": "10.1016/j.clnu.2020.08.028",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32103359",
+      "doi": "10.1007/s00520-020-05351-x",
+      "year": "2024",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38111311",
+      "doi": "10.1080/14756366.2023.2296695",
+      "year": "2024",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "25341125",
+      "doi": "10.1021/ac502705n",
+      "year": "2024",
+      "publisher": "American Chemical Society (ACS)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36164444",
+      "doi": "10.1155/2022/7386946",
+      "year": "2024",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33302013",
+      "doi": "10.1016/j.biortech.2020.124496",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34091116",
+      "doi": "10.1016/j.intimp.2021.107828",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "35461846",
+      "doi": "10.1016/j.envres.2022.113276",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31413208",
+      "doi": "10.18632/aging.102157",
+      "year": "2024",
+      "publisher": "Impact Journals",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33108395",
+      "doi": "10.1371/journal.ppat.1009035",
+      "year": "2024",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "27330818",
+      "doi": "10.1016/j.nmni.2016.05.006",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "28550990",
+      "doi": "10.1016/j.biortech.2017.05.056",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "37068612",
+      "doi": "10.1016/j.chemosphere.2023.138635",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "28702201",
+      "doi": "10.1016/j.nmni.2017.05.005",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "37040330",
+      "doi": "10.1002/tox.23800",
+      "year": "2024",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32745816",
+      "doi": "10.1016/j.ejogrb.2020.07.029",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35782062",
+      "doi": "10.1155/2022/4085039",
+      "year": "2024",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33655711",
+      "doi": "10.1002/cam4.3726",
+      "year": "2024",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35173181",
+      "doi": "10.1038/s41598-022-05979-1",
+      "year": "2024",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33183566",
+      "doi": "10.1016/j.clnesp.2020.07.019",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38203479",
+      "doi": "10.3390/ijms25010308",
+      "year": "2024",
+      "publisher": "MDPI",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32596398",
+      "doi": "10.1155/2020/9458983",
+      "year": "2024",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "19208366",
+      "doi": "10.1053/j.gastro.2009.01.069",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29805682",
+      "doi": "10.3892/ol.2018.8554",
+      "year": "2024",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35875249",
+      "doi": "10.1155/2022/4730905",
+      "year": "2024",
+      "publisher": "Hindawi",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "34519986",
+      "doi": "10.1007/s11356-021-16360-6",
+      "year": "2024",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33430878",
+      "doi": "10.1186/s12935-020-01737-3",
+      "year": "2024",
+      "publisher": "Springer - Biomed Central (BMC)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32318966",
+      "doi": "10.1007/s10096-020-03889-6",
+      "year": "2024",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "35874662",
+      "doi": "10.3389/fimmu.2022.940228",
+      "year": "2024",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "37544244",
+      "doi": "10.1016/j.redox.2023.102837",
+      "year": "2024",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36828072",
+      "doi": "10.1016/j.scitotenv.2023.162382",
+      "year": "2025",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39823423",
+      "doi": "10.1371/journal.pone.0314589",
+      "year": "2025",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38033105",
+      "doi": "10.1371/journal.pone.0295262",
+      "year": "2025",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "32133348",
+      "doi": "10.3389/fbioe.2020.00054",
+      "year": "2025",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "24039897",
+      "doi": "10.1371/journal.pone.0073268",
+      "year": "2025",
+      "publisher": "PLoS",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38367962",
+      "doi": "10.1080/21622965.2024.2317307",
+      "year": "2025",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "37178753",
+      "doi": "10.1016/j.envres.2023.116093",
+      "year": "2025",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "29436663",
+      "doi": "10.3892/mmr.2018.8606",
+      "year": "2025",
+      "publisher": "Spandidos",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36805894",
+      "doi": "10.1016/j.envres.2023.115497",
+      "year": "2025",
+      "publisher": "Elsevier",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39601214",
+      "doi": "10.1177/15579883241296881",
+      "year": "2025",
+      "publisher": "SAGE Publications",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "37179644",
+      "doi": "10.1021/acsomega.3c00979",
+      "year": "2025",
+      "publisher": "American Chemical Society (ACS)",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38046163",
+      "doi": "10.1016/j.heliyon.2023.e22575",
+      "year": "2025",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39619588",
+      "doi": "10.1016/j.heliyon.2024.e39660",
+      "year": "2025",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39373745",
+      "doi": "10.1007/s10143-024-02986-w",
+      "year": "2025",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38223736",
+      "doi": "10.1016/j.heliyon.2023.e23151",
+      "year": "2025",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36175823",
+      "doi": "10.1007/s12035-022-03036-6",
+      "year": "2025",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "33178140",
+      "doi": "10.3389/fmicb.2020.513305",
+      "year": "2025",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39527128",
+      "doi": "10.1007/s10029-024-03191-w",
+      "year": "2025",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "37035389",
+      "doi": "10.1016/j.heliyon.2023.e14816",
+      "year": "2025",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38449636",
+      "doi": "10.1016/j.heliyon.2024.e27100",
+      "year": "2025",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "37190865",
+      "doi": "10.1111/iwj.14213",
+      "year": "2025",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39327332",
+      "doi": "10.1007/s10143-024-02927-7",
+      "year": "2025",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39361071",
+      "doi": "10.1007/s10143-024-02938-4",
+      "year": "2025",
+      "publisher": "Springer",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "38727363",
+      "doi": "10.3390/nano14090769",
+      "year": "2025",
+      "publisher": "MDPI",
+      "is_gap": true,
+      "classification": "gap_rw_only_uncorroborated"
+    },
+    {
+      "pmid": "39944322",
+      "doi": "10.1016/j.heliyon.2025.e42090",
+      "year": "2025",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "36312191",
+      "doi": "10.3389/fpsyg.2022.920192",
+      "year": "2025",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "31909681",
+      "doi": "10.1080/21655979.2020.1711626",
+      "year": "2026",
+      "publisher": "Taylor and Francis",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39498870",
+      "doi": "10.1002/advs.202408631",
+      "year": "2026",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "39679108",
+      "doi": "10.1016/j.heliyon.2024.e40365",
+      "year": "2026",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "39906865",
+      "doi": "10.1016/j.heliyon.2025.e41707",
+      "year": "2026",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "39170130",
+      "doi": "10.1016/j.heliyon.2024.e35269",
+      "year": "2026",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    },
+    {
+      "pmid": "37916114",
+      "doi": "10.1016/j.heliyon.2023.e21138",
+      "year": "2026",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "18852127",
+      "doi": "10.1158/1535-7163.MCT-08-0398",
+      "year": "2026",
+      "publisher": "American Association for Cancer Research",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "41143167",
+      "doi": "10.1002/cesm.70059",
+      "year": "2026",
+      "publisher": "Wiley",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "28326019",
+      "doi": "10.3389/fncel.2017.00067",
+      "year": "2026",
+      "publisher": "Frontiers",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "40467629",
+      "doi": "10.1038/s41598-025-00961-z",
+      "year": "2026",
+      "publisher": "Springer - Nature Publishing Group",
+      "is_gap": false,
+      "classification": "pubmed_tagged_no_gap"
+    },
+    {
+      "pmid": "37215919",
+      "doi": "10.1016/j.heliyon.2023.e15987",
+      "year": "2026",
+      "publisher": "Elsevier - Cell Press",
+      "is_gap": true,
+      "classification": "gap_independent_evidence"
+    }
+  ]
+}

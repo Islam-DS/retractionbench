@@ -1,0 +1,141 @@
+{
+  "n_responses": 362,
+  "n_clusters_overall": 24,
+  "strata": {
+    "overall_ENTAILMENT": {
+      "n": 362,
+      "n_clusters": 24,
+      "point_estimate": 0.6049723756906077,
+      "unclustered_ci": [
+        0.5552486187845304,
+        0.6546961325966851
+      ],
+      "clustered_ci": [
+        0.46686244979919683,
+        0.7292833419905244
+      ],
+      "width_unclustered": 0.09944751381215478,
+      "width_clustered": 0.2624208921913275
+    },
+    "overall_NEUTRAL": {
+      "n": 362,
+      "n_clusters": 24,
+      "point_estimate": 0.3674033149171271,
+      "unclustered_ci": [
+        0.31767955801104975,
+        0.4171270718232044
+      ],
+      "clustered_ci": [
+        0.251988867770839,
+        0.49852613028374365
+      ],
+      "width_unclustered": 0.09944751381215466,
+      "width_clustered": 0.24653726251290464
+    },
+    "overall_CONTRADICTION": {
+      "n": 362,
+      "n_clusters": 24,
+      "point_estimate": 0.027624309392265192,
+      "unclustered_ci": [
+        0.011049723756906077,
+        0.04696132596685083
+      ],
+      "clustered_ci": [
+        0.0027472527472527475,
+        0.06267049380128399
+      ],
+      "width_unclustered": 0.03591160220994475,
+      "width_clustered": 0.05992324105403125
+    },
+    "overall_not_contradiction": {
+      "n": 362,
+      "n_clusters": 24,
+      "point_estimate": 0.9723756906077348,
+      "unclustered_ci": [
+        0.9530386740331491,
+        0.988950276243094
+      ],
+      "clustered_ci": [
+        0.937329506198716,
+        0.9972527472527473
+      ],
+      "width_unclustered": 0.035911602209944826,
+      "width_clustered": 0.05992324105403124
+    },
+    "condition_retrieval_naive": {
+      "n": 196,
+      "n_clusters": 24,
+      "point_estimate": 1.0,
+      "unclustered_ci": [
+        1.0,
+        1.0
+      ],
+      "clustered_ci": [
+        1.0,
+        1.0
+      ],
+      "width_unclustered": 0.0,
+      "width_clustered": 0.0
+    },
+    "condition_retrieval_with_notice": {
+      "n": 166,
+      "n_clusters": 23,
+      "point_estimate": 0.9397590361445783,
+      "unclustered_ci": [
+        0.9034638554216881,
+        0.9759036144578314
+      ],
+      "clustered_ci": [
+        0.8666463414634148,
+        0.9938650306748467
+      ],
+      "width_unclustered": 0.0724397590361433,
+      "width_clustered": 0.12721868921143187
+    },
+    "model_openai/gpt-oss-120b": {
+      "n": 130,
+      "n_clusters": 24,
+      "point_estimate": 0.9615384615384616,
+      "unclustered_ci": [
+        0.9230769230769231,
+        0.9923076923076923
+      ],
+      "clustered_ci": [
+        0.905511811023622,
+        1.0
+      ],
+      "width_unclustered": 0.0692307692307692,
+      "width_clustered": 0.09448818897637801
+    },
+    "model_qwen2.5:7b-instruct-q4_K_M": {
+      "n": 112,
+      "n_clusters": 23,
+      "point_estimate": 0.9732142857142857,
+      "unclustered_ci": [
+        0.9375,
+        1.0
+      ],
+      "clustered_ci": [
+        0.9158878504672897,
+        1.0
+      ],
+      "width_unclustered": 0.0625,
+      "width_clustered": 0.08411214953271029
+    },
+    "model_llama3.1:8b-instruct-q4_K_M": {
+      "n": 120,
+      "n_clusters": 21,
+      "point_estimate": 0.9833333333333333,
+      "unclustered_ci": [
+        0.9583333333333334,
+        1.0
+      ],
+      "clustered_ci": [
+        0.9459459459459459,
+        1.0
+      ],
+      "width_unclustered": 0.04166666666666663,
+      "width_clustered": 0.05405405405405406
+    }
+  }
+}

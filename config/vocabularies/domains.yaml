@@ -1,0 +1,14 @@
+# Clinical domain vocabulary for BenchmarkItem.domain.
+#
+# Final for paper 1: three domains, 30 items each (90 total), set by
+# annotation cost under a fixed deadline, not by a fourth domain being
+# unusable. See docs/DECISIONS.md ADR-021 (funnel recompute), ADR-026
+# (Oncology deferred, not excluded on merit), and ADR-027 (90-item target
+# and per-domain rationale) for the full reasoning.
+#
+# Validated against at runtime by curate/; never hard-coded into src/.
+
+domains:
+  - "(HSC) Medicine - Pharmacology"
+  - "(HSC) Medicine - Obstetrics/Gynecology"
+  - "(HSC) Medicine - Rehabilitation/Therapy"

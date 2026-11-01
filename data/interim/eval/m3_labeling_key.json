@@ -1,0 +1,1052 @@
+[
+  {
+    "card_id": "R001",
+    "response_id": "RB-0013_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0013",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R002",
+    "response_id": "RB-0021_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0021",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R003",
+    "response_id": "RB-0008_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0008",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R004",
+    "response_id": "RB-0025_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0025",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R005",
+    "response_id": "RB-0008_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0008",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R006",
+    "response_id": "RB-0009_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0009",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R007",
+    "response_id": "RB-0011_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0011",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R008",
+    "response_id": "RB-0009_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0009",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R009",
+    "response_id": "RB-0007_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0007",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R010",
+    "response_id": "RB-0004_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0004",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R011",
+    "response_id": "RB-0004_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0004",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R012",
+    "response_id": "RB-0016_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0016",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R013",
+    "response_id": "RB-0001_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0001",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R014",
+    "response_id": "RB-0001_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0001",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R015",
+    "response_id": "RB-0015_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0015",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R016",
+    "response_id": "RB-0017_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0017",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R017",
+    "response_id": "RB-0023_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0023",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R018",
+    "response_id": "RB-0023_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0023",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R019",
+    "response_id": "RB-0001_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0001",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R020",
+    "response_id": "RB-0004_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0004",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R021",
+    "response_id": "RB-0001_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0001",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R022",
+    "response_id": "RB-0012_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0012",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R023",
+    "response_id": "RB-0006_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0006",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R024",
+    "response_id": "RB-0024_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0024",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R025",
+    "response_id": "RB-0011_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0011",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R026",
+    "response_id": "RB-0002_post_notice_2_openai-gpt-oss-120b",
+    "item_id": "RB-0002",
+    "model": "openai/gpt-oss-120b",
+    "seed": 2
+  },
+  {
+    "card_id": "R027",
+    "response_id": "RB-0013_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0013",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R028",
+    "response_id": "RB-0024_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0024",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R029",
+    "response_id": "RB-0001_post_notice_2_openai-gpt-oss-120b",
+    "item_id": "RB-0001",
+    "model": "openai/gpt-oss-120b",
+    "seed": 2
+  },
+  {
+    "card_id": "R030",
+    "response_id": "RB-0004_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0004",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R031",
+    "response_id": "RB-0009_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0009",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R032",
+    "response_id": "RB-0003_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0003",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R033",
+    "response_id": "RB-0019_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0019",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R034",
+    "response_id": "RB-0016_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0016",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R035",
+    "response_id": "RB-0020_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0020",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R036",
+    "response_id": "RB-0016_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0016",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R037",
+    "response_id": "RB-0023_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0023",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R038",
+    "response_id": "RB-0014_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0014",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R039",
+    "response_id": "RB-0004_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0004",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R040",
+    "response_id": "RB-0008_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0008",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R041",
+    "response_id": "RB-0003_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0003",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R042",
+    "response_id": "RB-0003_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0003",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R043",
+    "response_id": "RB-0010_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0010",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R044",
+    "response_id": "RB-0016_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0016",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R045",
+    "response_id": "RB-0015_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0015",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R046",
+    "response_id": "RB-0024_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0024",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R047",
+    "response_id": "RB-0021_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0021",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R048",
+    "response_id": "RB-0002_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0002",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R049",
+    "response_id": "RB-0021_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0021",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R050",
+    "response_id": "RB-0002_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0002",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R051",
+    "response_id": "RB-0007_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0007",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R052",
+    "response_id": "RB-0022_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0022",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R053",
+    "response_id": "RB-0024_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0024",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R054",
+    "response_id": "RB-0025_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0025",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R055",
+    "response_id": "RB-0019_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0019",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R056",
+    "response_id": "RB-0014_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0014",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R057",
+    "response_id": "RB-0011_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0011",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R058",
+    "response_id": "RB-0016_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0016",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R059",
+    "response_id": "RB-0004_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0004",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R060",
+    "response_id": "RB-0003_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0003",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R061",
+    "response_id": "RB-0012_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0012",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R062",
+    "response_id": "RB-0020_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0020",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R063",
+    "response_id": "RB-0009_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0009",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R064",
+    "response_id": "RB-0018_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0018",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R065",
+    "response_id": "RB-0007_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0007",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R066",
+    "response_id": "RB-0012_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0012",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R067",
+    "response_id": "RB-0002_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0002",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R068",
+    "response_id": "RB-0007_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0007",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R069",
+    "response_id": "RB-0017_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0017",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R070",
+    "response_id": "RB-0012_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0012",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R071",
+    "response_id": "RB-0018_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0018",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R072",
+    "response_id": "RB-0018_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0018",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R073",
+    "response_id": "RB-0002_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0002",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R074",
+    "response_id": "RB-0024_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0024",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R075",
+    "response_id": "RB-0001_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0001",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R076",
+    "response_id": "RB-0002_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0002",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R077",
+    "response_id": "RB-0021_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0021",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R078",
+    "response_id": "RB-0010_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0010",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R079",
+    "response_id": "RB-0010_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0010",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R080",
+    "response_id": "RB-0020_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0020",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R081",
+    "response_id": "RB-0015_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0015",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R082",
+    "response_id": "RB-0022_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0022",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R083",
+    "response_id": "RB-0022_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0022",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R084",
+    "response_id": "RB-0025_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0025",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R085",
+    "response_id": "RB-0009_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0009",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R086",
+    "response_id": "RB-0020_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0020",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R087",
+    "response_id": "RB-0014_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0014",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R088",
+    "response_id": "RB-0018_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0018",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R089",
+    "response_id": "RB-0023_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0023",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R090",
+    "response_id": "RB-0019_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0019",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R091",
+    "response_id": "RB-0008_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0008",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R092",
+    "response_id": "RB-0002_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0002",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R093",
+    "response_id": "RB-0019_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0019",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R094",
+    "response_id": "RB-0021_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0021",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R095",
+    "response_id": "RB-0022_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0022",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R096",
+    "response_id": "RB-0015_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0015",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R097",
+    "response_id": "RB-0014_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0014",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R098",
+    "response_id": "RB-0016_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0016",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R099",
+    "response_id": "RB-0017_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0017",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R100",
+    "response_id": "RB-0013_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0013",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R101",
+    "response_id": "RB-0013_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0013",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R102",
+    "response_id": "RB-0011_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0011",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R103",
+    "response_id": "RB-0001_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0001",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R104",
+    "response_id": "RB-0011_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0011",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R105",
+    "response_id": "RB-0020_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0020",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R106",
+    "response_id": "RB-0006_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0006",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R107",
+    "response_id": "RB-0006_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0006",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R108",
+    "response_id": "RB-0025_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0025",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R109",
+    "response_id": "RB-0003_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0003",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R110",
+    "response_id": "RB-0017_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0017",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R111",
+    "response_id": "RB-0010_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0010",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R112",
+    "response_id": "RB-0010_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0010",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R113",
+    "response_id": "RB-0020_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0020",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R114",
+    "response_id": "RB-0021_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0021",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R115",
+    "response_id": "RB-0002_post_notice_3_openai-gpt-oss-120b",
+    "item_id": "RB-0002",
+    "model": "openai/gpt-oss-120b",
+    "seed": 3
+  },
+  {
+    "card_id": "R116",
+    "response_id": "RB-0012_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0012",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R117",
+    "response_id": "RB-0006_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0006",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R118",
+    "response_id": "RB-0002_post_notice_1_openai-gpt-oss-120b",
+    "item_id": "RB-0002",
+    "model": "openai/gpt-oss-120b",
+    "seed": 1
+  },
+  {
+    "card_id": "R119",
+    "response_id": "RB-0025_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0025",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R120",
+    "response_id": "RB-0019_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0019",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R121",
+    "response_id": "RB-0007_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0007",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R122",
+    "response_id": "RB-0014_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0014",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R123",
+    "response_id": "RB-0010_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0010",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R124",
+    "response_id": "RB-0013_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0013",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R125",
+    "response_id": "RB-0015_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0015",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R126",
+    "response_id": "RB-0012_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0012",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R127",
+    "response_id": "RB-0008_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0008",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R128",
+    "response_id": "RB-0009_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0009",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R129",
+    "response_id": "RB-0015_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0015",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R130",
+    "response_id": "RB-0024_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0024",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R131",
+    "response_id": "RB-0023_post_notice_1_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0023",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R132",
+    "response_id": "RB-0001_post_notice_3_openai-gpt-oss-120b",
+    "item_id": "RB-0001",
+    "model": "openai/gpt-oss-120b",
+    "seed": 3
+  },
+  {
+    "card_id": "R133",
+    "response_id": "RB-0014_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0014",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R134",
+    "response_id": "RB-0006_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0006",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R135",
+    "response_id": "RB-0022_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0022",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R136",
+    "response_id": "RB-0007_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0007",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R137",
+    "response_id": "RB-0003_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0003",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R138",
+    "response_id": "RB-0001_post_notice_1_openai-gpt-oss-120b",
+    "item_id": "RB-0001",
+    "model": "openai/gpt-oss-120b",
+    "seed": 1
+  },
+  {
+    "card_id": "R139",
+    "response_id": "RB-0018_post_notice_2_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0018",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R140",
+    "response_id": "RB-0013_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0013",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R141",
+    "response_id": "RB-0017_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0017",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R142",
+    "response_id": "RB-0022_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0022",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R143",
+    "response_id": "RB-0011_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0011",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R144",
+    "response_id": "RB-0023_post_notice_2_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0023",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 2
+  },
+  {
+    "card_id": "R145",
+    "response_id": "RB-0017_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0017",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R146",
+    "response_id": "RB-0006_post_notice_3_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0006",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R147",
+    "response_id": "RB-0019_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0019",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R148",
+    "response_id": "RB-0018_post_notice_3_llama3.1-8b-instruct-q4_K_M",
+    "item_id": "RB-0018",
+    "model": "llama3.1:8b-instruct-q4_K_M",
+    "seed": 3
+  },
+  {
+    "card_id": "R149",
+    "response_id": "RB-0025_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0025",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  },
+  {
+    "card_id": "R150",
+    "response_id": "RB-0008_post_notice_1_qwen2.5-7b-instruct-q4_K_M",
+    "item_id": "RB-0008",
+    "model": "qwen2.5:7b-instruct-q4_K_M",
+    "seed": 1
+  }
+]

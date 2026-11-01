@@ -1,0 +1,255 @@
+# Retraction Watch reason vocabulary -- heuristic candidate screen.
+#
+# THIS IS NOT GROUND TRUTH. screen_class is a coarse pre-filter for
+# candidate selection, nothing more. The reason tag on a Retraction Watch
+# record tells us where to look; it does not tell us whether the paper's
+# claim was actually invalidated. That determination is made by a human
+# annotator reading the retraction notice text (see docs/ANNOTATION.md).
+#
+# Four classes:
+#   claim_invalidating   -- the finding's own evidentiary basis is implicated
+#   process_only         -- misconduct/procedure that doesn't itself impugn the finding
+#   procedural_metadata  -- describes the notice or investigation process, not the
+#                           paper; IGNORED entirely by tier classification
+#   ambiguous            -- genuinely characterises the paper but the implication
+#                           for the claim is unresolved from the tag alone
+#
+# Every assignment here is a judgment call, expected to be revised. Revisions
+# must bump schema_version below. Full rationale, including the exclusion
+# counts that drove the procedural_metadata split, is in docs/DECISIONS.md.
+
+schema_version: "0.1.0"
+
+reasons:
+  # --- claim_invalidating ---
+  - reason: "Unreliable Results and/or Conclusions"
+    screen_class: claim_invalidating
+  - reason: "Concerns/Issues about Data"
+    screen_class: claim_invalidating
+  - reason: "Concerns/Issues about Results and/or Conclusions"
+    screen_class: claim_invalidating
+  - reason: "Unreliable Data"
+    screen_class: claim_invalidating
+  - reason: "Error in Data"
+    screen_class: claim_invalidating
+  - reason: "Falsification/Fabrication of Data"
+    screen_class: claim_invalidating
+  - reason: "Error in Image"
+    screen_class: claim_invalidating
+  - reason: "Error in Results and/or Conclusions"
+    screen_class: claim_invalidating
+  - reason: "Error in Analyses"
+    screen_class: claim_invalidating
+  - reason: "Manipulation of Images"
+    screen_class: claim_invalidating
+  - reason: "Results Not Reproducible"
+    screen_class: claim_invalidating
+  - reason: "Falsification/Fabrication of Image"
+    screen_class: claim_invalidating
+  - reason: "Falsification/Fabrication of Results"
+    screen_class: claim_invalidating
+  - reason: "Concerns/Issues about Image"
+    screen_class: claim_invalidating
+  - reason: "Error in Cell Lines/Tissues"
+    screen_class: claim_invalidating
+  - reason: "Manipulation of Results"
+    screen_class: claim_invalidating
+  - reason: "Manipulation of Data"
+    screen_class: claim_invalidating
+  - reason: "Unreliable Image"
+    screen_class: claim_invalidating
+  - reason: "Hoax Paper"
+    screen_class: claim_invalidating
+  - reason: "Sabotage of Materials/Methods"
+    screen_class: claim_invalidating
+
+  # --- process_only ---
+  - reason: "Concerns/Issues about Referencing/Attributions"
+    screen_class: process_only
+  - reason: "Paper Mill"
+    screen_class: process_only
+  - reason: "Concerns/Issues about Peer Review"
+    screen_class: process_only
+  - reason: "Compromised Peer Review"
+    screen_class: process_only
+  - reason: "Computer-Aided Content or Computer-Generated Content"
+    screen_class: process_only
+  - reason: "Breach of Policy by Author"
+    screen_class: process_only
+  - reason: "Euphemisms for Plagiarism"
+    screen_class: process_only
+  - reason: "Duplication of/in Article"
+    screen_class: process_only
+  - reason: "Author Unresponsive"
+    screen_class: process_only
+  - reason: "Rogue Editor"
+    screen_class: process_only
+  - reason: "Concerns/Issues about Authorship/Affiliation"
+    screen_class: process_only
+  - reason: "Plagiarism of/in Article"
+    screen_class: process_only
+  - reason: "Plagiarism of Text"
+    screen_class: process_only
+  - reason: "False/Forged Authorship"
+    screen_class: process_only
+  - reason: "Conflict of Interest"
+    screen_class: process_only
+  - reason: "Duplication of Content through Error by Journal/Publisher"
+    screen_class: process_only
+  - reason: "Error by Journal/Publisher"
+    screen_class: process_only
+  - reason: "Plagiarism of Image"
+    screen_class: process_only
+  - reason: "Copyright Claims"
+    screen_class: process_only
+  - reason: "Plagiarism of Data"
+    screen_class: process_only
+  - reason: "Lack of Approval from Author"
+    screen_class: process_only
+  - reason: "Duplication of Text"
+    screen_class: process_only
+  - reason: "Withdrawn to Publish in Different Journal"
+    screen_class: process_only
+  - reason: "Lack of Approval from Third Party"
+    screen_class: process_only
+  - reason: "Taken from Dissertation/Thesis"
+    screen_class: process_only
+  - reason: "Lack of Approval from Company/Institution"
+    screen_class: process_only
+  - reason: "False/Forged Affiliation"
+    screen_class: process_only
+  - reason: "Transfer of Copyright and/or Ownership"
+    screen_class: process_only
+  - reason: "Not Presented at Conference"
+    screen_class: process_only
+  - reason: "Salami Slicing"
+    screen_class: process_only
+  - reason: "Miscommunication with/by Author"
+    screen_class: process_only
+  - reason: "Miscommunication with/by Journal/Publisher"
+    screen_class: process_only
+  - reason: "Miscommunication with/by Third Party"
+    screen_class: process_only
+  - reason: "Miscommunication with/by Company/Institution"
+    screen_class: process_only
+  - reason: "Nonpayment of Fees and/or Refusal to Pay"
+    screen_class: process_only
+
+  # --- procedural_metadata ---
+  - reason: "Investigation by Journal/Publisher"
+    screen_class: procedural_metadata
+  - reason: "Investigation by Third Party"
+    screen_class: procedural_metadata
+  - reason: "Investigation by Company/Institution"
+    screen_class: procedural_metadata
+  - reason: "Investigation by ORI"
+    screen_class: procedural_metadata
+  - reason: "Misconduct - Official Investigation(s) and/or Finding(s)"
+    screen_class: procedural_metadata
+  - reason: "Date of Article and/or Notice Unknown"
+    screen_class: procedural_metadata
+  - reason: "Removed"
+    screen_class: procedural_metadata
+  - reason: "Upgrade/Update of Prior Notice(s)"
+    screen_class: procedural_metadata
+  - reason: "Updated to Retraction"
+    screen_class: procedural_metadata
+  - reason: "Updated to Correction"
+    screen_class: procedural_metadata
+  - reason: "Updated to Expression of Concern"
+    screen_class: procedural_metadata
+  - reason: "EOC Lifted"
+    screen_class: procedural_metadata
+  - reason: "Notice - Lack of"
+    screen_class: procedural_metadata
+  - reason: "Temporary Removal"
+    screen_class: procedural_metadata
+  - reason: "Retract and Replace"
+    screen_class: procedural_metadata
+  - reason: "Cites Retracted Work"
+    screen_class: procedural_metadata
+  - reason: "Notice - Limited or No Information"
+    screen_class: procedural_metadata
+  - reason: "Notice - Unable to Access via current resources"
+    screen_class: procedural_metadata
+  - reason: "Publishing Ban"
+    screen_class: procedural_metadata
+  - reason: "No Further Action"
+    screen_class: procedural_metadata
+
+  # --- ambiguous ---
+  - reason: "Misconduct by Author"
+    screen_class: ambiguous
+  - reason: "Misconduct by Third Party"
+    screen_class: ambiguous
+  - reason: "Misconduct by Company/Institution"
+    screen_class: ambiguous
+  - reason: "Euphemisms for Misconduct"
+    screen_class: ambiguous
+  - reason: "Objections by Author(s)"
+    screen_class: ambiguous
+  - reason: "Objections by Third Party"
+    screen_class: ambiguous
+  - reason: "Objections by Company/Institution"
+    screen_class: ambiguous
+  - reason: "Complaints about Author"
+    screen_class: ambiguous
+  - reason: "Complaints about Third Party"
+    screen_class: ambiguous
+  - reason: "Complaints about Company/Institution"
+    screen_class: ambiguous
+  - reason: "Ethical Violations by Author"
+    screen_class: ambiguous
+  - reason: "Ethical Violations by Company/Institution/Third Party"
+    screen_class: ambiguous
+  - reason: "Concerns/Issues about Third Party Involvement"
+    screen_class: ambiguous
+  - reason: "Concerns/Issues about Article"
+    screen_class: ambiguous
+  - reason: "Legal Reasons and/or Threats"
+    screen_class: ambiguous
+  - reason: "Civil Proceedings"
+    screen_class: ambiguous
+  - reason: "Criminal Proceedings"
+    screen_class: ambiguous
+  - reason: "Error by Third Party"
+    screen_class: ambiguous
+  - reason: "Error in Text"
+    screen_class: ambiguous
+  - reason: "Bias Issues or Lack of Balance"
+    screen_class: ambiguous
+  - reason: "Taken via Peer Review"
+    screen_class: ambiguous
+  - reason: "Taken via Translation"
+    screen_class: ambiguous
+  - reason: "Doing the Right Thing"
+    screen_class: ambiguous
+  - reason: "Duplication of/in Image"
+    screen_class: ambiguous
+  - reason: "Duplication of Data"
+    screen_class: ambiguous
+  - reason: "Euphemisms for Duplication"
+    screen_class: ambiguous
+  - reason: "Lack of IRB/IACUC Approval and/or Compliance"
+    screen_class: ambiguous
+  - reason: "Informed/Patient Consent - None/Withdrawn"
+    screen_class: ambiguous
+  - reason: "Concerns/Issues about Human Subject Welfare"
+    screen_class: ambiguous
+  - reason: "Concerns/Issues about Animal Welfare"
+    screen_class: ambiguous
+  - reason: "Original Data and/or Images not Provided and/or not Available"
+    screen_class: ambiguous
+  - reason: "Withdrawn as Out of Date"
+    screen_class: ambiguous
+  - reason: "Error in Methods"
+    screen_class: ambiguous
+  - reason: "Concerns/Issues about Methods"
+    screen_class: ambiguous
+  - reason: "Error in Materials"
+    screen_class: ambiguous
+  - reason: "Contamination of Cell Lines/Tissues"
+    screen_class: ambiguous
+  - reason: "Contamination of Materials"
+    screen_class: ambiguous
+

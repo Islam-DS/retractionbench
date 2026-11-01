@@ -1,0 +1,135 @@
+{
+  "n_items_with_current_answer": 15,
+  "n_no_evidence_recorded": 0,
+  "n_not_indexed": 0,
+  "n_indexed_and_measured": 15,
+  "recall_at": {
+    "1": 0.06666666666666667,
+    "3": 0.5333333333333333,
+    "5": 0.5333333333333333,
+    "10": 0.6,
+    "20": 0.6
+  },
+  "per_item": [
+    {
+      "item_id": "RB-0001",
+      "domain": "(HSC) Medicine - Pharmacology",
+      "status": "indexed",
+      "rank": 56,
+      "n_evidence_entries": 2,
+      "n_indexed_entries": 2
+    },
+    {
+      "item_id": "RB-0002",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 3,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0006",
+      "domain": "(HSC) Medicine - Pharmacology",
+      "status": "indexed",
+      "rank": 2,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0008",
+      "domain": "(HSC) Medicine - Pharmacology",
+      "status": "indexed",
+      "rank": 3,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0009",
+      "domain": "(HSC) Medicine - Rehabilitation/Therapy",
+      "status": "indexed",
+      "rank": 27,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0010",
+      "domain": "(HSC) Medicine - Pharmacology",
+      "status": "indexed",
+      "rank": 253313,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0012",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 81153,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0013",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 7941,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0014",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 3,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0017",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 3,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0018",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 3,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0021",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 3,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0022",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 10,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0026",
+      "domain": "(HSC) Medicine - Pharmacology",
+      "status": "indexed",
+      "rank": 29,
+      "n_evidence_entries": 1,
+      "n_indexed_entries": 1
+    },
+    {
+      "item_id": "RB-0027",
+      "domain": "(HSC) Medicine - Obstetrics/Gynecology",
+      "status": "indexed",
+      "rank": 1,
+      "n_evidence_entries": 2,
+      "n_indexed_entries": 2
+    }
+  ]
+}

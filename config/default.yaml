@@ -1,0 +1,23 @@
+# Default configuration for RetractionBench.
+# Placeholder sections only -- populated as each component is implemented.
+# Non-secret settings live here; credentials live in .env (see .env.example).
+
+paths:
+  data_raw: data/raw
+  data_interim: data/interim
+  benchmark_items: data/benchmark/items.jsonl
+  results: results
+
+retrieval:
+  # Filled in when src/retraction_bench/corpus/ is implemented.
+  embedding_model: null
+  top_k: null
+
+models:
+  # litellm-style model identifiers to evaluate. Empty until Phase 2+.
+  candidates: []
+
+evaluation:
+  # Filled in when src/retraction_bench/eval/ and stats/ are implemented.
+  seeds: []
+  bootstrap_iterations: null
