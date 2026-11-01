@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This license covers the source code in this repository (everything under
-`src/`, `tests/`, and other code/config files). The benchmark dataset itself
-(`data/benchmark/`, `data/human/`) is licensed separately under CC-BY-4.0 —
-see DATA_LICENSE.
